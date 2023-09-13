@@ -1,0 +1,20 @@
+baseURL = "https://es.shoogle.net/castilla-y-leon/"
+languageCode = "es"
+title = "Castilla y León"
+theme = "ln-base"
+
+disableKinds = ["RSS", "robotsTXT"]
+enableGitInfo = true
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "castilla-y-leon"
+
+[taxonomies]
+  shop = "shops"
+
