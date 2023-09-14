@@ -1,5 +1,5 @@
 ---
 title: "ONCE"
-url: /valladolid/once/
+url: /valladolid/once-calle-de-santiago/
 shop: lotería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferretería J. Calles"
-url: /vitigudino/ferreteria-j-calles/
+url: /vitigudino/ferreteria-j-calles-calle-honda/
 shop: hardware
 ---

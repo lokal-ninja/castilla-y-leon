@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
-url: /medina-del-campo/eroski/
+url: /medina-del-campo/eroski-carretera-de-penaranda/
 shop: supermercado
 ---

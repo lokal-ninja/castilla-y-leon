@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
-url: /valladolid/mercadona/
+url: /valladolid/mercadona-paseo-del-cauce/
 shop: supermercado
 ---

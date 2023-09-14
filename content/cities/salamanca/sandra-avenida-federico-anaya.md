@@ -1,5 +1,5 @@
 ---
 title: "Sandra"
-url: /salamanca/sandra/
+url: /salamanca/sandra-avenida-federico-anaya/
 shop: panadería
 ---

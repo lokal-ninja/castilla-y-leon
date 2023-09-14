@@ -1,5 +1,5 @@
 ---
 title: "Alcampo"
-url: /palencia/alcampo/
+url: /palencia/alcampo-avenida-de-asturias/
 shop: supermercado
 ---

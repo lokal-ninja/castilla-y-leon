@@ -1,5 +1,5 @@
 ---
 title: "La Tahona"
-url: /salamanca/la-tahona/
+url: /salamanca/la-tahona-paseo-de-carmelitas/
 shop: panadería
 ---

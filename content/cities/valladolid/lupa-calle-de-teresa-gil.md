@@ -1,5 +1,5 @@
 ---
 title: "Lupa"
-url: /valladolid/lupa/
+url: /valladolid/lupa-calle-de-teresa-gil/
 shop: supermercado
 ---

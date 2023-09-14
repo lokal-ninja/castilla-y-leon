@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
-url: /valladolid/mercadona/
+url: /valladolid/mercadona-calle-de-los-curtidores/
 shop: supermercado
 ---

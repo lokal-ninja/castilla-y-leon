@@ -1,5 +1,5 @@
 ---
 title: "Alcampo"
-url: /ponferrada/alcampo/
+url: /ponferrada/alcampo-avenida-del-castillo/
 shop: supermercado
 ---

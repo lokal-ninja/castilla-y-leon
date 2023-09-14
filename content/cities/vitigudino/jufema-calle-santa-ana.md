@@ -1,5 +1,5 @@
 ---
 title: "JUFEMA"
-url: /vitigudino/jufema/
+url: /vitigudino/jufema-calle-santa-ana/
 shop: hardware
 ---

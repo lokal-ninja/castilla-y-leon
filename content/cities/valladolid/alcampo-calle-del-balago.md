@@ -1,5 +1,5 @@
 ---
 title: "Alcampo"
-url: /valladolid/alcampo/
+url: /valladolid/alcampo-calle-del-balago/
 shop: supermercado
 ---

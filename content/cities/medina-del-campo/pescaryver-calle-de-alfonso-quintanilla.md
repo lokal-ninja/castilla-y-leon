@@ -1,5 +1,5 @@
 ---
 title: "Pescaryver"
-url: /medina-del-campo/pescaryver/
+url: /medina-del-campo/pescaryver-calle-de-alfonso-quintanilla/
 shop: marisco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alimerka"
-url: /ponferrada/alimerka/
+url: /ponferrada/alimerka-calle-eladia-baylina/
 shop: supermercado
 ---

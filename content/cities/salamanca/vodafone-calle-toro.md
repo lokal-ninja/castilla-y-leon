@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /salamanca/vodafone/
+url: /salamanca/vodafone-calle-toro/
 shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dia"
-url: /ponferrada/dia/
+url: /ponferrada/dia-avenida-de-portugal/
 shop: supermercado
 ---

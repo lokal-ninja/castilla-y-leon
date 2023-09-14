@@ -1,5 +1,5 @@
 ---
 title: "Zara"
-url: /salamanca/zara/
+url: /salamanca/zara-calle-toro/
 shop: ropa
 ---

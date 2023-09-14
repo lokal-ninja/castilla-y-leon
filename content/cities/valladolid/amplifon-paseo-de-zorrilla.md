@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
-url: /valladolid/amplifon/
+url: /valladolid/amplifon-paseo-de-zorrilla/
 shop: audífonos
 ---

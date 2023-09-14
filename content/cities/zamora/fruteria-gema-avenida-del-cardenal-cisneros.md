@@ -1,5 +1,5 @@
 ---
 title: "Frutería Gema"
-url: /zamora/fruteria-gema/
+url: /zamora/fruteria-gema-avenida-del-cardenal-cisneros/
 shop: frutería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Orange"
-url: /salamanca/orange/
+url: /salamanca/orange-calle-toro/
 shop: teléfono móvil
 ---

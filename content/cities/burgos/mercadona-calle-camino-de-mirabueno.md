@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
-url: /burgos/mercadona/
+url: /burgos/mercadona-calle-camino-de-mirabueno/
 shop: supermercado
 ---

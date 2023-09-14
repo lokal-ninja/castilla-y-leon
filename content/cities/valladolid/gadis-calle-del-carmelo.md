@@ -1,5 +1,5 @@
 ---
 title: "Gadis"
-url: /valladolid/gadis/
+url: /valladolid/gadis-calle-del-carmelo/
 shop: supermercado
 ---

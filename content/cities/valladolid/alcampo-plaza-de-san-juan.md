@@ -1,5 +1,5 @@
 ---
 title: "Alcampo"
-url: /valladolid/alcampo/
+url: /valladolid/alcampo-plaza-de-san-juan/
 shop: supermercado
 ---

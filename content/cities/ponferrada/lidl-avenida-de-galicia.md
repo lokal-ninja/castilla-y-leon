@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /ponferrada/lidl/
+url: /ponferrada/lidl-avenida-de-galicia/
 shop: supermercado
 ---

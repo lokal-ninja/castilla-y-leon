@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
-url: /valladolid/carrefour/
+url: /valladolid/carrefour-avenida-de-palencia/
 shop: supermercado
 ---
