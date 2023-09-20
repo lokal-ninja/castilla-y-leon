@@ -1,6 +1,6 @@
 ---
-title: Villarramiel
+title: villarramiel
 url: /villarramiel/
-latitude: 42.044
+latitude: 42.042
 longitude: -4.91
 ---
