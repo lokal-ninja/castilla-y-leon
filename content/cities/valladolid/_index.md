@@ -1,6 +1,6 @@
 ---
 title: Valladolid
 url: /valladolid/
-latitude: 41.655
-longitude: -4.724
+latitude: 41.652
+longitude: -4.744
 ---

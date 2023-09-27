@@ -1,6 +1,6 @@
 ---
 title: Béjar
 url: /bejar/
-latitude: 40.385
-longitude: -5.763
+latitude: 40.387
+longitude: -5.767
 ---
