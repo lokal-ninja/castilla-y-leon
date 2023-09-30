@@ -1,6 +1,6 @@
 ---
 title: Villamuriel de Cerrato
 url: /villamuriel-de-cerrato/
-latitude: 41.954
-longitude: -4.515
+latitude: 41.948
+longitude: -4.514
 ---

@@ -1,6 +1,6 @@
 ---
 title: Arévalo
 url: /arevalo/
-latitude: 41.063
-longitude: -4.719
+latitude: 41.058
+longitude: -4.72
 ---

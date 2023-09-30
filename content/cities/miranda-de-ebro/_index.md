@@ -1,6 +1,6 @@
 ---
 title: Miranda de Ebro
 url: /miranda-de-ebro/
-latitude: 42.678
-longitude: -2.968
+latitude: 42.687
+longitude: -2.941
 ---

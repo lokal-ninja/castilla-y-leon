@@ -1,6 +1,6 @@
 ---
-title: Cuéllar
+title: Cuellar
 url: /cuellar/
-latitude: 41.399
-longitude: -4.312
+latitude: 41.397
+longitude: -4.307
 ---

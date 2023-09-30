@@ -1,6 +1,6 @@
 ---
 title: Carbonero El Mayor
 url: /carbonero-el-mayor/
-latitude: 41.118
-longitude: -4.264
+latitude: 41.12
+longitude: -4.265
 ---
