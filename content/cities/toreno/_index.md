@@ -1,6 +1,6 @@
 ---
 title: Toreno
 url: /toreno/
-latitude: 42.692
-longitude: -6.51
+latitude: 42.696
+longitude: -6.516
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fabero
 url: /fabero/
-latitude: 42.763
-longitude: -6.632
+latitude: 42.775
+longitude: -6.619
 ---
