@@ -1,5 +1,5 @@
 ---
 title: "Salvador Artesano"
 url: /medina-del-campo/salvador-artesano/
-shop: ropa
+shop: zapatos
 ---

@@ -1,6 +1,6 @@
 ---
 title: Palencia
 url: /palencia/
-latitude: 42.009
-longitude: -4.528
+latitude: 41.992
+longitude: -4.521
 ---
