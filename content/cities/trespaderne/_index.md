@@ -1,6 +1,6 @@
 ---
 title: Trespaderne
 url: /trespaderne/
-latitude: 42.803
-longitude: -3.392
+latitude: 42.802
+longitude: -3.391
 ---
