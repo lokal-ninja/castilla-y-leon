@@ -1,6 +1,6 @@
 ---
 title: Peñaparda
 url: /penaparda/
-latitude: 40.32
-longitude: -6.672
+latitude: 40.321
+longitude: -6.67
 ---
