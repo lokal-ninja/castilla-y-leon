@@ -1,5 +1,5 @@
 ---
 title: "Dia"
-url: /salamanca/dia-calle-arapiles/
+url: /palencia/dia-avenida-de-madrid/
 shop: supermercado
 ---
