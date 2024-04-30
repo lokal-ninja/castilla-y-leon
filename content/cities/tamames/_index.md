@@ -2,5 +2,5 @@
 title: Tamames
 url: /tamames/
 latitude: 40.658
-longitude: -6.106
+longitude: -6.107
 ---
