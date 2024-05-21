@@ -1,5 +1,5 @@
 ---
 title: "Carlin"
-url: /salamanca/carlin-paseo-de-canalejas/
+url: /salamanca/carlin-avenida-de-portugal/
 shop: material de oficina
 ---
