@@ -1,6 +1,6 @@
 ---
 title: Ponferrada
 url: /ponferrada/
-latitude: 42.552
-longitude: -6.57
+latitude: 42.548
+longitude: -6.601
 ---
