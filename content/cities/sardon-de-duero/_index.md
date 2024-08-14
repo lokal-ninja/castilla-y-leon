@@ -1,6 +1,6 @@
 ---
 title: Sardón de Duero
 url: /sardon-de-duero/
-latitude: 41.617
-longitude: -4.416
+latitude: 41.607
+longitude: -4.435
 ---
