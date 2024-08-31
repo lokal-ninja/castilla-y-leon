@@ -1,6 +1,6 @@
 ---
 title: Salamanca
 url: /salamanca/
-latitude: 40.95
-longitude: -5.671
+latitude: 40.971
+longitude: -5.672
 ---
