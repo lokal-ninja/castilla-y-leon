@@ -1,5 +1,5 @@
 ---
 title: "Silvia Herrán"
 url: /burgos/silvia-herran/
-shop: peluquería
+shop: Friseur
 ---

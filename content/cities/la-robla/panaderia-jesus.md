@@ -1,5 +1,5 @@
 ---
 title: "Panadería Jesús"
 url: /la-robla/panaderia-jesus/
-shop: panadería
+shop: Bäckerei
 ---

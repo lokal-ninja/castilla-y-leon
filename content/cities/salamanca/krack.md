@@ -1,5 +1,5 @@
 ---
 title: "Krack"
 url: /salamanca/krack/
-shop: zapatos
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sandra"
 url: /salamanca/sandra/
-shop: frutería
+shop: Gemüse & Obst
 ---

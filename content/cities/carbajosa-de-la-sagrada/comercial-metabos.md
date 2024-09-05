@@ -1,5 +1,5 @@
 ---
 title: "Comercial Metabos"
 url: /carbajosa-de-la-sagrada/comercial-metabos/
-shop: hardware
+shop: Eisenwaren
 ---

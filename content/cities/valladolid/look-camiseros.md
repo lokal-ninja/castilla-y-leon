@@ -1,5 +1,5 @@
 ---
 title: "Look camiseros"
 url: /valladolid/look-camiseros/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Sonrisa"
 url: /salamanca/la-sonrisa/
-shop: frutería
+shop: Gemüse & Obst
 ---

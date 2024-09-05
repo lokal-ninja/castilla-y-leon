@@ -1,5 +1,5 @@
 ---
 title: "Aralma Pinturas"
 url: /burgos/aralma-pinturas/
-shop: pintura
+shop: Farben
 ---

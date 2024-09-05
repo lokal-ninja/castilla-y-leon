@@ -1,5 +1,5 @@
 ---
 title: "Mercedes Bernal"
 url: /salamanca/mercedes-bernal/
-shop: cosméticos
+shop: Kosmetik
 ---

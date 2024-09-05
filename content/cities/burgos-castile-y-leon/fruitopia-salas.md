@@ -1,5 +1,5 @@
 ---
 title: "Fruitopía Salas"
 url: /burgos-castile-y-leon/fruitopia-salas/
-shop: frutería
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /mayorga/dia/
-shop: supermercado
+shop: Supermarkt
 ---

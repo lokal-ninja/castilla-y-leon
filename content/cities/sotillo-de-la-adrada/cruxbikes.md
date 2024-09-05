@@ -1,5 +1,5 @@
 ---
 title: "Cruxbikes"
 url: /sotillo-de-la-adrada/cruxbikes/
-shop: bicicleta
+shop: Fahrrad
 ---

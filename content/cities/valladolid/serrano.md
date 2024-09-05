@@ -1,5 +1,5 @@
 ---
 title: "Serrano"
 url: /valladolid/serrano/
-shop: frutería
+shop: Gemüse & Obst
 ---

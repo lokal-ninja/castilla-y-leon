@@ -1,5 +1,5 @@
 ---
 title: "Regi"
 url: /almazan/regi/
-shop: cama
+shop: Betten
 ---

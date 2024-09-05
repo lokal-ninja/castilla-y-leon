@@ -1,5 +1,5 @@
 ---
 title: "Tradys"
 url: /mijares/tradys/
-shop: supermercado
+shop: Supermarkt
 ---

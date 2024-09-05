@@ -1,5 +1,5 @@
 ---
 title: "Díez"
 url: /valladolid/diez/
-shop: joyería
+shop: Schmuck
 ---

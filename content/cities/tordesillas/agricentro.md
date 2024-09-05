@@ -1,5 +1,5 @@
 ---
 title: "Agricentro"
 url: /tordesillas/agricentro/
-shop: agraria
+shop: Landwirtschaftlich
 ---

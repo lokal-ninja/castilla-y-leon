@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /salamanca/vodafone/
-shop: teléfono móvil
+shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /carbajosa-de-la-sagrada/dia/
-shop: supermercado
+shop: Supermarkt
 ---

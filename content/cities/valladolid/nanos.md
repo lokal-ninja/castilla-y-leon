@@ -1,5 +1,5 @@
 ---
 title: "Nanos"
 url: /valladolid/nanos/
-shop: ropa
+shop: Kleidung
 ---

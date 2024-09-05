@@ -1,5 +1,5 @@
 ---
 title: "Suma"
 url: /almazan/suma/
-shop: supermercado
+shop: Supermarkt
 ---

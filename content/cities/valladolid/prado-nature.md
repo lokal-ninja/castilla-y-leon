@@ -1,5 +1,5 @@
 ---
 title: "Prado Nature"
 url: /valladolid/prado-nature/
-shop: mascotas
+shop: Tiere
 ---

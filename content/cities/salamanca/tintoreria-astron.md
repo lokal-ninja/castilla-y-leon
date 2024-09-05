@@ -1,5 +1,5 @@
 ---
 title: "Tintorería Astron"
 url: /salamanca/tintoreria-astron/
-shop: lavandería
+shop: Wäscherei
 ---

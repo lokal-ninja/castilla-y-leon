@@ -1,5 +1,5 @@
 ---
 title: "Alcampo"
 url: /salamanca/alcampo/
-shop: supermercado
+shop: Supermarkt
 ---

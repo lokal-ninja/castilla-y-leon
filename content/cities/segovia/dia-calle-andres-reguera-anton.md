@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /segovia/dia-calle-andres-reguera-anton/
-shop: supermercado
+shop: Supermarkt
 ---

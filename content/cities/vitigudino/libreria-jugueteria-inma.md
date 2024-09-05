@@ -1,5 +1,5 @@
 ---
 title: "Librería juguetería Inma"
 url: /vitigudino/libreria-jugueteria-inma/
-shop: libros
+shop: Bücher
 ---

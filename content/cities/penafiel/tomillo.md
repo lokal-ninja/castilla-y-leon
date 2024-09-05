@@ -1,5 +1,5 @@
 ---
 title: "Tomillo"
 url: /penafiel/tomillo/
-shop: regalo
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /navaluenga/dia/
-shop: supermercado
+shop: Supermarkt
 ---

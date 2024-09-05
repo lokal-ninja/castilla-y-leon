@@ -1,5 +1,5 @@
 ---
 title: "Eride"
 url: /burgos/eride/
-shop: cosméticos
+shop: Kosmetik
 ---

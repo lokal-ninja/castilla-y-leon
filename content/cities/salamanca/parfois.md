@@ -1,5 +1,5 @@
 ---
 title: "Parfois"
 url: /salamanca/parfois/
-shop: ropa
+shop: Kleidung
 ---

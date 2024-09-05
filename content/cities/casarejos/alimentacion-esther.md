@@ -1,5 +1,5 @@
 ---
 title: "Alimentación Esther"
 url: /casarejos/alimentacion-esther/
-shop: comodidad
+shop: Lebensmittel
 ---

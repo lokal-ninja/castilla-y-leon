@@ -1,5 +1,5 @@
 ---
 title: "Confitería Pili"
 url: /ponferrada/confiteria-pili/
-shop: pastelería
+shop: Konditorei
 ---

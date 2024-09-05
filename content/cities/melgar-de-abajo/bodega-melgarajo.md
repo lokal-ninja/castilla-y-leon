@@ -1,5 +1,5 @@
 ---
 title: "Bodega Melgarajo"
 url: /melgar-de-abajo/bodega-melgarajo/
-shop: vino
+shop: Wein
 ---

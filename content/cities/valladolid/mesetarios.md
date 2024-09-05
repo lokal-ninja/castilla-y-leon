@@ -1,5 +1,5 @@
 ---
 title: "Mesetarios"
 url: /valladolid/mesetarios/
-shop: charcutería
+shop: Feinkost
 ---

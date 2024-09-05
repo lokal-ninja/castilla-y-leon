@@ -1,5 +1,5 @@
 ---
 title: "Rituals"
 url: /salamanca/rituals/
-shop: cosméticos
+shop: Kosmetik
 ---

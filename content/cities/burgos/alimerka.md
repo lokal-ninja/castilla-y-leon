@@ -1,5 +1,5 @@
 ---
 title: "Alimerka"
 url: /burgos/alimerka/
-shop: supermercado
+shop: Supermarkt
 ---

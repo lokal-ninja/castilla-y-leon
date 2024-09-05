@@ -1,5 +1,5 @@
 ---
 title: "Cosetodo"
 url: /valladolid/cosetodo/
-shop: tela
+shop: Textil
 ---

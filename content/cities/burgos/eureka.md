@@ -1,5 +1,5 @@
 ---
 title: "Eureka"
 url: /burgos/eureka/
-shop: electrónica
+shop: Elektronik
 ---

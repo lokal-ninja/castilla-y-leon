@@ -1,5 +1,5 @@
 ---
 title: "Motos Dakar"
 url: /salamanca/motos-dakar/
-shop: motocicleta
+shop: Motorrad
 ---

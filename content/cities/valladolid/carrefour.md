@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /valladolid/carrefour/
-shop: supermercado
+shop: Supermarkt
 ---

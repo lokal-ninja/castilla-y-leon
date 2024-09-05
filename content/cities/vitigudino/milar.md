@@ -1,5 +1,5 @@
 ---
 title: "Milar"
 url: /vitigudino/milar/
-shop: electrónica
+shop: Elektronik
 ---

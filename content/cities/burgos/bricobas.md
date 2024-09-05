@@ -1,5 +1,5 @@
 ---
 title: "Bricobas"
 url: /burgos/bricobas/
-shop: artesanía
+shop: Basteln
 ---

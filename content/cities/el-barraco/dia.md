@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /el-barraco/dia/
-shop: supermercado
+shop: Supermarkt
 ---

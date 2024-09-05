@@ -1,5 +1,5 @@
 ---
 title: "Catuysa"
 url: /guijuelo/catuysa/
-shop: muebles
+shop: Möbel
 ---

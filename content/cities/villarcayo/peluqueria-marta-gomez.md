@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Marta Gómez"
 url: /villarcayo/peluqueria-marta-gomez/
-shop: peluquería
+shop: Friseur
 ---

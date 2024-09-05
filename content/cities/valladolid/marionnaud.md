@@ -1,5 +1,5 @@
 ---
 title: "Marionnaud"
 url: /valladolid/marionnaud/
-shop: perfumería
+shop: Parfümerie
 ---

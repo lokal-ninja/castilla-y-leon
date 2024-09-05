@@ -1,5 +1,5 @@
 ---
 title: "La casa blanca"
 url: /salamanca/la-casa-blanca/
-shop: arte
+shop: Kunst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "José Antonio Mena"
 url: /medina-del-campo/jose-antonio-mena/
-shop: ropa
+shop: Kleidung
 ---

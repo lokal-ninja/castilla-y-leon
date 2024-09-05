@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /boceguillas/dia/
-shop: supermercado
+shop: Supermarkt
 ---

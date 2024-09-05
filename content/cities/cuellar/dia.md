@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /cuellar/dia/
-shop: supermercado
+shop: Supermarkt
 ---

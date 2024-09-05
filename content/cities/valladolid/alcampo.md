@@ -1,5 +1,5 @@
 ---
 title: "Alcampo"
 url: /valladolid/alcampo/
-shop: supermercado
+shop: Supermarkt
 ---

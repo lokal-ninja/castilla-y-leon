@@ -1,5 +1,5 @@
 ---
 title: "Herminio García Notario"
 url: /vitigudino/herminio-garcia-notario/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Deante"
 url: /valladolid/deante/
-shop: cerrajero
+shop: Schlüsseldienst
 ---

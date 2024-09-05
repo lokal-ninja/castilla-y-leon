@@ -1,5 +1,5 @@
 ---
 title: "K2 Planet"
 url: /leon/k2-planet/
-shop: exterior
+shop: Outdoor
 ---

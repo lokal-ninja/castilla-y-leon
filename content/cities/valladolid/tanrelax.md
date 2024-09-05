@@ -1,5 +1,5 @@
 ---
 title: "TanRelax"
 url: /valladolid/tanrelax/
-shop: cosméticos
+shop: Kosmetik
 ---

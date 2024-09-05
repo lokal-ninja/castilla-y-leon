@@ -1,5 +1,5 @@
 ---
 title: "Charm"
 url: /salamanca/charm/
-shop: joyería
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Felipa"
 url: /el-payo/supermercado-felipa/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Agro Almazán (Cerrado)"
 url: /almazan/agro-almazan-cerrado/
-shop: mascotas
+shop: Tiere
 ---

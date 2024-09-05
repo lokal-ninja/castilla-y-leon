@@ -1,5 +1,5 @@
 ---
 title: "Confecciones Viti"
 url: /vitigudino/confecciones-viti/
-shop: ropa
+shop: Kleidung
 ---

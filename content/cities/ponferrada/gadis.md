@@ -1,5 +1,5 @@
 ---
 title: "Gadis"
 url: /ponferrada/gadis/
-shop: supermercado
+shop: Supermarkt
 ---

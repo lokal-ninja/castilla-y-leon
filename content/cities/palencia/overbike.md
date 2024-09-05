@@ -1,5 +1,5 @@
 ---
 title: "Overbike"
 url: /palencia/overbike/
-shop: bicicleta
+shop: Fahrrad
 ---

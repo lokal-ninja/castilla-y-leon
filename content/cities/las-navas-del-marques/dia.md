@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /las-navas-del-marques/dia/
-shop: supermercado
+shop: Supermarkt
 ---

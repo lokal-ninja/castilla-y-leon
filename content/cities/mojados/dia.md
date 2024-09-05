@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /mojados/dia/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /valladolid/kia/
-shop: coche
+shop: Autohaus
 ---

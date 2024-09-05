@@ -1,5 +1,5 @@
 ---
 title: "Reparación rápida Luis"
 url: /vitigudino/reparacion-rapida-luis/
-shop: zapatos
+shop: Schuhe
 ---

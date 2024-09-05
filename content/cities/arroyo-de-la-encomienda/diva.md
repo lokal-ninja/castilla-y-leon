@@ -1,5 +1,5 @@
 ---
 title: "Diva"
 url: /arroyo-de-la-encomienda/diva/
-shop: peluquería
+shop: Friseur
 ---

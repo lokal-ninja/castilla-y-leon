@@ -1,5 +1,5 @@
 ---
 title: "Multicocinas"
 url: /villares-de-la-reina/multicocinas/
-shop: cocina
+shop: Küchen
 ---

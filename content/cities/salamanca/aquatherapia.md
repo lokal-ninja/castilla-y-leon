@@ -1,5 +1,5 @@
 ---
 title: "Aquatherapia"
 url: /salamanca/aquatherapia/
-shop: masaje
+shop: Massage
 ---

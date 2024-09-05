@@ -1,5 +1,5 @@
 ---
 title: "Orejudo"
 url: /cabrerizos/orejudo/
-shop: decoración interior
+shop: Raumausstattung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Panadería Miguel"
 url: /villanueva-de-carrizo/panaderia-miguel/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /vitigudino/dia/
-shop: supermercado
+shop: Supermarkt
 ---

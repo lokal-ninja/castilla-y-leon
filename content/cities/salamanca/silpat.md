@@ -1,5 +1,5 @@
 ---
 title: "Silpat"
 url: /salamanca/silpat/
-shop: farmacia
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Roycha"
 url: /burgos/roycha/
-shop: hardware
+shop: Eisenwaren
 ---

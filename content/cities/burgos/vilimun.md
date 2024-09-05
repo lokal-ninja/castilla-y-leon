@@ -1,5 +1,5 @@
 ---
 title: "Vilimun"
 url: /burgos/vilimun/
-shop: alcohol
+shop: Spirituosen
 ---

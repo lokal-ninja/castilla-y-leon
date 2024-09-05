@@ -1,5 +1,5 @@
 ---
 title: "Pan y Pastel"
 url: /zaratan/pan-y-pastel/
-shop: panadería
+shop: Bäckerei
 ---

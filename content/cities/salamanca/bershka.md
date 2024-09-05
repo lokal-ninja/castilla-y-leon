@@ -1,5 +1,5 @@
 ---
 title: "Bershka"
 url: /salamanca/bershka/
-shop: ropa
+shop: Kleidung
 ---

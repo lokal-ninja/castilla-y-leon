@@ -1,5 +1,5 @@
 ---
 title: "Masofá"
 url: /burgos/masofa/
-shop: muebles
+shop: Möbel
 ---

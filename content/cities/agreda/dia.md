@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /agreda/dia/
-shop: supermercado
+shop: Supermarkt
 ---

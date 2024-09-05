@@ -1,5 +1,5 @@
 ---
 title: "Anclas"
 url: /salamanca/anclas/
-shop: ropa
+shop: Kleidung
 ---

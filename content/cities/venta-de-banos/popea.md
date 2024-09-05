@@ -1,5 +1,5 @@
 ---
 title: "Popea"
 url: /venta-de-banos/popea/
-shop: peluquería
+shop: Friseur
 ---

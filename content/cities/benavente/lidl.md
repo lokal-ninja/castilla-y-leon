@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /benavente/lidl/
-shop: supermercado
+shop: Supermarkt
 ---

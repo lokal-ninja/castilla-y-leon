@@ -1,5 +1,5 @@
 ---
 title: "LdeLana"
 url: /avila/ldelana/
-shop: coser
+shop: Nähzubehör
 ---

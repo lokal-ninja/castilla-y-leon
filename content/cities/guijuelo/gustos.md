@@ -1,5 +1,5 @@
 ---
 title: "Gustos"
 url: /guijuelo/gustos/
-shop: vino
+shop: Wein
 ---

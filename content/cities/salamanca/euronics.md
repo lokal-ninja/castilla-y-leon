@@ -1,5 +1,5 @@
 ---
 title: "Euronics"
 url: /salamanca/euronics/
-shop: electrónica
+shop: Elektronik
 ---

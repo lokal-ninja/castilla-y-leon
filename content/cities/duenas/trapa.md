@@ -1,5 +1,5 @@
 ---
 title: "Trapa"
 url: /duenas/trapa/
-shop: chocolate
+shop: Schokolade
 ---

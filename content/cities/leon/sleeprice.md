@@ -1,5 +1,5 @@
 ---
 title: "Sleeprice"
 url: /leon/sleeprice/
-shop: cama
+shop: Betten
 ---

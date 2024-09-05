@@ -1,5 +1,5 @@
 ---
 title: "Muestrario"
 url: /burgos/muestrario/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MerCatresillo"
 url: /burgos/mercatresillo/
-shop: muebles
+shop: Möbel
 ---

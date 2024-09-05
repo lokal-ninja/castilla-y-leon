@@ -1,5 +1,5 @@
 ---
 title: "Alcampo"
 url: /palencia/alcampo-calle-mayor/
-shop: supermercado
+shop: Supermarkt
 ---

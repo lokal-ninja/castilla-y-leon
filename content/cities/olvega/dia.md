@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /olvega/dia/
-shop: supermercado
+shop: Supermarkt
 ---

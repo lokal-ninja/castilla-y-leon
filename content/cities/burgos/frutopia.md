@@ -1,5 +1,5 @@
 ---
 title: "Frutopía"
 url: /burgos/frutopia/
-shop: frutería
+shop: Gemüse & Obst
 ---

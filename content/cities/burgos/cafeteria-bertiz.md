@@ -1,5 +1,5 @@
 ---
 title: "cafetería Bertiz"
 url: /burgos/cafeteria-bertiz/
-shop: panadería
+shop: Bäckerei
 ---

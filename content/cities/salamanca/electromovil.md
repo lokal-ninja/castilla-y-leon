@@ -1,5 +1,5 @@
 ---
 title: "Electromóvil"
 url: /salamanca/electromovil/
-shop: teléfono móvil
+shop: Handy
 ---

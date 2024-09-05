@@ -1,5 +1,5 @@
 ---
 title: "Confecciones Merce"
 url: /medina-del-campo/confecciones-merce/
-shop: ropa
+shop: Kleidung
 ---

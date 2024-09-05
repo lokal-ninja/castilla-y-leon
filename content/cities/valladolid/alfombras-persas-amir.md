@@ -1,5 +1,5 @@
 ---
 title: "Alfombras persas Amir"
 url: /valladolid/alfombras-persas-amir/
-shop: alfombra
+shop: Teppiche
 ---

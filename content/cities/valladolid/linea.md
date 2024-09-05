@@ -1,5 +1,5 @@
 ---
 title: "Línea"
 url: /valladolid/linea/
-shop: zapatos
+shop: Schuhe
 ---

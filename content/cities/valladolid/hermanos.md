@@ -1,5 +1,5 @@
 ---
 title: "Hermanos"
 url: /valladolid/hermanos/
-shop: marisco
+shop: Fisch
 ---

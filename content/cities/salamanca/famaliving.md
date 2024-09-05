@@ -1,5 +1,5 @@
 ---
 title: "Famaliving"
 url: /salamanca/famaliving/
-shop: muebles
+shop: Möbel
 ---

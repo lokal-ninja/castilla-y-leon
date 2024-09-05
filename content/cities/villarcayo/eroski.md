@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
 url: /villarcayo/eroski/
-shop: supermercado
+shop: Supermarkt
 ---

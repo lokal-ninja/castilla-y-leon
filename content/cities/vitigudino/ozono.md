@@ -1,5 +1,5 @@
 ---
 title: "Ozono"
 url: /vitigudino/ozono/
-shop: ropa
+shop: Kleidung
 ---

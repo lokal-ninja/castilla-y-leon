@@ -1,5 +1,5 @@
 ---
 title: "Alimentación Aldeamayor"
 url: /aldeamayor-de-san-martin/alimentacion-aldeamayor/
-shop: comodidad
+shop: Lebensmittel
 ---

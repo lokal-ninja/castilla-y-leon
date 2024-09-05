@@ -1,5 +1,5 @@
 ---
 title: "Alona Andreyko"
 url: /la-robla/alona-andreyko/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Domingo"
 url: /valladolid/domingo/
-shop: carnicero
+shop: Metzgerei
 ---

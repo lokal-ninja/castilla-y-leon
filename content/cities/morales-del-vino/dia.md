@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /morales-del-vino/dia/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Niza"
 url: /bejar/niza/
-shop: pastelería
+shop: Konditorei
 ---

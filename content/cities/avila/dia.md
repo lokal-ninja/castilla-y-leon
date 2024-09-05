@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /avila/dia/
-shop: supermercado
+shop: Supermarkt
 ---

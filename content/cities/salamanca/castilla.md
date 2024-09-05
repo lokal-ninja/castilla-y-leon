@@ -1,5 +1,5 @@
 ---
 title: "Castilla"
 url: /salamanca/castilla/
-shop: panadería
+shop: Bäckerei
 ---

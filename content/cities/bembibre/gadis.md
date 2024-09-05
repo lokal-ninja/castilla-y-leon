@@ -1,5 +1,5 @@
 ---
 title: "Gadis"
 url: /bembibre/gadis/
-shop: supermercado
+shop: Supermarkt
 ---

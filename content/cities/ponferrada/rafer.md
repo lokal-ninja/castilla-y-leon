@@ -1,5 +1,5 @@
 ---
 title: "Rafer"
 url: /ponferrada/rafer/
-shop: charcutería
+shop: Feinkost
 ---

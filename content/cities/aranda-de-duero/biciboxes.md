@@ -1,5 +1,5 @@
 ---
 title: "Biciboxes"
 url: /aranda-de-duero/biciboxes/
-shop: bicicleta
+shop: Fahrrad
 ---

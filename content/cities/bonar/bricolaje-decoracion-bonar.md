@@ -1,5 +1,5 @@
 ---
 title: "Bricolaje Decoración Boñar"
 url: /bonar/bricolaje-decoracion-bonar/
-shop: hardware
+shop: Eisenwaren
 ---

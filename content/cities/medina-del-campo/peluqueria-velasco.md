@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Velasco"
 url: /medina-del-campo/peluqueria-velasco/
-shop: peluquería
+shop: Friseur
 ---

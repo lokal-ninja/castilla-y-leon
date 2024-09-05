@@ -1,5 +1,5 @@
 ---
 title: "Arcadia - Muebles Mafer"
 url: /benavente/arcadia-muebles-mafer/
-shop: muebles
+shop: Möbel
 ---

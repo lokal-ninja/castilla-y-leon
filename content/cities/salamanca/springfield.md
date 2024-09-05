@@ -1,5 +1,5 @@
 ---
 title: "Springfield"
 url: /salamanca/springfield/
-shop: ropa
+shop: Kleidung
 ---

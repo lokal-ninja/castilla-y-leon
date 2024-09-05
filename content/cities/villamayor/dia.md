@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /villamayor/dia/
-shop: supermercado
+shop: Supermarkt
 ---

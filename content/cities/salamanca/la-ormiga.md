@@ -1,5 +1,5 @@
 ---
 title: "La Ormiga"
 url: /salamanca/la-ormiga/
-shop: ropa
+shop: Kleidung
 ---

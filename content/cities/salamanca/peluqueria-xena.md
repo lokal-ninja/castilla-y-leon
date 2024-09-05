@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Xena"
 url: /salamanca/peluqueria-xena/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Escándalo"
 url: /valladolid/escandalo/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Roex"
 url: /burgos/roex/
-shop: deportes
+shop: Sport
 ---

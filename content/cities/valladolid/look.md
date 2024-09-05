@@ -1,5 +1,5 @@
 ---
 title: "Look"
 url: /valladolid/look/
-shop: ropa
+shop: Kleidung
 ---

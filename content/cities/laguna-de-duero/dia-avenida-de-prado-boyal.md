@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /laguna-de-duero/dia-avenida-de-prado-boyal/
-shop: supermercado
+shop: Supermarkt
 ---

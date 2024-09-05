@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /burgos/renault/
-shop: coche
+shop: Autohaus
 ---

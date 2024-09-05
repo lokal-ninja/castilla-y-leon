@@ -1,5 +1,5 @@
 ---
 title: "Zapshop"
 url: /salamanca/zapshop/
-shop: zapatos
+shop: Schuhe
 ---

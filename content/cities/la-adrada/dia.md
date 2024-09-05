@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /la-adrada/dia/
-shop: supermercado
+shop: Supermarkt
 ---

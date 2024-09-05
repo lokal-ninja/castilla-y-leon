@@ -1,5 +1,5 @@
 ---
 title: "GaudenCar"
 url: /burgos/gaudencar/
-shop: coche
+shop: Autohaus
 ---

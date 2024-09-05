@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /salamanca/mercadona/
-shop: supermercado
+shop: Supermarkt
 ---

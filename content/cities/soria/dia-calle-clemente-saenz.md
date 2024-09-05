@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /soria/dia-calle-clemente-saenz/
-shop: supermercado
+shop: Supermarkt
 ---

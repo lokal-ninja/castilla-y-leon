@@ -1,5 +1,5 @@
 ---
 title: "La Hacienda del Pan"
 url: /valladolid/la-hacienda-del-pan/
-shop: panadería
+shop: Bäckerei
 ---

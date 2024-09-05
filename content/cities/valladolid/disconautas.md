@@ -1,5 +1,5 @@
 ---
 title: "Disconautas"
 url: /valladolid/disconautas/
-shop: música
+shop: Musik
 ---

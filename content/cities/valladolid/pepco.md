@@ -1,5 +1,5 @@
 ---
 title: "Pepco"
 url: /valladolid/pepco/
-shop: ropa
+shop: Kleidung
 ---

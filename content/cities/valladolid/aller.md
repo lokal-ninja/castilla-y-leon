@@ -1,5 +1,5 @@
 ---
 title: "Aller"
 url: /valladolid/aller/
-shop: hardware
+shop: Eisenwaren
 ---

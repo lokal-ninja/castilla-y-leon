@@ -1,5 +1,5 @@
 ---
 title: "Milar"
 url: /salamanca/milar/
-shop: electrónica
+shop: Elektronik
 ---

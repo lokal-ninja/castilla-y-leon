@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /valladolid/movistar/
-shop: teléfono móvil
+shop: Handy
 ---

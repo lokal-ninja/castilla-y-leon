@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Yolanda"
 url: /medina-del-campo/peluqueria-yolanda/
-shop: peluquería
+shop: Friseur
 ---

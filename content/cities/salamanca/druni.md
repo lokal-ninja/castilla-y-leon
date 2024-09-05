@@ -1,5 +1,5 @@
 ---
 title: "Druni"
 url: /salamanca/druni/
-shop: perfumería
+shop: Parfümerie
 ---

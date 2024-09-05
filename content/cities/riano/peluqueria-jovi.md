@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Jovi"
 url: /riano/peluqueria-jovi/
-shop: peluquería
+shop: Friseur
 ---

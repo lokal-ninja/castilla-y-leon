@@ -1,5 +1,5 @@
 ---
 title: "Michelin"
 url: /valladolid/michelin/
-shop: neumáticos
+shop: Reifen
 ---

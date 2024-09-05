@@ -1,5 +1,5 @@
 ---
 title: "Alcampo"
 url: /valladolid/alcampo-avenida-de-palencia/
-shop: supermercado
+shop: Supermarkt
 ---

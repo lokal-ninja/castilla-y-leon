@@ -1,5 +1,5 @@
 ---
 title: "Medias"
 url: /burgos/medias/
-shop: ropa
+shop: Kleidung
 ---

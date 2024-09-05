@@ -1,5 +1,5 @@
 ---
 title: "Hipercor"
 url: /burgos/hipercor/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /valladolid/dia-calle-de-silio/
-shop: supermercado
+shop: Supermarkt
 ---

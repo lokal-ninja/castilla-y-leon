@@ -1,5 +1,5 @@
 ---
 title: "Hipergol"
 url: /villablino/hipergol/
-shop: panadería
+shop: Bäckerei
 ---

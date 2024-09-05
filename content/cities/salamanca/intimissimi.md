@@ -1,5 +1,5 @@
 ---
 title: "Intimissimi"
 url: /salamanca/intimissimi/
-shop: ropa
+shop: Kleidung
 ---

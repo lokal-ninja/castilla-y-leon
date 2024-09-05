@@ -1,5 +1,5 @@
 ---
 title: "Foto Cuni"
 url: /la-robla/foto-cuni/
-shop: quiosco
+shop: Kiosk
 ---

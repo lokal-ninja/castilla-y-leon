@@ -1,5 +1,5 @@
 ---
 title: "Familia"
 url: /ponferrada/familia/
-shop: supermercado
+shop: Supermarkt
 ---

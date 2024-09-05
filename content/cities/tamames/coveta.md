@@ -1,5 +1,5 @@
 ---
 title: "Coveta"
 url: /tamames/coveta/
-shop: mascotas
+shop: Tiere
 ---

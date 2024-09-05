@@ -1,5 +1,5 @@
 ---
 title: "Paulinas"
 url: /valladolid/paulinas/
-shop: libros
+shop: Bücher
 ---

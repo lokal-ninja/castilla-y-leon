@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /astorga/dia/
-shop: supermercado
+shop: Supermarkt
 ---

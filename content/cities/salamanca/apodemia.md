@@ -1,5 +1,5 @@
 ---
 title: "Apodemia"
 url: /salamanca/apodemia/
-shop: joyería
+shop: Schmuck
 ---

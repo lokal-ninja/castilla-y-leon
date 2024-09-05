@@ -1,5 +1,5 @@
 ---
 title: "Stradivarius"
 url: /salamanca/stradivarius/
-shop: ropa
+shop: Kleidung
 ---
