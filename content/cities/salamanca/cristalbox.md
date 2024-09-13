@@ -1,5 +1,5 @@
 ---
 title: "Cristalbox"
 url: /salamanca/cristalbox/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

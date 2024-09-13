@@ -1,5 +1,5 @@
 ---
 title: "Juguettos"
 url: /salamanca/juguettos/
-shop: Spielzeug
+shop: juguetes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Revolt Bike"
 url: /valladolid/revolt-bike/
-shop: Fahrrad
+shop: bicicleta
 ---

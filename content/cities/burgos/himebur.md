@@ -1,5 +1,5 @@
 ---
 title: "Himebur"
 url: /burgos/himebur/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /olvega/coviran/
-shop: Supermarkt
+shop: supermercado
 ---

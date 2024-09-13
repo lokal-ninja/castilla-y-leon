@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /salamanca/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

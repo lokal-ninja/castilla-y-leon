@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /el-espinar/dia/
-shop: Supermarkt
+shop: supermercado
 ---

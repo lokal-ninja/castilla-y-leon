@@ -1,5 +1,5 @@
 ---
 title: "Alimentación Tere"
 url: /palaciosrubios/alimentacion-tere/
-shop: Supermarkt
+shop: supermercado
 ---

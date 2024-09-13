@@ -1,5 +1,5 @@
 ---
 title: "GAES"
 url: /salamanca/gaes/
-shop: Hörgeräte
+shop: audífonos
 ---

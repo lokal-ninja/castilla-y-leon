@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio"
 url: /salamanca/tanatorio/
-shop: Bestattungen
+shop: directores de funerarias
 ---

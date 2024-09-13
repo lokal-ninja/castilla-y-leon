@@ -1,5 +1,5 @@
 ---
 title: "Ruano"
 url: /valladolid/ruano/
-shop: Haushaltsgeräte
+shop: aparato
 ---

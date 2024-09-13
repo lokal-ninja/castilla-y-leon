@@ -1,5 +1,5 @@
 ---
 title: "Sqrups"
 url: /salamanca/sqrups/
-shop: Kramladen
+shop: tienda de variedades
 ---

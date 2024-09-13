@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Rubias debote"
 url: /salamanca/peluqueria-rubias-debote/
-shop: Friseur
+shop: peluquería
 ---

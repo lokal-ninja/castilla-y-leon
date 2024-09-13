@@ -1,5 +1,5 @@
 ---
 title: "Imtrac Agrícola"
 url: /burgos/imtrac-agricola/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

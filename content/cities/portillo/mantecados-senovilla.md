@@ -1,5 +1,5 @@
 ---
 title: "Mantecados Senovilla"
 url: /portillo/mantecados-senovilla/
-shop: Konditorei
+shop: pastelería
 ---

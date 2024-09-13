@@ -1,5 +1,5 @@
 ---
 title: "Valladolid Wagen"
 url: /valladolid/valladolid-wagen/
-shop: Autohaus
+shop: coche
 ---

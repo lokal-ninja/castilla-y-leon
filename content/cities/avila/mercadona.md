@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /avila/mercadona/
-shop: Supermarkt
+shop: supermercado
 ---

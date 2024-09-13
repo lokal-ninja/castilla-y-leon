@@ -1,5 +1,5 @@
 ---
 title: "Moreca"
 url: /zaratan/moreca/
-shop: Motorrad
+shop: motocicleta
 ---

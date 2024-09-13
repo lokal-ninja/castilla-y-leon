@@ -1,5 +1,5 @@
 ---
 title: "Modernauto"
 url: /burgos/modernauto/
-shop: Autoteile
+shop: piezas de automóviles
 ---

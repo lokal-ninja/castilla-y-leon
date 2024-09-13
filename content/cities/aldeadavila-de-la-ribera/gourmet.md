@@ -1,5 +1,5 @@
 ---
 title: "Gourmet"
 url: /aldeadavila-de-la-ribera/gourmet/
-shop: Supermarkt
+shop: supermercado
 ---

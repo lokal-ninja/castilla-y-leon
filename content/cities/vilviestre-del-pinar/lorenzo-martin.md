@@ -1,5 +1,5 @@
 ---
 title: "Lorenzo Martín"
 url: /vilviestre-del-pinar/lorenzo-martin/
-shop: Metzgerei
+shop: carnicero
 ---

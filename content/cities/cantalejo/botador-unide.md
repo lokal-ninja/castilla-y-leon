@@ -1,5 +1,5 @@
 ---
 title: "Botador Unide"
 url: /cantalejo/botador-unide/
-shop: Supermarkt
+shop: supermercado
 ---

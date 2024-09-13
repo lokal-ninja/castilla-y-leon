@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /burgos/decathlon/
-shop: Sport
+shop: deportes
 ---

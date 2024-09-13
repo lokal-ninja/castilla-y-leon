@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /venta-de-banos/dia/
-shop: Supermarkt
+shop: supermercado
 ---

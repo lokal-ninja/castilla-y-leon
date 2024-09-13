@@ -1,5 +1,5 @@
 ---
 title: "Namar"
 url: /medina-del-campo/namar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

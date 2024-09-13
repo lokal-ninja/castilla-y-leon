@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio Virgen del Socorro"
 url: /vitigudino/tanatorio-virgen-del-socorro/
-shop: Bestattungen
+shop: directores de funerarias
 ---

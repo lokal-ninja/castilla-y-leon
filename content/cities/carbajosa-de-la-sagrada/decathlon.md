@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /carbajosa-de-la-sagrada/decathlon/
-shop: Sport
+shop: deportes
 ---

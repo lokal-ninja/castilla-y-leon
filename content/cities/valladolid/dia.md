@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /valladolid/dia/
-shop: Supermarkt
+shop: supermercado
 ---

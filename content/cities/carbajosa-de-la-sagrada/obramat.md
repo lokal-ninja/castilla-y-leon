@@ -1,5 +1,5 @@
 ---
 title: "Obramat"
 url: /carbajosa-de-la-sagrada/obramat/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

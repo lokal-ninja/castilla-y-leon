@@ -1,5 +1,5 @@
 ---
 title: "Aparisan"
 url: /vitigudino/aparisan/
-shop: Küchen
+shop: cocina
 ---

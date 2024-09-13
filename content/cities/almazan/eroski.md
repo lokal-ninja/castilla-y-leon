@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
 url: /almazan/eroski/
-shop: Supermarkt
+shop: supermercado
 ---

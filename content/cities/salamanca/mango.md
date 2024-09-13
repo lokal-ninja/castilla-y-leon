@@ -1,5 +1,5 @@
 ---
 title: "Mango"
 url: /salamanca/mango/
-shop: Kleidung
+shop: ropa
 ---

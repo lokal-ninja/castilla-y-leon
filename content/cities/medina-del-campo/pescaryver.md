@@ -1,5 +1,5 @@
 ---
 title: "Pescaryver"
 url: /medina-del-campo/pescaryver/
-shop: Fisch
+shop: marisco
 ---

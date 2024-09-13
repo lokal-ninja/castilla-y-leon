@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /benavente/dia/
-shop: Supermarkt
+shop: supermercado
 ---

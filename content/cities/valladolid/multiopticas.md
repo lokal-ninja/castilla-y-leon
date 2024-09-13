@@ -1,5 +1,5 @@
 ---
 title: "Multiópticas"
 url: /valladolid/multiopticas/
-shop: Optiker
+shop: óptico
 ---

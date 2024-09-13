@@ -1,5 +1,5 @@
 ---
 title: "Bichos"
 url: /valladolid/bichos/
-shop: Tiere
+shop: mascotas
 ---

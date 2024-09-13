@@ -1,5 +1,5 @@
 ---
 title: "Panadería Lozoya"
 url: /penafiel/panaderia-lozoya/
-shop: Bäckerei
+shop: panadería
 ---

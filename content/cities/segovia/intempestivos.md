@@ -1,5 +1,5 @@
 ---
 title: "Intempestivos"
 url: /segovia/intempestivos/
-shop: Bücher
+shop: libros
 ---

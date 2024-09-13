@@ -1,5 +1,5 @@
 ---
 title: "Arte Miranda"
 url: /salamanca/arte-miranda/
-shop: Schreibwaren
+shop: material de oficina
 ---

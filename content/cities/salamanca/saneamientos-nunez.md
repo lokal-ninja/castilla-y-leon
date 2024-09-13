@@ -1,5 +1,5 @@
 ---
 title: "Saneamientos Núñez"
 url: /salamanca/saneamientos-nunez/
-shop: Badezimmer
+shop: cuarto de baño
 ---

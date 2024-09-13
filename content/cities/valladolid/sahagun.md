@@ -1,5 +1,5 @@
 ---
 title: "Sahagún"
 url: /valladolid/sahagun/
-shop: Metzgerei
+shop: carnicero
 ---

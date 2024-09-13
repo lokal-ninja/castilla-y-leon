@@ -1,5 +1,5 @@
 ---
 title: "Froiz"
 url: /palencia/froiz/
-shop: Supermarkt
+shop: supermercado
 ---

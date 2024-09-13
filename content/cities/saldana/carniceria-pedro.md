@@ -1,5 +1,5 @@
 ---
 title: "Carniceria Pedro"
 url: /saldana/carniceria-pedro/
-shop: Metzgerei
+shop: carnicero
 ---

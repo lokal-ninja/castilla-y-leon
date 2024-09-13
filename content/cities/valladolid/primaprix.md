@@ -1,5 +1,5 @@
 ---
 title: "Primaprix"
 url: /valladolid/primaprix/
-shop: Supermarkt
+shop: supermercado
 ---

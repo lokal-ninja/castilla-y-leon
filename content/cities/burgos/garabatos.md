@@ -1,5 +1,5 @@
 ---
 title: "Garabatos"
 url: /burgos/garabatos/
-shop: Schreibwaren
+shop: material de oficina
 ---

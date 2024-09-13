@@ -1,5 +1,5 @@
 ---
 title: "Teleondas S.L."
 url: /valladolid/teleondas-s-l/
-shop: Radiotechnik
+shop: radiotecnia
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quiosco Goyo"
 url: /benavente/quiosco-goyo/
-shop: Kiosk
+shop: quiosco
 ---

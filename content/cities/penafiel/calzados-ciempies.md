@@ -1,5 +1,5 @@
 ---
 title: "Calzados Ciempiés"
 url: /penafiel/calzados-ciempies/
-shop: Schuhe
+shop: zapatos
 ---

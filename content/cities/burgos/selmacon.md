@@ -1,5 +1,5 @@
 ---
 title: "Selmacon"
 url: /burgos/selmacon/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

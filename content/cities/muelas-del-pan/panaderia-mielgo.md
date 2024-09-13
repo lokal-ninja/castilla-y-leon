@@ -1,5 +1,5 @@
 ---
 title: "Panadería Mielgo"
 url: /muelas-del-pan/panaderia-mielgo/
-shop: Bäckerei
+shop: panadería
 ---

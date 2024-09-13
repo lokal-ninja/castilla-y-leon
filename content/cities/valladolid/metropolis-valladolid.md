@@ -1,5 +1,5 @@
 ---
 title: "Metrópolis Valladolid"
 url: /valladolid/metropolis-valladolid/
-shop: Spiele
+shop: juegos
 ---

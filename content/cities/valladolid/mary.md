@@ -1,5 +1,5 @@
 ---
 title: "Mary"
 url: /valladolid/mary/
-shop: Fisch
+shop: marisco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /sahagun/dia/
-shop: Supermarkt
+shop: supermercado
 ---

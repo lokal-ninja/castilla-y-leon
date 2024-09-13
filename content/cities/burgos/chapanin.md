@@ -1,5 +1,5 @@
 ---
 title: "Chapanin"
 url: /burgos/chapanin/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

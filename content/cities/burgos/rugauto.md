@@ -1,5 +1,5 @@
 ---
 title: "Rugauto"
 url: /burgos/rugauto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

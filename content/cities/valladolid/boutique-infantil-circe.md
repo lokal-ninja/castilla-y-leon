@@ -1,5 +1,5 @@
 ---
 title: "Boutique Infantil Circe"
 url: /valladolid/boutique-infantil-circe/
-shop: Kleidung
+shop: ropa
 ---

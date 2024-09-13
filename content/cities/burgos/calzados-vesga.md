@@ -1,5 +1,5 @@
 ---
 title: "Calzados VESGA"
 url: /burgos/calzados-vesga/
-shop: Schuhe
+shop: zapatos
 ---

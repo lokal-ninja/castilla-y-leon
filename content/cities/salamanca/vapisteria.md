@@ -1,5 +1,5 @@
 ---
 title: "Vapistería"
 url: /salamanca/vapisteria/
-shop: E-Zigaretten
+shop: cigarrillo electrónico
 ---

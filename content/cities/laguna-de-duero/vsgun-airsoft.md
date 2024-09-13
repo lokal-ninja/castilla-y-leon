@@ -1,5 +1,5 @@
 ---
 title: "VSGun Airsoft"
 url: /laguna-de-duero/vsgun-airsoft/
-shop: Sport
+shop: deportes
 ---

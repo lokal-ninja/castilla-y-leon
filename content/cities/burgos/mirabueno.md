@@ -1,5 +1,5 @@
 ---
 title: "Mirabueno"
 url: /burgos/mirabueno/
-shop: Autohaus
+shop: coche
 ---

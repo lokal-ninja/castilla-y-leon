@@ -1,5 +1,5 @@
 ---
 title: "Robles Bicicletas"
 url: /leon/robles-bicicletas/
-shop: Fahrrad
+shop: bicicleta
 ---

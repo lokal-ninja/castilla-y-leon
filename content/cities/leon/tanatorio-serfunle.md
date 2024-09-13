@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio - Serfunle"
 url: /leon/tanatorio-serfunle/
-shop: Bestattungen
+shop: directores de funerarias
 ---

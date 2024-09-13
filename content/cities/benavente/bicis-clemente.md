@@ -1,5 +1,5 @@
 ---
 title: "Bicis Clemente"
 url: /benavente/bicis-clemente/
-shop: Fahrrad
+shop: bicicleta
 ---

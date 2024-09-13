@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /burgos/mercadona-calle-juan-ramon-jimenez/
-shop: Supermarkt
+shop: supermercado
 ---

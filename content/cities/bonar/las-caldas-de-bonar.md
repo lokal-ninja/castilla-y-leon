@@ -1,5 +1,5 @@
 ---
 title: "Las Caldas de Boñar"
 url: /bonar/las-caldas-de-bonar/
-shop: Kamine & Öfen
+shop: horno y estufa
 ---

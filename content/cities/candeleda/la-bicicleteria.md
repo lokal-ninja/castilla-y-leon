@@ -1,5 +1,5 @@
 ---
 title: "La Bicicleteria"
 url: /candeleda/la-bicicleteria/
-shop: Fahrrad
+shop: bicicleta
 ---

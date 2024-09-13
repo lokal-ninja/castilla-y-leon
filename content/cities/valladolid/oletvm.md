@@ -1,5 +1,5 @@
 ---
 title: "Oletvm"
 url: /valladolid/oletvm/
-shop: Bücher
+shop: libros
 ---

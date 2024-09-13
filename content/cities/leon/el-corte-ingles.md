@@ -1,5 +1,5 @@
 ---
 title: "El Corte Inglés"
 url: /leon/el-corte-ingles/
-shop: Warenhaus
+shop: grandes almacenes
 ---

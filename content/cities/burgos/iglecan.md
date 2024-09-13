@@ -1,5 +1,5 @@
 ---
 title: "Iglecan"
 url: /burgos/iglecan/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

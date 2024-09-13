@@ -1,5 +1,5 @@
 ---
 title: "Gran Valladolid"
 url: /valladolid/gran-valladolid/
-shop: Kramladen
+shop: tienda de variedades
 ---

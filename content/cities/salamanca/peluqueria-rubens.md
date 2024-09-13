@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Ruben's"
 url: /salamanca/peluqueria-rubens/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /carbonero-el-mayor/dia/
-shop: Supermarkt
+shop: supermercado
 ---

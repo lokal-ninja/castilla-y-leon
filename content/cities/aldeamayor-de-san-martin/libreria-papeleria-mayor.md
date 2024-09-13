@@ -1,5 +1,5 @@
 ---
 title: "Librería Papelería Mayor"
 url: /aldeamayor-de-san-martin/libreria-papeleria-mayor/
-shop: Bücher
+shop: libros
 ---

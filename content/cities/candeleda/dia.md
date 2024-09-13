@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /candeleda/dia/
-shop: Supermarkt
+shop: supermercado
 ---

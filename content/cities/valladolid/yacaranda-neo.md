@@ -1,5 +1,5 @@
 ---
 title: "Yacarandá NEO"
 url: /valladolid/yacaranda-neo/
-shop: Raumausstattung
+shop: decoración interior
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dacar"
 url: /salamanca/dacar/
-shop: Autohaus
+shop: coche
 ---

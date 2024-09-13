@@ -1,5 +1,5 @@
 ---
 title: "Talleres Martínez"
 url: /leon/talleres-martinez/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Roca Replysa"
 url: /el-sotillo/roca-replysa/
-shop: Badezimmer
+shop: cuarto de baño
 ---

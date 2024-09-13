@@ -1,5 +1,5 @@
 ---
 title: "Dosa"
 url: /salamanca/dosa/
-shop: Kopieren
+shop: copyshop
 ---

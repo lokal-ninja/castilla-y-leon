@@ -1,5 +1,5 @@
 ---
 title: "Elite Sport Nutrición"
 url: /valladolid/elite-sport-nutricion/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

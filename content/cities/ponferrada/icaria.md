@@ -1,5 +1,5 @@
 ---
 title: "Icaria"
 url: /ponferrada/icaria/
-shop: Kosmetik
+shop: cosméticos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alimentación Ignacio"
 url: /melgar-de-fernamental/alimentacion-ignacio/
-shop: Allgemein
+shop: general
 ---

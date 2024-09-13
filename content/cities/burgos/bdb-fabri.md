@@ -1,5 +1,5 @@
 ---
 title: "BdB - FABRI"
 url: /burgos/bdb-fabri/
-shop: Baustoffe
+shop: comercio
 ---

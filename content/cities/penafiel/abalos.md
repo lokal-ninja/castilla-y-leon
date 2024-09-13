@@ -1,5 +1,5 @@
 ---
 title: "Ábalos"
 url: /penafiel/abalos/
-shop: Schreibwaren
+shop: material de oficina
 ---

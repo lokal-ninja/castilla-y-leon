@@ -1,5 +1,5 @@
 ---
 title: "Ópalo"
 url: /valladolid/opalo/
-shop: Haushaltsgeräte
+shop: aparato
 ---

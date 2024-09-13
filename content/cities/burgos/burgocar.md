@@ -1,5 +1,5 @@
 ---
 title: "BurgoCar"
 url: /burgos/burgocar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alpi"
 url: /valladolid/alpi/
-shop: Babysachen
+shop: artículos para bebés
 ---

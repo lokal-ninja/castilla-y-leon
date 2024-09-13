@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /cinera/dia/
-shop: Supermarkt
+shop: supermercado
 ---

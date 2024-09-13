@@ -1,5 +1,5 @@
 ---
 title: "Sánchez Marcos"
 url: /guijuelo/sanchez-marcos/
-shop: Metzgerei
+shop: carnicero
 ---

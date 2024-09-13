@@ -1,5 +1,5 @@
 ---
 title: "Vinos Ojosnegros"
 url: /penafiel/vinos-ojosnegros/
-shop: Wein
+shop: vino
 ---

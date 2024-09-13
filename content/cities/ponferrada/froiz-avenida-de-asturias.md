@@ -1,5 +1,5 @@
 ---
 title: "Froiz"
 url: /ponferrada/froiz-avenida-de-asturias/
-shop: Supermarkt
+shop: supermercado
 ---

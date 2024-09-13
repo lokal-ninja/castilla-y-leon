@@ -1,5 +1,5 @@
 ---
 title: "Mercería Marbán"
 url: /benavente/merceria-marban/
-shop: Allgemein
+shop: general
 ---

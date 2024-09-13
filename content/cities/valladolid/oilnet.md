@@ -1,5 +1,5 @@
 ---
 title: "OilNet"
 url: /valladolid/oilnet/
-shop: Autoteile
+shop: piezas de automóviles
 ---

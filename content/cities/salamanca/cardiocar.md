@@ -1,5 +1,5 @@
 ---
 title: "Cardiocar"
 url: /salamanca/cardiocar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

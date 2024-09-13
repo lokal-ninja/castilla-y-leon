@@ -1,5 +1,5 @@
 ---
 title: "Viajes Lecat"
 url: /valladolid/viajes-lecat/
-shop: Reisebüro
+shop: agencia de viajes
 ---

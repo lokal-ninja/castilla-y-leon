@@ -1,5 +1,5 @@
 ---
 title: "móvilnext"
 url: /salamanca/movilnext/
-shop: Handy
+shop: teléfono móvil
 ---

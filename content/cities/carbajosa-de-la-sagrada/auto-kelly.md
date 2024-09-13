@@ -1,5 +1,5 @@
 ---
 title: "Auto Kelly"
 url: /carbajosa-de-la-sagrada/auto-kelly/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

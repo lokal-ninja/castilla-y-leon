@@ -1,5 +1,5 @@
 ---
 title: "Moda Joven Gladys"
 url: /salamanca/moda-joven-gladys/
-shop: Kleidung
+shop: ropa
 ---

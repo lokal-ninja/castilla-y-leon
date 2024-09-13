@@ -1,5 +1,5 @@
 ---
 title: "La Peña"
 url: /la-robla/la-pena/
-shop: Bäckerei
+shop: panadería
 ---

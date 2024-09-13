@@ -1,5 +1,5 @@
 ---
 title: "Taller Luís"
 url: /burgos-castile-y-leon/taller-luis/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

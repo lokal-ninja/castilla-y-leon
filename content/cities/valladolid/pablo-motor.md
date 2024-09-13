@@ -1,5 +1,5 @@
 ---
 title: "Pablo Motor"
 url: /valladolid/pablo-motor/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

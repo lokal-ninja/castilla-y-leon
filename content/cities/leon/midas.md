@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /leon/midas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

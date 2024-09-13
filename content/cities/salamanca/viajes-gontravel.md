@@ -1,5 +1,5 @@
 ---
 title: "Viajes Gontravel"
 url: /salamanca/viajes-gontravel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /saldana/dia/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Almacanina"
 url: /salamanca/almacanina/
-shop: Tiersalon
+shop: peluquería canina
 ---

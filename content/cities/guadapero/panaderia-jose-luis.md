@@ -1,5 +1,5 @@
 ---
 title: "Panadería José Luis"
 url: /guadapero/panaderia-jose-luis/
-shop: Bäckerei
+shop: panadería
 ---

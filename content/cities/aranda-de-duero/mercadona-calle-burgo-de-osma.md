@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /aranda-de-duero/mercadona-calle-burgo-de-osma/
-shop: Supermarkt
+shop: supermercado
 ---

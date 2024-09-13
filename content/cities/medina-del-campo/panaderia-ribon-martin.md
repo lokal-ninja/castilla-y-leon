@@ -1,5 +1,5 @@
 ---
 title: "Panadería Ribón Martín"
 url: /medina-del-campo/panaderia-ribon-martin/
-shop: Bäckerei
+shop: panadería
 ---

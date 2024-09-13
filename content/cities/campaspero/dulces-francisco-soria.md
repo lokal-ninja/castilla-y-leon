@@ -1,5 +1,5 @@
 ---
 title: "Dulces Francisco Soria"
 url: /campaspero/dulces-francisco-soria/
-shop: Konditorei
+shop: pastelería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paco Charo"
 url: /salamanca/paco-charo/
-shop: Friseur
+shop: peluquería
 ---

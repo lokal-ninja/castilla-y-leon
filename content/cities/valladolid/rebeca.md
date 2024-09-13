@@ -1,5 +1,5 @@
 ---
 title: "Rebeca"
 url: /valladolid/rebeca/
-shop: Blumen
+shop: floristería
 ---

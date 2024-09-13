@@ -1,5 +1,5 @@
 ---
 title: "TodoÚtil"
 url: /segovia/todoutil/
-shop: Kramladen
+shop: tienda de variedades
 ---

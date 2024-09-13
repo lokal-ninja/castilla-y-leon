@@ -1,5 +1,5 @@
 ---
 title: "Una más"
 url: /salamanca/una-mas/
-shop: Schuhe
+shop: zapatos
 ---

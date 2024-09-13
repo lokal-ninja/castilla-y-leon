@@ -1,5 +1,5 @@
 ---
 title: "Curtidos Lobejón"
 url: /valladolid/curtidos-lobejon/
-shop: Kleidung
+shop: ropa
 ---

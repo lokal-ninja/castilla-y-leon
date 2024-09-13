@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio El Salvador"
 url: /valladolid/tanatorio-el-salvador/
-shop: Bestattungen
+shop: directores de funerarias
 ---

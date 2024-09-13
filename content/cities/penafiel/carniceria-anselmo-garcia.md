@@ -1,5 +1,5 @@
 ---
 title: "Carnicería Anselmo García"
 url: /penafiel/carniceria-anselmo-garcia/
-shop: Metzgerei
+shop: carnicero
 ---

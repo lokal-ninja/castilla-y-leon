@@ -1,5 +1,5 @@
 ---
 title: "Sprinter"
 url: /ponferrada/sprinter/
-shop: Sport
+shop: deportes
 ---

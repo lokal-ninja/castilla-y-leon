@@ -1,5 +1,5 @@
 ---
 title: "Bicicletas Santa"
 url: /valladolid/bicicletas-santa/
-shop: Fahrrad
+shop: bicicleta
 ---

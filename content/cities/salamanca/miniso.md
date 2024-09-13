@@ -1,5 +1,5 @@
 ---
 title: "Miniso"
 url: /salamanca/miniso/
-shop: Kramladen
+shop: tienda de variedades
 ---

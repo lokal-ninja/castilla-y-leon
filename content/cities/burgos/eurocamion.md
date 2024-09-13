@@ -1,5 +1,5 @@
 ---
 title: "Eurocamión"
 url: /burgos/eurocamion/
-shop: Autoteile
+shop: piezas de automóviles
 ---

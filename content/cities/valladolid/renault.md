@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /valladolid/renault/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

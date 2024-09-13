@@ -1,5 +1,5 @@
 ---
 title: "Numisbur"
 url: /burgos-castile-y-leon/numisbur/
-shop: Sammler
+shop: colector
 ---

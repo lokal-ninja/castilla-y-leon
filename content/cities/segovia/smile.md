@@ -1,5 +1,5 @@
 ---
 title: "Smile"
 url: /segovia/smile/
-shop: Kramladen
+shop: tienda de variedades
 ---

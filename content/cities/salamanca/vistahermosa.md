@@ -1,5 +1,5 @@
 ---
 title: "Vistahermosa"
 url: /salamanca/vistahermosa/
-shop: Metzgerei
+shop: carnicero
 ---

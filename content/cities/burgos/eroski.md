@@ -1,5 +1,5 @@
 ---
 title: "Eroski"
 url: /burgos/eroski/
-shop: Reisebüro
+shop: agencia de viajes
 ---

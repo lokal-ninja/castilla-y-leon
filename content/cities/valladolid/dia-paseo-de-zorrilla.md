@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /valladolid/dia-paseo-de-zorrilla/
-shop: Supermarkt
+shop: supermercado
 ---

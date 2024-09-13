@@ -1,5 +1,5 @@
 ---
 title: "MISAKO"
 url: /salamanca/misako/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

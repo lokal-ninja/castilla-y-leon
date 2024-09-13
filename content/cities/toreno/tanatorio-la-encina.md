@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio La Encina"
 url: /toreno/tanatorio-la-encina/
-shop: Bestattungen
+shop: directores de funerarias
 ---

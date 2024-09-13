@@ -1,5 +1,5 @@
 ---
 title: "Lavacan León"
 url: /leon/lavacan-leon/
-shop: Tiersalon
+shop: peluquería canina
 ---

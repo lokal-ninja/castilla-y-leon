@@ -1,5 +1,5 @@
 ---
 title: "Talleres y Gruas Europa"
 url: /burgos/talleres-y-gruas-europa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

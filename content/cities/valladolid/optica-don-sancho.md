@@ -1,5 +1,5 @@
 ---
 title: "Óptica Don Sancho"
 url: /valladolid/optica-don-sancho/
-shop: Optiker
+shop: óptico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carlin"
 url: /salamanca/carlin/
-shop: Schreibwaren
+shop: material de oficina
 ---

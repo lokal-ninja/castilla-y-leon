@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /salamanca/dia-calle-de-las-islas-canarias/
-shop: Supermarkt
+shop: supermercado
 ---

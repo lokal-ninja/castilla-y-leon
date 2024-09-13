@@ -1,5 +1,5 @@
 ---
 title: "El Hinojal"
 url: /carbajosa-de-la-sagrada/el-hinojal/
-shop: Bäckerei
+shop: panadería
 ---

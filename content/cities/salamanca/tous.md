@@ -1,5 +1,5 @@
 ---
 title: "Tous"
 url: /salamanca/tous/
-shop: Schmuck
+shop: joyería
 ---

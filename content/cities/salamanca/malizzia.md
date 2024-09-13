@@ -1,5 +1,5 @@
 ---
 title: "Malizzia"
 url: /salamanca/malizzia/
-shop: Andenken
+shop: regalo
 ---

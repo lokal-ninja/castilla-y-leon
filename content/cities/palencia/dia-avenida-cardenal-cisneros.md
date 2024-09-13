@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /palencia/dia-avenida-cardenal-cisneros/
-shop: Supermarkt
+shop: supermercado
 ---

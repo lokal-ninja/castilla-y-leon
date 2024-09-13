@@ -1,5 +1,5 @@
 ---
 title: "Ruiz"
 url: /burgos/ruiz/
-shop: Schuhe
+shop: zapatos
 ---

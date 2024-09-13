@@ -1,5 +1,5 @@
 ---
 title: "Gestorauto"
 url: /salamanca/gestorauto/
-shop: Autohaus
+shop: coche
 ---

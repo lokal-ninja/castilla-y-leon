@@ -1,5 +1,5 @@
 ---
 title: "Clara"
 url: /valladolid/clara/
-shop: Lebensmittel
+shop: comodidad
 ---

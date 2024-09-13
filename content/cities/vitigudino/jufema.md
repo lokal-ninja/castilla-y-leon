@@ -1,5 +1,5 @@
 ---
 title: "JUFEMA"
 url: /vitigudino/jufema/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Talleres Navazo"
 url: /salamanca/talleres-navazo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

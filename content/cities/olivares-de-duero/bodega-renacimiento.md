@@ -1,5 +1,5 @@
 ---
 title: "Bodega Renacimiento"
 url: /olivares-de-duero/bodega-renacimiento/
-shop: Wein
+shop: vino
 ---

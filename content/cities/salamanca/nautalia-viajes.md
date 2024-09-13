@@ -1,5 +1,5 @@
 ---
 title: "Nautalia Viajes"
 url: /salamanca/nautalia-viajes/
-shop: Reisebüro
+shop: agencia de viajes
 ---

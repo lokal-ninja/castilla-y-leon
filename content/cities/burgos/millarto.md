@@ -1,5 +1,5 @@
 ---
 title: "Millarto"
 url: /burgos/millarto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

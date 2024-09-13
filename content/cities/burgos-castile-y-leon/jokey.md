@@ -1,5 +1,5 @@
 ---
 title: "Jokey"
 url: /burgos-castile-y-leon/jokey/
-shop: Andenken
+shop: regalo
 ---

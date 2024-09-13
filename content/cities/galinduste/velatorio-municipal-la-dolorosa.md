@@ -1,5 +1,5 @@
 ---
 title: "Velatorio Municipal la Dolorosa"
 url: /galinduste/velatorio-municipal-la-dolorosa/
-shop: Bestattungen
+shop: directores de funerarias
 ---

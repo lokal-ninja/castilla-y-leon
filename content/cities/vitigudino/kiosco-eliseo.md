@@ -1,5 +1,5 @@
 ---
 title: "Kiosco Eliseo"
 url: /vitigudino/kiosco-eliseo/
-shop: Kiosk
+shop: quiosco
 ---

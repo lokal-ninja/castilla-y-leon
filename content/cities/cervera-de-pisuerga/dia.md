@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /cervera-de-pisuerga/dia/
-shop: Supermarkt
+shop: supermercado
 ---

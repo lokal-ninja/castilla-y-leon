@@ -1,5 +1,5 @@
 ---
 title: "Amimoda"
 url: /valladolid/amimoda/
-shop: Friseur
+shop: peluquería
 ---

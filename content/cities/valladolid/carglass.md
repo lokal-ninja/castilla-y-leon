@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
 url: /valladolid/carglass/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

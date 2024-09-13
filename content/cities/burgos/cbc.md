@@ -1,5 +1,5 @@
 ---
 title: "CBC"
 url: /burgos/cbc/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

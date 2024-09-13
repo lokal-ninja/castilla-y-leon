@@ -1,5 +1,5 @@
 ---
 title: "Superbikes"
 url: /medina-del-campo/superbikes/
-shop: Motorrad
+shop: motocicleta
 ---

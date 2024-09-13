@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /leon/dia-avenida-quevedo/
-shop: Supermarkt
+shop: supermercado
 ---

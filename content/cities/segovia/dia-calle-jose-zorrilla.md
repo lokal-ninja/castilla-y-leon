@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /segovia/dia-calle-jose-zorrilla/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MyMe3D"
 url: /salamanca/myme3d/
-shop: Foto
+shop: foto
 ---

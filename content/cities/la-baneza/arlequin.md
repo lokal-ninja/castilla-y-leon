@@ -1,5 +1,5 @@
 ---
 title: "Arlequin"
 url: /la-baneza/arlequin/
-shop: Bücher
+shop: libros
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Musical Tamayo"
 url: /valladolid/musical-tamayo/
-shop: Instrumente
+shop: instrumento musical
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Obrador Artesano"
 url: /burgos/el-obrador-artesano/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Entresierras"
 url: /guijuelo/entresierras/
-shop: Metzgerei
+shop: carnicero
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bodegas Altogrande"
 url: /curiel-de-duero/bodegas-altogrande/
-shop: Wein
+shop: vino
 ---

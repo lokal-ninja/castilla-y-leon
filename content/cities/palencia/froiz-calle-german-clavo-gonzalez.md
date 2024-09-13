@@ -1,5 +1,5 @@
 ---
 title: "Froiz"
 url: /palencia/froiz-calle-german-clavo-gonzalez/
-shop: Supermarkt
+shop: supermercado
 ---

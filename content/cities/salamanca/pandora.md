@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /salamanca/pandora/
-shop: Schmuck
+shop: joyería
 ---

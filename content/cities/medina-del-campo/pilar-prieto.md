@@ -1,5 +1,5 @@
 ---
 title: "Pilar Prieto"
 url: /medina-del-campo/pilar-prieto/
-shop: Kleidung
+shop: ropa
 ---

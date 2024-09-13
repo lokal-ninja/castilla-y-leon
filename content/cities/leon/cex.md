@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /leon/cex/
-shop: Elektronik
+shop: electrónica
 ---

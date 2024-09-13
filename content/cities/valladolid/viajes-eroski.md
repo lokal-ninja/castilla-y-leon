@@ -1,5 +1,5 @@
 ---
 title: "Viajes Eroski"
 url: /valladolid/viajes-eroski/
-shop: Reisebüro
+shop: agencia de viajes
 ---

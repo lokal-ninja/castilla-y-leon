@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio Cacabelos"
 url: /cacabelos/tanatorio-cacabelos/
-shop: Bestattungen
+shop: directores de funerarias
 ---

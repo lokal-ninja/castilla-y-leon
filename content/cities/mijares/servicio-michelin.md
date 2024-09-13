@@ -1,5 +1,5 @@
 ---
 title: "Servicio Michelín"
 url: /mijares/servicio-michelin/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Olibher"
 url: /valladolid/olibher/
-shop: Feinkost
+shop: charcutería
 ---

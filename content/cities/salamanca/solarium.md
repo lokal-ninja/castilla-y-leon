@@ -1,5 +1,5 @@
 ---
 title: "Solarium"
 url: /salamanca/solarium/
-shop: Kosmetik
+shop: cosméticos
 ---

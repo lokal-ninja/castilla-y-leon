@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /leon/rainbow/
-shop: Staubsauger
+shop: aspiradora
 ---

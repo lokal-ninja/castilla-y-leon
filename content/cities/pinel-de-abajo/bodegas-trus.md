@@ -1,5 +1,5 @@
 ---
 title: "Bodegas Trus"
 url: /pinel-de-abajo/bodegas-trus/
-shop: Wein
+shop: vino
 ---

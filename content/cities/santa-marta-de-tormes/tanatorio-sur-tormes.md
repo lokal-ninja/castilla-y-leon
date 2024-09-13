@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio Sur Tormes"
 url: /santa-marta-de-tormes/tanatorio-sur-tormes/
-shop: Bestattungen
+shop: directores de funerarias
 ---

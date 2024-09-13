@@ -1,5 +1,5 @@
 ---
 title: "Antenas Fermy"
 url: /valladolid/antenas-fermy/
-shop: Radiotechnik
+shop: radiotecnia
 ---

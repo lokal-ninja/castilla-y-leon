@@ -1,5 +1,5 @@
 ---
 title: "autoexpress García"
 url: /almazan/autoexpress-garcia/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

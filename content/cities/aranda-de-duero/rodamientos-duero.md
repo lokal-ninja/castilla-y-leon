@@ -1,5 +1,5 @@
 ---
 title: "Rodamientos Duero"
 url: /aranda-de-duero/rodamientos-duero/
-shop: Eisenwaren
+shop: hardware
 ---

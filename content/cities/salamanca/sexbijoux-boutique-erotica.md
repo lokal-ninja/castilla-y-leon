@@ -1,5 +1,5 @@
 ---
 title: "Sexbijoux Boutique erótica"
 url: /salamanca/sexbijoux-boutique-erotica/
-shop: Erotik
+shop: erótico
 ---

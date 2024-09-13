@@ -1,5 +1,5 @@
 ---
 title: "Ciclos Varela"
 url: /valladolid/ciclos-varela/
-shop: Fahrrad
+shop: bicicleta
 ---

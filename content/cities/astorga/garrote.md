@@ -1,5 +1,5 @@
 ---
 title: "Garrote"
 url: /astorga/garrote/
-shop: Feinkost
+shop: charcutería
 ---

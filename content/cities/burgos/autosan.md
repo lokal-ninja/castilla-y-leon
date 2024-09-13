@@ -1,5 +1,5 @@
 ---
 title: "AutoSan"
 url: /burgos/autosan/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

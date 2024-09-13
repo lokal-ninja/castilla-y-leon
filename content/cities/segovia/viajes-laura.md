@@ -1,5 +1,5 @@
 ---
 title: "Viajes Laura"
 url: /segovia/viajes-laura/
-shop: Reisebüro
+shop: agencia de viajes
 ---

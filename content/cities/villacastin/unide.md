@@ -1,5 +1,5 @@
 ---
 title: "UNIDE"
 url: /villacastin/unide/
-shop: Supermarkt
+shop: supermercado
 ---

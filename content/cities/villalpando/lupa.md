@@ -1,5 +1,5 @@
 ---
 title: "Lupa"
 url: /villalpando/lupa/
-shop: Supermarkt
+shop: supermercado
 ---

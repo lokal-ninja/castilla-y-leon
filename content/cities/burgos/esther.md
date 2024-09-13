@@ -1,5 +1,5 @@
 ---
 title: "Esther"
 url: /burgos/esther/
-shop: Kosmetik
+shop: cosméticos
 ---

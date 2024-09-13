@@ -1,5 +1,5 @@
 ---
 title: "ONCE"
 url: /segovia/once/
-shop: Lotterie
+shop: lotería
 ---

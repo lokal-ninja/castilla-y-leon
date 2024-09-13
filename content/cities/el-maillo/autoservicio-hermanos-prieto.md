@@ -1,5 +1,5 @@
 ---
 title: "Autoservicio Hermanos Prieto"
 url: /el-maillo/autoservicio-hermanos-prieto/
-shop: Lebensmittel
+shop: comodidad
 ---

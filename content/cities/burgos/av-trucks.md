@@ -1,5 +1,5 @@
 ---
 title: "AV Trucks"
 url: /burgos/av-trucks/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

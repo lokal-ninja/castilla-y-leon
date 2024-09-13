@@ -1,5 +1,5 @@
 ---
 title: "Muebles J. Calvo"
 url: /vitigudino/muebles-j-calvo/
-shop: Möbel
+shop: muebles
 ---

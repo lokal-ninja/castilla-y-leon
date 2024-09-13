@@ -1,5 +1,5 @@
 ---
 title: "San Fernando"
 url: /salamanca/san-fernando/
-shop: Schreibwaren
+shop: material de oficina
 ---

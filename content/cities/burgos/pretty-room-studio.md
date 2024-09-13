@@ -1,5 +1,5 @@
 ---
 title: "Pretty Room Studio"
 url: /burgos/pretty-room-studio/
-shop: Kosmetik
+shop: cosméticos
 ---

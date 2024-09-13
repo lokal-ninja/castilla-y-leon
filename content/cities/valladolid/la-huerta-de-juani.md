@@ -1,5 +1,5 @@
 ---
 title: "La Huerta de Juani"
 url: /valladolid/la-huerta-de-juani/
-shop: Gemüse & Obst
+shop: frutería
 ---

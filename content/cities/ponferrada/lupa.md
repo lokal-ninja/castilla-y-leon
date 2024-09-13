@@ -1,5 +1,5 @@
 ---
 title: "Lupa"
 url: /ponferrada/lupa/
-shop: Supermarkt
+shop: supermercado
 ---

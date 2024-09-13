@@ -1,5 +1,5 @@
 ---
 title: "Laura"
 url: /valladolid/laura/
-shop: Friseur
+shop: peluquería
 ---

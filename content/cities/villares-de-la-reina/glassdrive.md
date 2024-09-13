@@ -1,5 +1,5 @@
 ---
 title: "Glassdrive"
 url: /villares-de-la-reina/glassdrive/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

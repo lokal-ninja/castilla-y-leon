@@ -1,5 +1,5 @@
 ---
 title: "Julián Arranz"
 url: /valladolid/julian-arranz/
-shop: Süßwaren
+shop: confitería
 ---

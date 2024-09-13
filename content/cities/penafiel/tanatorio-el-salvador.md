@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio El Salvador"
 url: /penafiel/tanatorio-el-salvador/
-shop: Bestattungen
+shop: directores de funerarias
 ---

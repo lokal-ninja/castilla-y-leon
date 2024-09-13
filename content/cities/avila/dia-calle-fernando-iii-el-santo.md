@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /avila/dia-calle-fernando-iii-el-santo/
-shop: Supermarkt
+shop: supermercado
 ---

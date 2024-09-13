@@ -1,5 +1,5 @@
 ---
 title: "Petra"
 url: /valladolid/petra/
-shop: Kleidung
+shop: ropa
 ---

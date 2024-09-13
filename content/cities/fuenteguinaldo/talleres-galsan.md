@@ -1,5 +1,5 @@
 ---
 title: "Talleres Galsan"
 url: /fuenteguinaldo/talleres-galsan/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

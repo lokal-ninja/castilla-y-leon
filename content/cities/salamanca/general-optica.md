@@ -1,5 +1,5 @@
 ---
 title: "General Óptica"
 url: /salamanca/general-optica/
-shop: Optiker
+shop: óptico
 ---

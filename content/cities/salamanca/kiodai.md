@@ -1,5 +1,5 @@
 ---
 title: "Kiodai"
 url: /salamanca/kiodai/
-shop: Kosmetik
+shop: cosméticos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Bolsa Amarilla"
 url: /almazan/la-bolsa-amarilla/
-shop: Warenhaus
+shop: grandes almacenes
 ---

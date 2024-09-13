@@ -1,5 +1,5 @@
 ---
 title: "Puertas Secades"
 url: /villasante-de-montija/puertas-secades/
-shop: Türen
+shop: puertas
 ---

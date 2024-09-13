@@ -1,5 +1,5 @@
 ---
 title: "Hiper Tudela"
 url: /tudela-de-duero/hiper-tudela/
-shop: Kramladen
+shop: tienda de variedades
 ---

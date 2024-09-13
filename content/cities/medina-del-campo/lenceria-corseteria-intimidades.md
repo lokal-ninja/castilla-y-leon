@@ -1,5 +1,5 @@
 ---
 title: "Lencería Corsetería Intimidades"
 url: /medina-del-campo/lenceria-corseteria-intimidades/
-shop: Kleidung
+shop: ropa
 ---

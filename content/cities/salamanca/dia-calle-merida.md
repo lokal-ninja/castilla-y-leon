@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /salamanca/dia-calle-merida/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /guijuelo/peugeot/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

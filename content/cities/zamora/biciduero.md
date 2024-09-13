@@ -1,5 +1,5 @@
 ---
 title: "Biciduero"
 url: /zamora/biciduero/
-shop: Fahrrad
+shop: bicicleta
 ---

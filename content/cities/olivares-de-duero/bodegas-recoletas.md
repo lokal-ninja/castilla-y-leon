@@ -1,5 +1,5 @@
 ---
 title: "Bodegas Recoletas"
 url: /olivares-de-duero/bodegas-recoletas/
-shop: Wein
+shop: vino
 ---

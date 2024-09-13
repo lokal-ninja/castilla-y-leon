@@ -1,5 +1,5 @@
 ---
 title: "Euromaster"
 url: /medina-del-campo/euromaster/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

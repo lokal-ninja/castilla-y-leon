@@ -1,5 +1,5 @@
 ---
 title: "Auto Deluxe Garage"
 url: /burgos/auto-deluxe-garage/
-shop: Autohaus
+shop: coche
 ---

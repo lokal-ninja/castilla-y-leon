@@ -1,5 +1,5 @@
 ---
 title: "Carnicería H.R."
 url: /vitigudino/carniceria-h-r/
-shop: Metzgerei
+shop: carnicero
 ---

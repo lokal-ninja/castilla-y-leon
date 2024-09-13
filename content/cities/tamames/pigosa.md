@@ -1,5 +1,5 @@
 ---
 title: "Pigosa"
 url: /tamames/pigosa/
-shop: Metzgerei
+shop: carnicero
 ---

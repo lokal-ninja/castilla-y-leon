@@ -1,5 +1,5 @@
 ---
 title: "Virginia"
 url: /pancorbo/virginia/
-shop: Metzgerei
+shop: carnicero
 ---

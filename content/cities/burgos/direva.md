@@ -1,5 +1,5 @@
 ---
 title: "Direva"
 url: /burgos/direva/
-shop: Schreibwaren
+shop: material de oficina
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Ortopedia «Tres cruces«"
+title: "Ortopedia Tres cruces"
 url: /benavente/ortopedia-tres-cruces/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

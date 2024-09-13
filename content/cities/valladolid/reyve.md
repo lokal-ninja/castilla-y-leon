@@ -1,5 +1,5 @@
 ---
 title: "Reyve"
 url: /valladolid/reyve/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Libreria Esther"
 url: /almazan/libreria-esther/
-shop: Schreibwaren
+shop: material de oficina
 ---

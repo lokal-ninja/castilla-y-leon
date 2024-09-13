@@ -1,5 +1,5 @@
 ---
 title: "Reparación de calzados Paco"
 url: /vitigudino/reparacion-de-calzados-paco/
-shop: Schuhe
+shop: zapatos
 ---

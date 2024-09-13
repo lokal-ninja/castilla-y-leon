@@ -1,5 +1,5 @@
 ---
 title: "PANyMAX"
 url: /ponferrada/panymax/
-shop: Bäckerei
+shop: panadería
 ---

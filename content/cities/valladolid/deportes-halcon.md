@@ -1,5 +1,5 @@
 ---
 title: "Deportes Halcón"
 url: /valladolid/deportes-halcon/
-shop: Sport
+shop: deportes
 ---

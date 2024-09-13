@@ -1,5 +1,5 @@
 ---
 title: "Paco Martínez"
 url: /salamanca/paco-martinez/
-shop: Taschen & Koffer
+shop: bolsas y maletas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Embutidos Ballesteros"
 url: /valladolid/embutidos-ballesteros/
-shop: Metzgerei
+shop: carnicero
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Canedo"
 url: /lumbrales/canedo/
-shop: Badezimmer
+shop: cuarto de baño
 ---

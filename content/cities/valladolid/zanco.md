@@ -1,5 +1,5 @@
 ---
 title: "Zanco"
 url: /valladolid/zanco/
-shop: Schuhe
+shop: zapatos
 ---

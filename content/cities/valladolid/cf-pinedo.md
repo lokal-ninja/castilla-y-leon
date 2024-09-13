@@ -1,5 +1,5 @@
 ---
 title: "CF Pinedo"
 url: /valladolid/cf-pinedo/
-shop: Friseurbedarf
+shop: suministros de peluquería
 ---

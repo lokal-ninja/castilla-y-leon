@@ -1,5 +1,5 @@
 ---
 title: "Iris"
 url: /burgos/iris/
-shop: Foto
+shop: foto
 ---

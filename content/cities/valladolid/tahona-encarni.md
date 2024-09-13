@@ -1,5 +1,5 @@
 ---
 title: "Tahona Encarni"
 url: /valladolid/tahona-encarni/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bodega Matarromera"
 url: /valbuena-de-duero/bodega-matarromera/
-shop: Wein
+shop: vino
 ---

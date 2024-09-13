@@ -1,5 +1,5 @@
 ---
 title: "Infoaliste"
 url: /alcanices/infoaliste/
-shop: Computer
+shop: ordenador
 ---

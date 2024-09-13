@@ -1,5 +1,5 @@
 ---
 title: "Panadería Esteban Lucas"
 url: /almazan/panaderia-esteban-lucas/
-shop: Bäckerei
+shop: panadería
 ---

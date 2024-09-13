@@ -1,5 +1,5 @@
 ---
 title: "Hedbe"
 url: /villagonzalo-pedernales/hedbe/
-shop: Garten-Center
+shop: centro de jardinería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BikeLeón"
 url: /leon/bikeleon/
-shop: Fahrrad
+shop: bicicleta
 ---

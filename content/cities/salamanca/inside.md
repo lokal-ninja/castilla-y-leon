@@ -1,5 +1,5 @@
 ---
 title: "Inside"
 url: /salamanca/inside/
-shop: Kleidung
+shop: ropa
 ---

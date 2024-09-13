@@ -1,5 +1,5 @@
 ---
 title: "Autovican"
 url: /burgos/autovican/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

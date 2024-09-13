@@ -1,5 +1,5 @@
 ---
 title: "Conforauto Viagón"
 url: /tamames/conforauto-viagon/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

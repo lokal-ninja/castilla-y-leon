@@ -1,5 +1,5 @@
 ---
 title: "Viveros Teofi"
 url: /melgar-de-fernamental/viveros-teofi/
-shop: Garten-Center
+shop: centro de jardinería
 ---

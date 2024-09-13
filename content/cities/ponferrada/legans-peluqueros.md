@@ -1,5 +1,5 @@
 ---
 title: "Legan’s Peluqueros"
 url: /ponferrada/legans-peluqueros/
-shop: Friseur
+shop: peluquería
 ---

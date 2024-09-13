@@ -1,5 +1,5 @@
 ---
 title: "Talleres Francis"
 url: /segovia/talleres-francis/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

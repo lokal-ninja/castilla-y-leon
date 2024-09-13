@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /mojados/dia-calle-pio-basanta/
-shop: Supermarkt
+shop: supermercado
 ---

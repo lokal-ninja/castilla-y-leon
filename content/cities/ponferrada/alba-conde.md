@@ -1,5 +1,5 @@
 ---
 title: "Alba Conde"
 url: /ponferrada/alba-conde/
-shop: Kleidung
+shop: ropa
 ---

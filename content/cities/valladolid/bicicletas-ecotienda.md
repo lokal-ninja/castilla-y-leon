@@ -1,5 +1,5 @@
 ---
 title: "Bicicletas EcoTienda"
 url: /valladolid/bicicletas-ecotienda/
-shop: Fahrrad
+shop: bicicleta
 ---

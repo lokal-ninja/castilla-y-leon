@@ -1,5 +1,5 @@
 ---
 title: "Campogrande"
 url: /valladolid/campogrande/
-shop: Friseur
+shop: peluquería
 ---

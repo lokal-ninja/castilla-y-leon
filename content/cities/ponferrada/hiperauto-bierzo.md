@@ -1,5 +1,5 @@
 ---
 title: "Hiperauto Bierzo"
 url: /ponferrada/hiperauto-bierzo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Droguería Vega"
 url: /villalpando/drogueria-vega/
-shop: Kramladen
+shop: tienda de variedades
 ---

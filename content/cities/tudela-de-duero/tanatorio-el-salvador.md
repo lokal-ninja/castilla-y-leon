@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio El Salvador"
 url: /tudela-de-duero/tanatorio-el-salvador/
-shop: Bestattungen
+shop: directores de funerarias
 ---

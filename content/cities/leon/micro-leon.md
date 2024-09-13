@@ -1,5 +1,5 @@
 ---
 title: "Micro-León"
 url: /leon/micro-leon/
-shop: Computer
+shop: ordenador
 ---

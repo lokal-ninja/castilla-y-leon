@@ -1,5 +1,5 @@
 ---
 title: "Taller Arsenio"
 url: /villalpando/taller-arsenio/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

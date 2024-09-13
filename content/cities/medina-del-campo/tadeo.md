@@ -1,5 +1,5 @@
 ---
 title: "Tadeo"
 url: /medina-del-campo/tadeo/
-shop: Spielzeug
+shop: juguetes
 ---

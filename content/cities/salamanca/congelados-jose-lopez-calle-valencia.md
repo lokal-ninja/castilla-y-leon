@@ -1,5 +1,5 @@
 ---
 title: "Congelados José López"
 url: /salamanca/congelados-jose-lopez-calle-valencia/
-shop: Tiefkühl
+shop: alimentos congelados
 ---

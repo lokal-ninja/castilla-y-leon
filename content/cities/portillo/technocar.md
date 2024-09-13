@@ -1,5 +1,5 @@
 ---
 title: "Technocar"
 url: /portillo/technocar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DYM Peluqueros"
 url: /laguna-de-duero/dym-peluqueros/
-shop: Friseur
+shop: peluquería
 ---

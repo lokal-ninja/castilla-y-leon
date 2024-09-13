@@ -1,5 +1,5 @@
 ---
 title: "Inside"
 url: /medina-del-campo/inside/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoTech"
 url: /zaratan/autotech/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

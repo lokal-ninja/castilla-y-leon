@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio de Fabero"
 url: /fabero/tanatorio-de-fabero/
-shop: Bestattungen
+shop: directores de funerarias
 ---

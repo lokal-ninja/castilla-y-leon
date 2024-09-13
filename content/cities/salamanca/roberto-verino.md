@@ -1,5 +1,5 @@
 ---
 title: "Roberto Verino"
 url: /salamanca/roberto-verino/
-shop: Kleidung
+shop: ropa
 ---

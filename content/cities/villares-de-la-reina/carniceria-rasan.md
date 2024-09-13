@@ -1,5 +1,5 @@
 ---
 title: "Carnicería Rasan"
 url: /villares-de-la-reina/carniceria-rasan/
-shop: Metzgerei
+shop: carnicero
 ---

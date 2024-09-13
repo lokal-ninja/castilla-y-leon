@@ -1,5 +1,5 @@
 ---
 title: "ActivA Soft | BEEP Soria"
 url: /soria/activa-soft-beep-soria/
-shop: Computer
+shop: ordenador
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gadis"
 url: /benavente/gadis/
-shop: Supermarkt
+shop: supermercado
 ---

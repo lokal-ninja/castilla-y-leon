@@ -1,5 +1,5 @@
 ---
 title: "Los Abuelos"
 url: /valladolid/los-abuelos/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

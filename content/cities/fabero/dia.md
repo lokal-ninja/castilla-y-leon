@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /fabero/dia/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Juan Acha"
 url: /burgos/juan-acha/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

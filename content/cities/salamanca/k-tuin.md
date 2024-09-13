@@ -1,5 +1,5 @@
 ---
 title: "K-Tuin"
 url: /salamanca/k-tuin/
-shop: Computer
+shop: ordenador
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Panadería Artesana El Manjar"
 url: /fuentesnuevas/panaderia-artesana-el-manjar/
-shop: Bäckerei
+shop: panadería
 ---

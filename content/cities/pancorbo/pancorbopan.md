@@ -1,5 +1,5 @@
 ---
 title: "Pancorbopan"
 url: /pancorbo/pancorbopan/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Automóviles Izan"
 url: /burgos/automoviles-izan/
-shop: Autohaus
+shop: coche
 ---

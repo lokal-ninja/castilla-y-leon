@@ -1,5 +1,5 @@
 ---
 title: "Gráficas Tizona"
 url: /burgos/graficas-tizona/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

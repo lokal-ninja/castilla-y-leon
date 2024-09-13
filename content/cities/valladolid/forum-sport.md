@@ -1,5 +1,5 @@
 ---
 title: "Forum Sport"
 url: /valladolid/forum-sport/
-shop: Sport
+shop: deportes
 ---

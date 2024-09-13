@@ -1,5 +1,5 @@
 ---
 title: "Presume"
 url: /salamanca/presume/
-shop: Kosmetik
+shop: cosméticos
 ---

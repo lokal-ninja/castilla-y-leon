@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /ponferrada/decathlon/
-shop: Sport
+shop: deportes
 ---

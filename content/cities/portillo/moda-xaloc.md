@@ -1,5 +1,5 @@
 ---
 title: "Moda Xaloc"
 url: /portillo/moda-xaloc/
-shop: Kleidung
+shop: ropa
 ---

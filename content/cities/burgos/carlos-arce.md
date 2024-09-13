@@ -1,5 +1,5 @@
 ---
 title: "Carlos Arce"
 url: /burgos/carlos-arce/
-shop: Friseur
+shop: peluquería
 ---

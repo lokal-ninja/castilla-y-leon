@@ -1,5 +1,5 @@
 ---
 title: "Pescadería José Cordobés Torres"
 url: /vitigudino/pescaderia-jose-cordobes-torres/
-shop: Fisch
+shop: marisco
 ---

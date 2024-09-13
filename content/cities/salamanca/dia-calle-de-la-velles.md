@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /salamanca/dia-calle-de-la-velles/
-shop: Supermarkt
+shop: supermercado
 ---

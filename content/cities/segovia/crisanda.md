@@ -1,5 +1,5 @@
 ---
 title: "Crisanda"
 url: /segovia/crisanda/
-shop: Kleidung
+shop: ropa
 ---

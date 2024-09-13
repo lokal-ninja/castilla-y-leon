@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /san-cristobal-de-entrevinas/coviran/
-shop: Supermarkt
+shop: supermercado
 ---

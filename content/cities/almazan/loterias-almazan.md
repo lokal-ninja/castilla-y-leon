@@ -1,5 +1,5 @@
 ---
 title: "Loterías Almazán"
 url: /almazan/loterias-almazan/
-shop: Lotterie
+shop: lotería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial El Rosal"
 url: /ponferrada/centro-comercial-el-rosal/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

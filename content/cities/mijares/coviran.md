@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /mijares/coviran/
-shop: Supermarkt
+shop: supermercado
 ---

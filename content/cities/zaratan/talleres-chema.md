@@ -1,5 +1,5 @@
 ---
 title: "Talleres Chema"
 url: /zaratan/talleres-chema/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

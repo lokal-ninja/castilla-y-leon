@@ -1,5 +1,5 @@
 ---
 title: "Mariano"
 url: /salamanca/mariano/
-shop: Optiker
+shop: óptico
 ---

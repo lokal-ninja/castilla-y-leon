@@ -1,5 +1,5 @@
 ---
 title: "Gadis"
 url: /valladolid/gadis-calle-de-la-esgueva/
-shop: Supermarkt
+shop: supermercado
 ---

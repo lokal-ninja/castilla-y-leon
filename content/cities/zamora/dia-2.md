@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /zamora/dia-2/
-shop: Supermarkt
+shop: supermercado
 ---

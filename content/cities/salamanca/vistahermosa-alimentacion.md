@@ -1,5 +1,5 @@
 ---
 title: "Vistahermosa Alimentación"
 url: /salamanca/vistahermosa-alimentacion/
-shop: Kiosk
+shop: quiosco
 ---

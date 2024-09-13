@@ -1,5 +1,5 @@
 ---
 title: "Mombelauto"
 url: /mombeltran/mombelauto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

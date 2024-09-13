@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /medina-del-campo/dia-carretera-de-penaranda/
-shop: Supermarkt
+shop: supermercado
 ---

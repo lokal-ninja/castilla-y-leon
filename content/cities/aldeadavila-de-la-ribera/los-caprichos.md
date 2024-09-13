@@ -1,5 +1,5 @@
 ---
 title: "Los Caprichos"
 url: /aldeadavila-de-la-ribera/los-caprichos/
-shop: Bäckerei
+shop: panadería
 ---

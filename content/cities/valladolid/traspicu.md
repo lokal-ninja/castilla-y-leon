@@ -1,5 +1,5 @@
 ---
 title: "Traspicu"
 url: /valladolid/traspicu/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

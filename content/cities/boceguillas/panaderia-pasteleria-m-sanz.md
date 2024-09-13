@@ -1,5 +1,5 @@
 ---
 title: "Panadería Pastelería M. Sanz"
 url: /boceguillas/panaderia-pasteleria-m-sanz/
-shop: Bäckerei
+shop: panadería
 ---

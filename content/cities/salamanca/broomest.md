@@ -1,5 +1,5 @@
 ---
 title: "Broomest"
 url: /salamanca/broomest/
-shop: Wäscherei
+shop: lavandería
 ---

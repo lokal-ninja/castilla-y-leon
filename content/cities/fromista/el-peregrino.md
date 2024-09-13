@@ -1,5 +1,5 @@
 ---
 title: "El Peregrino"
 url: /fromista/el-peregrino/
-shop: Andenken
+shop: regalo
 ---

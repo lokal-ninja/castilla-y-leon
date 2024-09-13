@@ -1,5 +1,5 @@
 ---
 title: "Paralcampo"
 url: /valladolid/paralcampo/
-shop: Landwirtschaftlich
+shop: agraria
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amaya"
 url: /valladolid/amaya/
-shop: Schreibwaren
+shop: material de oficina
 ---

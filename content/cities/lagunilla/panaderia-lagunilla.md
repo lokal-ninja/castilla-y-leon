@@ -1,5 +1,5 @@
 ---
 title: "Panadería Lagunilla"
 url: /lagunilla/panaderia-lagunilla/
-shop: Bäckerei
+shop: panadería
 ---

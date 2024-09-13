@@ -1,5 +1,5 @@
 ---
 title: "BMW Arlanza Motor"
 url: /palencia/bmw-arlanza-motor/
-shop: Autohaus
+shop: coche
 ---

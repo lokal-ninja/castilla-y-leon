@@ -1,5 +1,5 @@
 ---
 title: "Confitería Celada"
 url: /la-robla/confiteria-celada/
-shop: Süßwaren
+shop: confitería
 ---

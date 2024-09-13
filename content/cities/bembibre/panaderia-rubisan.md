@@ -1,5 +1,5 @@
 ---
 title: "Panadería Rubisan"
 url: /bembibre/panaderia-rubisan/
-shop: Bäckerei
+shop: panadería
 ---

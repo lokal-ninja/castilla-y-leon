@@ -1,5 +1,5 @@
 ---
 title: "Autoengrase Tenerías"
 url: /valladolid/autoengrase-tenerias/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

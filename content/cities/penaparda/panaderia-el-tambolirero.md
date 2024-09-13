@@ -1,5 +1,5 @@
 ---
 title: "Panadería El Tambolirero"
 url: /penaparda/panaderia-el-tambolirero/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tecni Sport"
 url: /burgos/tecni-sport/
-shop: Fahrrad
+shop: bicicleta
 ---

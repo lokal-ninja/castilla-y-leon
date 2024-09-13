@@ -1,5 +1,5 @@
 ---
 title: "Talleres Vigón"
 url: /burgos/talleres-vigon/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

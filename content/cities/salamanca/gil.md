@@ -1,5 +1,5 @@
 ---
 title: "Gil"
 url: /salamanca/gil/
-shop: Bäckerei
+shop: panadería
 ---

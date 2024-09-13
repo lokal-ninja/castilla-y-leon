@@ -1,5 +1,5 @@
 ---
 title: "Talleres Seoane"
 url: /ponferrada/talleres-seoane/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---
