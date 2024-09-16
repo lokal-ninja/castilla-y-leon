@@ -1,11 +1,11 @@
 id: 38350863
-type: way
+type: node
 latitude: 42.33524
 longitude: -3.71191
 postcode: "09001"
 city: Burgos
-street: "Calle Caleruega"
-housenumber: 
-phone: "+34 947 46 07 20"
-opening_hours: "Mo-Sa 09:00-21:30; Tu,Su off"
-website: "https://www.mercadona.es"
+street: Calle Caleruega
+housenumber: ""
+phone: +34 947 46 07 20
+opening_hours: Mo-Sa 09:00-21:30; Tu,Su off
+website: https://www.mercadona.es

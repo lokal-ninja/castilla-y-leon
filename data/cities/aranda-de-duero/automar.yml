@@ -1,11 +1,11 @@
 id: 469558542
-type: way
+type: node
 latitude: 41.6654
 longitude: -3.70968
 postcode: "09400"
 city: Aranda de Duero
-street: "Avenida Luis Mateos"
-housenumber: 42
+street: Avenida Luis Mateos
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

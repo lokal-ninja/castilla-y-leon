@@ -4,8 +4,8 @@ latitude: 40.96695
 longitude: -5.66208
 postcode: "37002"
 city: Salamanca
-street: "Calle Toro"
-housenumber: 50
-phone: "+34 923280430"
+street: Calle Toro
+housenumber: "50"
+phone: +34 923280430
 opening_hours: ""
-website: "https://www.rituals.com/es-es/home"
+website: https://www.rituals.com/es-es/home

@@ -1,11 +1,11 @@
 id: 310895396
-type: way
+type: node
 latitude: 42.38975
 longitude: -3.30796
 postcode: "09257"
 city: Villafranca Montes de Oca
-street: "Calle Mayor"
-housenumber: 7
+street: Calle Mayor
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Su 10:00-14:00,17:00-19:00"
+opening_hours: Mo-Su 10:00-14:00,17:00-19:00
 website: ""

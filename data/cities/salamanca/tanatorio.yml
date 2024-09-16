@@ -1,11 +1,11 @@
 id: 48452505
-type: way
+type: node
 latitude: 40.97349
 longitude: -5.68232
 postcode: "37006"
 city: Salamanca
-street: "Avenida Obispo Sancho de Castilla"
-housenumber: 67
-phone: "+34 923 125 390; +34 923 125 391"
-opening_hours: "24/7"
-website: "https://www.tanatoriosancarlos.es/"
+street: Avenida Obispo Sancho de Castilla
+housenumber: "67"
+phone: +34 923 125 390; +34 923 125 391
+opening_hours: 24/7
+website: https://www.tanatoriosancarlos.es/

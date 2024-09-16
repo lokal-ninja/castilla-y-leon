@@ -4,8 +4,8 @@ latitude: 41.51294
 longitude: -5.74054
 postcode: "49004"
 city: Zamora
-street: "Avenida del Cardenal Cisneros"
-housenumber: 60
+street: Avenida del Cardenal Cisneros
+housenumber: "60"
 phone: "+34635544994"
-opening_hours: "Mo-Fr 09:00-14:30,17:00-20:00; Sa 09:00-14:15"
-website: "https://www.fruteriagema.com"
+opening_hours: Mo-Fr 09:00-14:30,17:00-20:00; Sa 09:00-14:15
+website: https://www.fruteriagema.com

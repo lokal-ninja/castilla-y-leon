@@ -4,8 +4,8 @@ latitude: 42.40367
 longitude: -4.24353
 postcode: "09100"
 city: Melgar de Fernamental
-street: "Calle Padre Luis Martín"
-housenumber: 6
-phone: "+34 650636823"
-opening_hours: "Mo-Fr 17:00-20:00"
-website: "https://www.sumasupermercados.es/es"
+street: Calle Padre Luis Martín
+housenumber: "6"
+phone: +34 650636823
+opening_hours: Mo-Fr 17:00-20:00
+website: https://www.sumasupermercados.es/es

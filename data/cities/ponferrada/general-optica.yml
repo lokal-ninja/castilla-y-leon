@@ -4,8 +4,8 @@ latitude: 42.54782
 longitude: -6.59965
 postcode: "24402"
 city: Ponferrada
-street: "Avenida de España"
-housenumber: 12
-phone: "+34 987425707"
+street: Avenida de España
+housenumber: "12"
+phone: +34 987425707
 opening_hours: ""
-website: "https://www.generaloptica.es"
+website: https://www.generaloptica.es

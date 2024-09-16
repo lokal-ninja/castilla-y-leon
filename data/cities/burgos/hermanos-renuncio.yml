@@ -1,11 +1,11 @@
 id: 52165101
-type: way
+type: node
 latitude: 42.37401
 longitude: -3.73211
 postcode: "09001"
 city: Burgos
-street: "Calle Valle de Mena"
-housenumber: 5
+street: Calle Valle de Mena
+housenumber: "5"
 phone: "+34947298829"
 opening_hours: ""
 website: ""

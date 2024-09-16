@@ -4,8 +4,8 @@ latitude: 40.97281
 longitude: -5.66609
 postcode: "37006"
 city: Salamanca
-street: "Avenida de Portugal"
-housenumber: 143
-phone: "+34 923 255 237"
-opening_hours: "Mo-Fr 10:00-13:30,16:45-20:15; Sa 10:00-14:00"
-website: "http://www.vegapiel.com/"
+street: Avenida de Portugal
+housenumber: "143"
+phone: +34 923 255 237
+opening_hours: Mo-Fr 10:00-13:30,16:45-20:15; Sa 10:00-14:00
+website: http://www.vegapiel.com/

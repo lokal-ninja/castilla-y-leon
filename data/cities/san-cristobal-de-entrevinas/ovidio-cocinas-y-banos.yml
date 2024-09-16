@@ -1,11 +1,11 @@
 id: 1104413750
-type: way
+type: node
 latitude: 42.04888
 longitude: -5.63702
 postcode: "49690"
 city: San Cristóbal de Entreviñas
-street: "Calle Villabrázaro"
-housenumber: 4
-phone: "+34 980 64 35 69"
-opening_hours: "Mo-Fr 10:00-14:00,17:00-19:30"
+street: Calle Villabrázaro
+housenumber: "4"
+phone: +34 980 64 35 69
+opening_hours: Mo-Fr 10:00-14:00,17:00-19:30
 website: ""

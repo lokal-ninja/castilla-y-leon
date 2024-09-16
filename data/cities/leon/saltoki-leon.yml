@@ -1,11 +1,11 @@
 id: 158044991
-type: way
+type: node
 latitude: 42.57743
 longitude: -5.5528
 postcode: "24005"
 city: León
-street: "Avenida la Lastra"
-housenumber: 49
+street: Avenida la Lastra
+housenumber: "49"
 phone: ""
 opening_hours: ""
-website: "http://www.saltoki.es"
+website: http://www.saltoki.es

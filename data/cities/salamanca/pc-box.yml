@@ -4,8 +4,8 @@ latitude: 40.9713
 longitude: -5.66352
 postcode: ""
 city: Salamanca
-street: "Paseo del Doctor Torres Villarroel"
-housenumber: 17
-phone: "+34 923 188 118"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-14:00"
-website: "https://www.pcbox.com/tienda-de-informatica/21/salamanca"
+street: Paseo del Doctor Torres Villarroel
+housenumber: "17"
+phone: +34 923 188 118
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-14:00
+website: https://www.pcbox.com/tienda-de-informatica/21/salamanca

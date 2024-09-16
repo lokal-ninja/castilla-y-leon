@@ -4,8 +4,8 @@ latitude: 40.97112
 longitude: -5.64399
 postcode: "37003"
 city: Salamanca
-street: "Calle Borneo"
-housenumber: 1
+street: Calle Borneo
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-14:00,17:00-20:00; Sa 18:00-20:00"
+opening_hours: Mo-Fr 10:00-14:00,17:00-20:00; Sa 18:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 40.96714
 longitude: -5.66188
 postcode: "37002"
 city: Salamanca
-street: "Calle Toro"
-housenumber: 52
-phone: "+34 923261277"
-opening_hours: "Mo-Sa 10:00-14:00; Mo-Fr 17:00-20:00"
-website: "https://roselin.es/"
+street: Calle Toro
+housenumber: "52"
+phone: +34 923261277
+opening_hours: Mo-Sa 10:00-14:00; Mo-Fr 17:00-20:00
+website: https://roselin.es/

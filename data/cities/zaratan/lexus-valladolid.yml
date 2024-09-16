@@ -1,11 +1,11 @@
 id: 320126088
-type: way
+type: node
 latitude: 41.66064
 longitude: -4.76276
 postcode: "47610"
 city: Zaratán
-street: "Avenida de Gijón"
-housenumber: 
-phone: "+34 983354050"
+street: Avenida de Gijón
+housenumber: ""
+phone: +34 983354050
 opening_hours: ""
-website: "https://www.lexusauto.es/modelos"
+website: https://www.lexusauto.es/modelos

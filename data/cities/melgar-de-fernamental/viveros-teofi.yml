@@ -1,11 +1,11 @@
 id: 690526830
-type: way
+type: node
 latitude: 42.40755
 longitude: -4.23989
 postcode: "09100"
 city: Melgar de Fernamental
-street: "Camino Padilla de Arriba"
-housenumber: 
-phone: "+34 619218000"
-opening_hours: "Mo-Fr 09:00-14:00,16:30-19:00; Sa 09:00-13:30"
-website: "https://viveros-teofi.negocio.site/"
+street: Camino Padilla de Arriba
+housenumber: ""
+phone: +34 619218000
+opening_hours: Mo-Fr 09:00-14:00,16:30-19:00; Sa 09:00-13:30
+website: https://viveros-teofi.negocio.site/

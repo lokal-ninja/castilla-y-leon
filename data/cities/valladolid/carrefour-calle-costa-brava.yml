@@ -1,11 +1,11 @@
 id: 26947403
-type: way
+type: node
 latitude: 41.67034
 longitude: -4.70964
 postcode: "47010"
 city: Valladolid
-street: "Calle Costa Brava"
-housenumber: 2
+street: Calle Costa Brava
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1130604204
-type: way
+type: node
 latitude: 42.56628
 longitude: -6.63939
 postcode: "24404"
 city: Ponferrada
-street: "Avenida de Galicia"
-housenumber: 253
-phone: "+34 987 456 945"
+street: Avenida de Galicia
+housenumber: "253"
+phone: +34 987 456 945
 opening_hours: ""
-website: "http://www.recambiospe.com/tienda/index.jsp"
+website: http://www.recambiospe.com/tienda/index.jsp

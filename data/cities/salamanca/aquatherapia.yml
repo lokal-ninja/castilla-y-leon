@@ -4,8 +4,8 @@ latitude: 40.9635
 longitude: -5.66294
 postcode: "37001"
 city: Salamanca
-street: "Calle San Justo"
-housenumber: 10
-phone: "+34 923 211 178"
-opening_hours: "Mo-Fr 10:00-15:00,17:00-21:30; Sa 10:00-22:00; Su 11:00-15:00"
-website: "http://www.aquatherapia.com/"
+street: Calle San Justo
+housenumber: "10"
+phone: +34 923 211 178
+opening_hours: Mo-Fr 10:00-15:00,17:00-21:30; Sa 10:00-22:00; Su 11:00-15:00
+website: http://www.aquatherapia.com/

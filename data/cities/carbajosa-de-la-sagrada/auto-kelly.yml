@@ -1,11 +1,11 @@
 id: 361128640
-type: way
+type: node
 latitude: 40.94651
 longitude: -5.65627
 postcode: "37188"
 city: Carbajosa de la Sagrada
-street: "Avenida de Carbajosa"
-housenumber: 23
-phone: "+34 923 19 19 79"
+street: Avenida de Carbajosa
+housenumber: "23"
+phone: +34 923 19 19 79
 opening_hours: ""
-website: "http://www.autokelly.es/"
+website: http://www.autokelly.es/

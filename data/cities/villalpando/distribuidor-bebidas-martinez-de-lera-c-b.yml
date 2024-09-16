@@ -1,11 +1,11 @@
 id: 496532576
-type: way
+type: node
 latitude: 41.86703
 longitude: -5.41536
 postcode: "49630"
 city: Villalpando
-street: "Camino Barrabueyes"
+street: Camino Barrabueyes
 housenumber: 4D
-phone: "+34 980 66 02 32"
-opening_hours: "Mo-Fr 10:00-14:00,17:00-20:00; Sa 10:00-14:00"
+phone: +34 980 66 02 32
+opening_hours: Mo-Fr 10:00-14:00,17:00-20:00; Sa 10:00-14:00
 website: ""

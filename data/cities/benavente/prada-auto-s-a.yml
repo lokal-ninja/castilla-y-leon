@@ -1,11 +1,11 @@
 id: 26508531
-type: way
+type: node
 latitude: 42.00228
 longitude: -5.67099
 postcode: "49600"
 city: Benavente
-street: "Avenida Federico Silva"
-housenumber: 31
-phone: "+34 980 63 31 60"
+street: Avenida Federico Silva
+housenumber: "31"
+phone: +34 980 63 31 60
 opening_hours: ""
 website: ""

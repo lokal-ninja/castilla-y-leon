@@ -4,8 +4,8 @@ latitude: 40.96694
 longitude: -5.66651
 postcode: ""
 city: Salamanca
-street: "Cuesta del Carmen"
-housenumber: 24
-phone: "+34 923 600 897"
-opening_hours: "Mo-Fr 10:00-14:30,17:00-20:30; Sa 10:00-14:30"
-website: "https://www.jamoneriadecarmen.com"
+street: Cuesta del Carmen
+housenumber: "24"
+phone: +34 923 600 897
+opening_hours: Mo-Fr 10:00-14:30,17:00-20:30; Sa 10:00-14:30
+website: https://www.jamoneriadecarmen.com

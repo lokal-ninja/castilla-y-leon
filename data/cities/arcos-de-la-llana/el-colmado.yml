@@ -4,8 +4,8 @@ latitude: 42.26491
 longitude: -3.75045
 postcode: "09195"
 city: Arcos de la Llana
-street: "Calle La Acacia"
-housenumber: 6
+street: Calle La Acacia
+housenumber: "6"
 phone: "+34947403676"
-opening_hours: "11:00-15:00,18:00-21:00"
+opening_hours: 11:00-15:00,18:00-21:00
 website: ""

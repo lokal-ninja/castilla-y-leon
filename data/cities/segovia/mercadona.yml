@@ -1,11 +1,11 @@
 id: 1049515608
-type: way
+type: node
 latitude: 40.95823
 longitude: -4.10495
 postcode: "40003"
 city: Segovia
-street: "Carretera Riaza"
-housenumber: 5
+street: Carretera Riaza
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.mercadona.es/"
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.mercadona.es/

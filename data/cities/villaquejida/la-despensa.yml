@@ -4,8 +4,8 @@ latitude: 42.14369
 longitude: -5.59857
 postcode: "24235"
 city: Villaquejida
-street: "Calle San Juan"
-housenumber: 31
-phone: "+34 987 77 46 90"
-opening_hours: "Mo-Sa 10:00-14:00; Mo-Fr 17:30-20:30"
+street: Calle San Juan
+housenumber: "31"
+phone: +34 987 77 46 90
+opening_hours: Mo-Sa 10:00-14:00; Mo-Fr 17:30-20:30
 website: ""

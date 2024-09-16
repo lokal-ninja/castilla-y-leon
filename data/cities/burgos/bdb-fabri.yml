@@ -1,11 +1,11 @@
 id: 60565364
-type: way
+type: node
 latitude: 42.35717
 longitude: -3.70069
 postcode: "09006"
 city: burgos
-street: "Avenida Caja Círculo"
-housenumber: 
-phone: "+34 947 235 946"
+street: Avenida Caja Círculo
+housenumber: ""
+phone: +34 947 235 946
 opening_hours: ""
 website: ""

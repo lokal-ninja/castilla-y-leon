@@ -1,11 +1,11 @@
 id: 1285795152
-type: way
+type: node
 latitude: 41.62992
 longitude: -4.72517
 postcode: "47013"
 city: Valladolid
-street: "Calle Arca Real"
-housenumber: 101
-phone: "+34 983708040"
-opening_hours: "Mo-Sa 09:00-21:30"
+street: Calle Arca Real
+housenumber: "101"
+phone: +34 983708040
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

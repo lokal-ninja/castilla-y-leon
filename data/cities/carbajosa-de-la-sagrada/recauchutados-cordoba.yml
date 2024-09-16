@@ -1,11 +1,11 @@
 id: 361375643
-type: way
+type: node
 latitude: 40.94289
 longitude: -5.6582
 postcode: "37188"
 city: Carbajosa de la Sagrada
-street: "Calle Francisco Bonet"
-housenumber: 2
+street: Calle Francisco Bonet
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

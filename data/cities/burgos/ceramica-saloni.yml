@@ -4,8 +4,8 @@ latitude: 42.35881
 longitude: -3.66384
 postcode: "09007"
 city: Burgos
-street: "Calle Granada"
-housenumber: 10
-phone: "+34 947 48 00 24"
-opening_hours: "Mo-Fr 10:00-13:30, 16:00-20:00; Sa 10:00-13:00"
-website: "https://www.saloni.com/"
+street: Calle Granada
+housenumber: "10"
+phone: +34 947 48 00 24
+opening_hours: Mo-Fr 10:00-13:30, 16:00-20:00; Sa 10:00-13:00
+website: https://www.saloni.com/

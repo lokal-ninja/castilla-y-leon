@@ -1,11 +1,11 @@
 id: 26947357
-type: way
+type: node
 latitude: 41.62415
 longitude: -4.75077
 postcode: "47008"
 city: Valladolid
-street: "Paseo de Zorrilla"
-housenumber: 
-phone: "+34 983475455"
-opening_hours: "Mo-Sa 09:00-24:00"
-website: "https://vallsur.com"
+street: Paseo de Zorrilla
+housenumber: ""
+phone: +34 983475455
+opening_hours: Mo-Sa 09:00-24:00
+website: https://vallsur.com

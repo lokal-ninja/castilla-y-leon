@@ -1,11 +1,11 @@
 id: 223242133
-type: way
+type: node
 latitude: 40.72216
 longitude: -5.6274
 postcode: "37789"
 city: Fresno Alhándiga
-street: "Carretera Gijón a Puerto de Sevilla"
-housenumber: 
-phone: "+34 923381126"
-opening_hours: "Mo-Fr 08:30-18:00"
-website: "https://www.ibericosalhandiga.com/"
+street: Carretera Gijón a Puerto de Sevilla
+housenumber: ""
+phone: +34 923381126
+opening_hours: Mo-Fr 08:30-18:00
+website: https://www.ibericosalhandiga.com/

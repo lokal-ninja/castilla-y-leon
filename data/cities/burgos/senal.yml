@@ -4,8 +4,8 @@ latitude: 42.34287
 longitude: -3.69732
 postcode: "09004"
 city: Burgos
-street: "Calle San Juan"
-housenumber: 45
+street: Calle San Juan
+housenumber: "45"
 phone: ""
-opening_hours: ""
+opening_hours: Mo-Sa 10:00-14:00,17:30-20:30
 website: ""

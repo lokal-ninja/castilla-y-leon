@@ -1,11 +1,11 @@
 id: 660573807
-type: way
+type: node
 latitude: 41.47287
 longitude: -4.59099
 postcode: "47160"
 city: Portillo
-street: "Calle Luis del Valle"
-housenumber: 23
-phone: "+34 983556451"
-opening_hours: "Mo-Sa 09:30-13:30, 17:00-20:00"
+street: Calle Luis del Valle
+housenumber: "23"
+phone: +34 983556451
+opening_hours: Mo-Sa 09:30-13:30, 17:00-20:00
 website: ""

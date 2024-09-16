@@ -1,11 +1,11 @@
 id: 315915228
-type: way
+type: node
 latitude: 41.65712
 longitude: -4.7387
 postcode: "47009"
 city: Valladolid
-street: "Calle del Bálago"
-housenumber: 5
+street: Calle del Bálago
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

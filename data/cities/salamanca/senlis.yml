@@ -4,8 +4,8 @@ latitude: 40.97126
 longitude: -5.6588
 postcode: "37005"
 city: Salamanca
-street: "Avenida de Portugal"
-housenumber: 63
-phone: "+34 923 22 68 22"
-opening_hours: "Mo-Fr 10:00-13:30,16:45-20:15; Sa 10:00-14:00"
+street: Avenida de Portugal
+housenumber: "63"
+phone: +34 923 22 68 22
+opening_hours: Mo-Fr 10:00-13:30,16:45-20:15; Sa 10:00-14:00
 website: ""

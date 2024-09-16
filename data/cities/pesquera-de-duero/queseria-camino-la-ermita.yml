@@ -1,11 +1,11 @@
 id: 850682630
-type: way
+type: node
 latitude: 41.64305
 longitude: -4.16211
 postcode: "47315"
 city: Pesquera de Duero
-street: "Camino de la Ermita de San Isidro"
-housenumber: 
-phone: "+34 686079914"
+street: Camino de la Ermita de San Isidro
+housenumber: ""
+phone: +34 686079914
 opening_hours: ""
-website: "https://www.caminolaermita.es/"
+website: https://www.caminolaermita.es/

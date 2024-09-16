@@ -4,8 +4,8 @@ latitude: 41.64722
 longitude: -4.7207
 postcode: "47004"
 city: Valladolid
-street: "Calle de Labradores"
-housenumber: 16
+street: Calle de Labradores
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-14:00"
-website: "https://sites.google.com/view/tanrelax"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-14:00
+website: https://sites.google.com/view/tanrelax

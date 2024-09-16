@@ -1,11 +1,11 @@
 id: 361005877
-type: way
+type: node
 latitude: 40.94493
 longitude: -5.65602
 postcode: "37188"
 city: Carbajosa de la Sagrada
-street: "Avenida de Carbajosa"
-housenumber: 7
-phone: "+34 923 19 51 09"
+street: Avenida de Carbajosa
+housenumber: "7"
+phone: +34 923 19 51 09
 opening_hours: ""
-website: "http://www.metabos.com"
+website: http://www.metabos.com

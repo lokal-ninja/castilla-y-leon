@@ -1,11 +1,11 @@
 id: 480355867
-type: way
+type: node
 latitude: 41.00629
 longitude: -6.43657
 postcode: "37210"
 city: Vitigudino
-street: "Calle de la Reguerita"
-housenumber: 1
-phone: "+34 923 501 013"
+street: Calle de la Reguerita
+housenumber: "1"
+phone: +34 923 501 013
 opening_hours: ""
 website: ""

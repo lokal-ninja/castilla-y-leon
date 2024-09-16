@@ -1,11 +1,11 @@
 id: 1024693883
-type: way
+type: node
 latitude: 41.59295
 longitude: -4.58679
 postcode: "47320"
 city: Tudela de Duero
-street: "Calle Cementerio"
-housenumber: 
-phone: "+34 983522789"
+street: Calle Cementerio
+housenumber: ""
+phone: +34 983522789
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.3495
 longitude: -3.67137
 postcode: "09007"
 city: Burgos
-street: "Calle Santiago Apóstol"
-housenumber: 22
-phone: "+34 947 21 64 94"
-opening_hours: "Mo-Fr 10:00-14:00,17:30-20:30; Sa 10:00-14:00"
-website: "https://tazitastecafechocolate.es/"
+street: Calle Santiago Apóstol
+housenumber: "22"
+phone: +34 947 21 64 94
+opening_hours: Mo-Fr 10:00-14:00,17:30-20:30; Sa 10:00-14:00
+website: https://tazitastecafechocolate.es/

@@ -1,11 +1,11 @@
 id: 850682629
-type: way
+type: node
 latitude: 41.642
 longitude: -4.16293
 postcode: "47315"
 city: Pesquera de Duero
-street: "Carretera de Villafuerte"
-housenumber: 
-phone: "+34 616918323"
+street: Carretera de Villafuerte
+housenumber: ""
+phone: +34 616918323
 opening_hours: ""
-website: "https://bodegasvdb.com/"
+website: https://bodegasvdb.com/

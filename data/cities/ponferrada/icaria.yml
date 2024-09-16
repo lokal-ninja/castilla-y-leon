@@ -4,8 +4,8 @@ latitude: 42.54879
 longitude: -6.60067
 postcode: "24400"
 city: Ponferrada
-street: "Calle Ramón y Cajal"
-housenumber: 28
-phone: "+34 987 412 191"
+street: Calle Ramón y Cajal
+housenumber: "28"
+phone: +34 987 412 191
 opening_hours: ""
-website: "https://www.icaria.es"
+website: https://www.icaria.es

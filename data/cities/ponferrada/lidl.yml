@@ -1,11 +1,11 @@
 id: 129250539
-type: way
+type: node
 latitude: 42.55082
 longitude: -6.57368
 postcode: "24401"
 city: Ponferrada
-street: "Avenida de Astorga"
-housenumber: 
+street: Avenida de Astorga
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

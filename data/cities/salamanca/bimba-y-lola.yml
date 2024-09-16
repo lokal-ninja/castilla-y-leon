@@ -4,8 +4,8 @@ latitude: 40.96634
 longitude: -5.66286
 postcode: "37002"
 city: Salamanca
-street: "Calle Toro"
-housenumber: 23
-phone: "+34 923 27 10 67"
-opening_hours: "Mo-Sa 10:00-21:00"
-website: "https://www.bimbaylola.com/cms/"
+street: Calle Toro
+housenumber: "23"
+phone: +34 923 27 10 67
+opening_hours: Mo-Sa 10:00-21:00
+website: https://www.bimbaylola.com/cms/

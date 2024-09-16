@@ -4,8 +4,8 @@ latitude: 42.34239
 longitude: -3.69949
 postcode: "09004"
 city: Burgos
-street: "Calle Cordón"
-housenumber: 2
-phone: "+34 947 25 62 29"
-opening_hours: "Mo-Sa 10:00-14:00,17:00-20:00"
+street: Calle Cordón
+housenumber: "2"
+phone: +34 947 25 62 29
+opening_hours: Mo-Sa 10:00-14:00,17:00-20:00
 website: ""

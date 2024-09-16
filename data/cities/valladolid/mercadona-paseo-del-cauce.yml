@@ -1,11 +1,11 @@
 id: 793639540
-type: way
+type: node
 latitude: 41.66058
 longitude: -4.71277
 postcode: "47011"
 city: Valladolid
-street: "Paseo del Cauce"
-housenumber: 45
+street: Paseo del Cauce
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

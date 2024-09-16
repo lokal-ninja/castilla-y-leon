@@ -1,11 +1,11 @@
 id: 52008595
-type: way
+type: node
 latitude: 42.36143
 longitude: -3.67808
 postcode: "09006"
 city: Burgos
-street: "Calle Condesa Mencía"
-housenumber: 145
-phone: "+34 900 95 83 11"
-opening_hours: "Mo-Sa 09:00-22:00; Su off"
-website: "https://www.lidl.es/"
+street: Calle Condesa Mencía
+housenumber: "145"
+phone: +34 900 95 83 11
+opening_hours: Mo-Sa 09:00-22:00; Su off
+website: https://www.lidl.es/

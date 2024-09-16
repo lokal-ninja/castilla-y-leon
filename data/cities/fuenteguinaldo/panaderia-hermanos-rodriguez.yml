@@ -1,11 +1,11 @@
 id: 281519349
-type: way
+type: node
 latitude: 40.42895
 longitude: -6.67942
 postcode: "37540"
 city: Fuenteguinaldo
-street: "Calle Tenerías Naciente"
-housenumber: 1
+street: Calle Tenerías Naciente
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

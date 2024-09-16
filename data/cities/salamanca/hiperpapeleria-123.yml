@@ -4,8 +4,8 @@ latitude: 40.97254
 longitude: -5.66414
 postcode: "37006"
 city: Salamanca
-street: "Avenida de Portugal"
-housenumber: 123
-phone: "+34 923 064 650"
-opening_hours: "Mo-Fr 09:45-14:00,17:00-20:30; Sa 10:00-14:00"
-website: "https://www.hiperpapeleria123.com/"
+street: Avenida de Portugal
+housenumber: "123"
+phone: +34 923 064 650
+opening_hours: Mo-Fr 09:45-14:00,17:00-20:30; Sa 10:00-14:00
+website: https://www.hiperpapeleria123.com/

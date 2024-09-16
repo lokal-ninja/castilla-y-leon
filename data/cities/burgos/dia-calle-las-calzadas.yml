@@ -4,8 +4,8 @@ latitude: 42.34376
 longitude: -3.69317
 postcode: "09004"
 city: Burgos
-street: "Calle las Calzadas"
-housenumber: 9
+street: Calle las Calzadas
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00"
+opening_hours: Mo-Sa 09:00-21:00
 website: ""

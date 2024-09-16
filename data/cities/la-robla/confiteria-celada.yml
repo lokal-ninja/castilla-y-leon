@@ -1,11 +1,11 @@
 id: 247816051
-type: way
-latitude: 42.80174
-longitude: -5.62878
+type: node
+latitude: 42.80171
+longitude: -5.62872
 postcode: "24640"
 city: La Robla
-street: "Avenida de Fenar"
-housenumber: 1
+street: Avenida de Fenar
+housenumber: "1"
 phone: ""
-opening_hours: "08:30-12:30,15:30-20:00"
+opening_hours: 08:30-12:30,15:30-20:00
 website: ""

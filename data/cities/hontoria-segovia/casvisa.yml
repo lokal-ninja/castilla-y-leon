@@ -1,11 +1,11 @@
 id: 488442816
-type: way
+type: node
 latitude: 40.90638
 longitude: -4.10611
 postcode: "40195"
 city: Hontoria;Segovia
-street: "Calle de Gremio de los Canteros"
-housenumber: 17
+street: Calle de Gremio de los Canteros
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "http://www.casvisa.com"
+website: http://www.casvisa.com

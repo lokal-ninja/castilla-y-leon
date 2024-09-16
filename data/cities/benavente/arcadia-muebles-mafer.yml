@@ -1,11 +1,11 @@
 id: 26344126
-type: way
+type: node
 latitude: 41.99748
 longitude: -5.66236
 postcode: "49600"
 city: Benavente
-street: "Avenida Federico Silva"
-housenumber: 90
+street: Avenida Federico Silva
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

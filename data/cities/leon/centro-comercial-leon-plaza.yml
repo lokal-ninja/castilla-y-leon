@@ -1,11 +1,11 @@
 id: 48095613
-type: way
+type: node
 latitude: 42.60572
 longitude: -5.58284
 postcode: ""
 city: León
-street: "Avenida Reyes Leoneses"
-housenumber: 
-phone: "+34 987 875 869"
+street: Avenida Reyes Leoneses
+housenumber: ""
+phone: +34 987 875 869
 opening_hours: ""
-website: "https://www.leonplaza.es/"
+website: https://www.leonplaza.es/

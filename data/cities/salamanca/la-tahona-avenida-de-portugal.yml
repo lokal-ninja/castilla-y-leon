@@ -4,8 +4,8 @@ latitude: 40.97281
 longitude: -5.66439
 postcode: "37006"
 city: Salamanca
-street: "Avenida de Portugal"
-housenumber: 134
-phone: "+34 923 240 804"
-opening_hours: "Mo-Sa 08:45-15:00; Fr 17:30-20:30"
-website: "http://www.latahona.es/"
+street: Avenida de Portugal
+housenumber: "134"
+phone: +34 923 240 804
+opening_hours: Mo-Sa 08:45-15:00; Fr 17:30-20:30
+website: http://www.latahona.es/

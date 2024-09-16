@@ -1,11 +1,11 @@
 id: 163019656
-type: way
+type: node
 latitude: 40.97186
 longitude: -5.67983
 postcode: "37007"
 city: Salamanca
-street: "Avenida de Portugal"
-housenumber: 
+street: Avenida de Portugal
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

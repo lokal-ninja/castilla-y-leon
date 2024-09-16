@@ -4,8 +4,8 @@ latitude: 40.96506
 longitude: -5.66549
 postcode: ""
 city: Salamanca
-street: "Calle Espoz y Mina"
-housenumber: 38
-phone: "+34 923 212 545"
-opening_hours: "Mo-Fr 10:00-13:30,17:00-20:30; Sa 10:00-14:00"
-website: "http://www.opticalahora.es/"
+street: Calle Espoz y Mina
+housenumber: "38"
+phone: +34 923 212 545
+opening_hours: Mo-Fr 10:00-13:30,17:00-20:30; Sa 10:00-14:00
+website: http://www.opticalahora.es/

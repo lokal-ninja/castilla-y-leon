@@ -4,8 +4,8 @@ latitude: 42.35988
 longitude: -3.66811
 postcode: "09007"
 city: Burgos
-street: "Calle José María Codón"
-housenumber: 4
-phone: "+34 984 84 95 37"
-opening_hours: "Mo-Sa 09:00-21:30; Su off"
-website: "https://www.alimerkaonline.es/"
+street: Calle José María Codón
+housenumber: "4"
+phone: +34 984 84 95 37
+opening_hours: Mo-Sa 09:00-21:30; Su off
+website: https://www.alimerkaonline.es/

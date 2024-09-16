@@ -1,11 +1,11 @@
 id: 294880305
-type: way
+type: node
 latitude: 40.94153
 longitude: -4.10606
 postcode: "40004"
 city: Segovia
-street: "Avenida Don Juan de Borbón y Battemberg"
-housenumber: 
+street: Avenida Don Juan de Borbón y Battemberg
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

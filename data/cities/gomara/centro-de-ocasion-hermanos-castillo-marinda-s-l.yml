@@ -1,11 +1,11 @@
 id: 587700184
-type: way
+type: node
 latitude: 41.62609
 longitude: -2.22395
 postcode: "42120"
 city: Gómara
-street: "Carretera de Almenar"
-housenumber: 5
+street: Carretera de Almenar
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

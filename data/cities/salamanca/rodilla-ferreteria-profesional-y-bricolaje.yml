@@ -1,11 +1,11 @@
 id: 296506513
-type: way
+type: node
 latitude: 40.9399
 longitude: -5.66316
 postcode: "37008"
 city: Salamanca
-street: "Calle Hoces del Duratón"
-housenumber: 78
+street: Calle Hoces del Duratón
+housenumber: "78"
 phone: ""
 opening_hours: ""
 website: ""

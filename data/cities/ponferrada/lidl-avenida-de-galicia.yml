@@ -1,11 +1,11 @@
 id: 1068242858
-type: way
+type: node
 latitude: 42.55643
 longitude: -6.61679
 postcode: "24404"
 city: Ponferrada
-street: "Avenida de Galicia"
-housenumber: 
+street: Avenida de Galicia
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

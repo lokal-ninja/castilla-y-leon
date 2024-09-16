@@ -4,8 +4,8 @@ latitude: 40.97052
 longitude: -5.66137
 postcode: "37005"
 city: Salamanca
-street: "Calle de Echegaray"
-housenumber: 5
+street: Calle de Echegaray
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Th 10:00-13:00; Mo-Fr 15:00-19:30; Fr 09:00-13:00; Sa 09:00-14:00"
+opening_hours: Mo-Th 10:00-13:00; Mo-Fr 15:00-19:30; Fr 09:00-13:00; Sa 09:00-14:00
 website: ""

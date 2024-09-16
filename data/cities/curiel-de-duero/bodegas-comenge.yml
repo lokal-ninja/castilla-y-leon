@@ -1,11 +1,11 @@
 id: 840725751
-type: way
+type: node
 latitude: 41.63793
 longitude: -4.10401
 postcode: "47316"
 city: Curiel de Duero
-street: "Camino del Castillo"
-housenumber: 
-phone: "+34 983880363"
+street: Camino del Castillo
+housenumber: ""
+phone: +34 983880363
 opening_hours: ""
-website: "https://www.comenge.com/"
+website: https://www.comenge.com/

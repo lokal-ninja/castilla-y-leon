@@ -1,11 +1,11 @@
 id: 1211761421
-type: way
+type: node
 latitude: 40.97927
 longitude: -4.26574
 postcode: "40120"
 city: Garcillán
-street: "Calle de las Eras"
-housenumber: 12
-phone: "+34 921491760"
-opening_hours: "Mo-Su 09:00-14:30"
-website: "https://obradordelpan.com/"
+street: Calle de las Eras
+housenumber: "12"
+phone: +34 921491760
+opening_hours: Mo-Su 09:00-14:30
+website: https://obradordelpan.com/

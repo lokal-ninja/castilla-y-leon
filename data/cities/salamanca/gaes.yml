@@ -4,8 +4,8 @@ latitude: 40.9692
 longitude: -5.66057
 postcode: "37002"
 city: Salamanca
-street: "Avenida de Mirat"
-housenumber: 15
-phone: "+34 923 240 055"
-opening_hours: "Mo-Fr 09:00-14:00,16:30-19:30"
-website: "https://www.gaes.es/"
+street: Avenida de Mirat
+housenumber: "15"
+phone: +34 923 240 055
+opening_hours: Mo-Fr 09:00-14:00,16:30-19:30
+website: https://www.gaes.es/

@@ -1,11 +1,11 @@
 id: 453703615
-type: way
+type: node
 latitude: 42.45264
 longitude: -6.05922
 postcode: "24700"
 city: Astorga
-street: "Calle Doctor Cortés Rivas"
-housenumber: 
+street: Calle Doctor Cortés Rivas
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

@@ -1,11 +1,11 @@
 id: 133431926
-type: way
+type: node
 latitude: 42.55408
 longitude: -6.61351
 postcode: "24404"
 city: Ponferrada
-street: "Avenida de Oporto"
-housenumber: 
-phone: "+34 987 840087"
+street: Avenida de Oporto
+housenumber: ""
+phone: +34 987 840087
 opening_hours: ""
-website: "https://telenauto.com/vw/inicio.html"
+website: https://telenauto.com/vw/inicio.html

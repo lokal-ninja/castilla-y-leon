@@ -1,11 +1,11 @@
 id: 945779892
-type: way
+type: node
 latitude: 41.36737
 longitude: -3.89809
 postcode: "40331"
 city: Carrascal del Río
-street: "Calle Polavieja"
-housenumber: 4
+street: Calle Polavieja
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

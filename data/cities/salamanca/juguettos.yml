@@ -4,8 +4,8 @@ latitude: 40.96937
 longitude: -5.66353
 postcode: "37002"
 city: Salamanca
-street: "Calle de Zamora"
-housenumber: 82
-phone: "+34 923 176 685"
-opening_hours: "Mo-Fr 10:00-13:45,17:00-20:30; Sa 10:15-14:00,17:15-20:45"
-website: "https://juguettos.com/"
+street: Calle de Zamora
+housenumber: "82"
+phone: +34 923 176 685
+opening_hours: Mo-Fr 10:00-13:45,17:00-20:30; Sa 10:15-14:00,17:15-20:45
+website: https://juguettos.com/

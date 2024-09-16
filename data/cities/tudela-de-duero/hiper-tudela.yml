@@ -1,11 +1,11 @@
 id: 1163317319
-type: way
+type: node
 latitude: 41.5906
 longitude: -4.59989
 postcode: "47320"
 city: Tudela de Duero
-street: "Avenida de Valladolid"
-housenumber: 132
-phone: "+34 983859688"
-opening_hours: "Mo-Sa 09:30-21:30; Su off"
+street: Avenida de Valladolid
+housenumber: "132"
+phone: +34 983859688
+opening_hours: Mo-Sa 09:30-21:30; Su off
 website: ""

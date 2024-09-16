@@ -4,8 +4,8 @@ latitude: 41.65497
 longitude: -4.7249
 postcode: "47003"
 city: Valladolid
-street: "Calle de San Blas"
-housenumber: 14
-phone: "+34 983176473"
-opening_hours: "Tu-Fr 10:15-14:30, 17:00-20:00; Sa 10:15-14:30"
+street: Calle de San Blas
+housenumber: "14"
+phone: +34 983176473
+opening_hours: Tu-Fr 10:15-14:30, 17:00-20:00; Sa 10:15-14:30
 website: ""

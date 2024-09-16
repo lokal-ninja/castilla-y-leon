@@ -4,8 +4,8 @@ latitude: 42.00586
 longitude: -5.67744
 postcode: "49600"
 city: Benavente
-street: "Calle Maragatos"
-housenumber: 1
-phone: "+34 980 63 31 20"
-opening_hours: "Mo-Fr 09:30-14:00,17:00-20:00; Sa 10:30-14:00; PH off"
-website: "https://libreriafutura.es/"
+street: Calle Maragatos
+housenumber: "1"
+phone: +34 980 63 31 20
+opening_hours: Mo-Fr 09:30-14:00,17:00-20:00; Sa 10:30-14:00; PH off
+website: https://libreriafutura.es/

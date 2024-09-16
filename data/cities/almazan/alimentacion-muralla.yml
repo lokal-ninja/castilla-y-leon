@@ -1,11 +1,11 @@
 id: 905614083
-type: way
+type: node
 latitude: 41.48545
 longitude: -2.53116
 postcode: "42200"
 city: Almazán
-street: "Avenida de Salazar y Torres"
-housenumber: 4
+street: Avenida de Salazar y Torres
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

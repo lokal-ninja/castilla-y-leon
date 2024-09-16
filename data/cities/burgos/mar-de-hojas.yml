@@ -4,8 +4,8 @@ latitude: 42.34084
 longitude: -3.70141
 postcode: "09003"
 city: Burgos
-street: "Plaza Mayor"
-housenumber: 31
-phone: "+34 947 11 26 07"
-opening_hours: "Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:00-14:00"
-website: "https://libreriamardehojas.com"
+street: Plaza Mayor
+housenumber: "31"
+phone: +34 947 11 26 07
+opening_hours: Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:00-14:00
+website: https://libreriamardehojas.com

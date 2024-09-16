@@ -4,8 +4,8 @@ latitude: 40.97078
 longitude: -5.65948
 postcode: ""
 city: Salamanca
-street: "Calle Valencia"
-housenumber: 10
+street: Calle Valencia
+housenumber: "10"
 phone: ""
-opening_hours: "Tu-Th 10:00-13:30,15:30-19:30; Mo 16:00-19:30; Fr 09:00-19:30; Sa 09:00-14:30"
+opening_hours: Tu-Th 10:00-13:30,15:30-19:30; Mo 16:00-19:30; Fr 09:00-19:30; Sa 09:00-14:30
 website: ""

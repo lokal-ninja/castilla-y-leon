@@ -4,8 +4,8 @@ latitude: 40.96491
 longitude: -5.65991
 postcode: ""
 city: Salamanca
-street: "Calle del Pinto"
-housenumber: 15
-phone: "+34 923 217 055"
-opening_hours: "Mo-Th 08:30-21:30; Fr 08:30-13:00,14:00-20:00"
+street: Calle del Pinto
+housenumber: "15"
+phone: +34 923 217 055
+opening_hours: Mo-Th 08:30-21:30; Fr 08:30-13:00,14:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 129250574
-type: way
+type: node
 latitude: 42.55219
 longitude: -6.56759
 postcode: "24401"
 city: Ponferrada
-street: "Avenida de Astorga"
-housenumber: 
-phone: "+34 987409531"
+street: Avenida de Astorga
+housenumber: ""
+phone: +34 987409531
 opening_hours: ""
 website: ""

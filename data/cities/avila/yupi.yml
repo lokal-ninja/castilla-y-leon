@@ -4,8 +4,8 @@ latitude: 40.65584
 longitude: -4.68905
 postcode: "05001"
 city: Ávila
-street: "Paseo de la Estación"
-housenumber: 2
-phone: "+34 920253060"
-opening_hours: "Mo-Fr 10:00-14:00, 16:30-20:30"
+street: Paseo de la Estación
+housenumber: "2"
+phone: +34 920253060
+opening_hours: Mo-Fr 10:00-14:00, 16:30-20:30
 website: ""

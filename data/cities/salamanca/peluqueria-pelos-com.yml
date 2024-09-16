@@ -4,8 +4,8 @@ latitude: 40.97903
 longitude: -5.65279
 postcode: ""
 city: Salamanca
-street: "Avenida Federico Anaya"
-housenumber: 89
-phone: "+34 923 22 81 59; +34 630 44 25 82"
-opening_hours: "Tu-Fr 10:00-13:30,16:00-20:00; Sa 10:00-15:00"
-website: "https://www.peluqueriayesteticapelos.com/"
+street: Avenida Federico Anaya
+housenumber: "89"
+phone: +34 923 22 81 59; +34 630 44 25 82
+opening_hours: Tu-Fr 10:00-13:30,16:00-20:00; Sa 10:00-15:00
+website: https://www.peluqueriayesteticapelos.com/

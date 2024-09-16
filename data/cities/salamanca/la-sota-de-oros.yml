@@ -4,8 +4,8 @@ latitude: 40.96892
 longitude: -5.66001
 postcode: "37002"
 city: Salamanca
-street: "Avenida de Mirat"
-housenumber: 3
+street: Avenida de Mirat
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 10:00-13:50; Mo-Fr 17:00-20:15"
+opening_hours: Mo-Sa 10:00-13:50; Mo-Fr 17:00-20:15
 website: ""

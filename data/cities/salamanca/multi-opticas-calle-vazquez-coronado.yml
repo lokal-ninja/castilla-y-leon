@@ -4,8 +4,8 @@ latitude: 40.96797
 longitude: -5.66269
 postcode: "37002"
 city: Salamanca
-street: "Calle Vázquez Coronado"
-housenumber: 15
-phone: "+34 923 281 200"
-opening_hours: "Mo-Sa 10:15-14:00; Mo-Fr 17:00-20:30"
-website: "https://www.multiopticas.com/"
+street: Calle Vázquez Coronado
+housenumber: "15"
+phone: +34 923 281 200
+opening_hours: Mo-Sa 10:15-14:00; Mo-Fr 17:00-20:30
+website: https://www.multiopticas.com/

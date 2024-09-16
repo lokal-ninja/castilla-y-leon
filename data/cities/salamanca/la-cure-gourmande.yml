@@ -4,8 +4,8 @@ latitude: 40.96264
 longitude: -5.66551
 postcode: "37002"
 city: Salamanca
-street: "Calle Rúa Mayor"
-housenumber: 35
-phone: "+34 923 211 682"
-opening_hours: "Mo-Su 10:00-22:00"
-website: "http://www.curegourmande.es/"
+street: Calle Rúa Mayor
+housenumber: "35"
+phone: +34 923 211 682
+opening_hours: Mo-Su 10:00-22:00
+website: http://www.curegourmande.es/

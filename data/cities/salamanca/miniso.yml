@@ -4,8 +4,8 @@ latitude: 40.96779
 longitude: -5.66401
 postcode: "37002"
 city: Salamanca
-street: "Calle de Zamora"
-housenumber: 39
+street: Calle de Zamora
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Sa 10:00-22:00; Su 10:00-21:00"
+opening_hours: Mo-Sa 10:00-22:00; Su 10:00-21:00
 website: ""

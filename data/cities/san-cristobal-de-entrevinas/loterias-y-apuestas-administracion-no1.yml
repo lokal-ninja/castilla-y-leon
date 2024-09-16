@@ -1,11 +1,11 @@
 id: 464242983
-type: way
+type: node
 latitude: 42.0473
 longitude: -5.63655
 postcode: "49690"
 city: San Cristóbal de Entreviñas
-street: "Calle La Bañeza"
-housenumber: 16
+street: Calle La Bañeza
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

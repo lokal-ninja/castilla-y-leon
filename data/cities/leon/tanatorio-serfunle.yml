@@ -1,11 +1,11 @@
 id: 619470869
-type: way
+type: node
 latitude: 42.60571
 longitude: -5.58521
 postcode: "24008"
 city: León
-street: "Avenida de los Peregrinos"
-housenumber: 14
+street: Avenida de los Peregrinos
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

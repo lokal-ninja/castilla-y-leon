@@ -4,8 +4,8 @@ latitude: 40.96985
 longitude: -5.6663
 postcode: ""
 city: Salamanca
-street: "Calle Profesor Sáez"
-housenumber: 6
-phone: "+34 923 241 813"
-opening_hours: "Mo-Fr 09:30-13:30,16:30-20:00; Sa 10:00-13:30"
-website: "https://ortopedianatal.com/"
+street: Calle Profesor Sáez
+housenumber: "6"
+phone: +34 923 241 813
+opening_hours: Mo-Fr 09:30-13:30,16:30-20:00; Sa 10:00-13:30
+website: https://ortopedianatal.com/

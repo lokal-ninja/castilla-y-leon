@@ -1,11 +1,11 @@
 id: 181176621
-type: way
+type: node
 latitude: 42.80316
 longitude: -5.6294
 postcode: "24640"
 city: La Robla
-street: "Plaza de la Constitución"
-housenumber: 8
-phone: "+34 987570856"
+street: Plaza de la Constitución
+housenumber: "8"
+phone: +34 987570856
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 366007169
-type: way
+type: node
 latitude: 40.98872
 longitude: -5.64486
 postcode: "37184"
 city: Villares de la Reina
-street: "Calle Isaac Peral"
-housenumber: 7
-phone: "+34 923 23 05 29"
+street: Calle Isaac Peral
+housenumber: "7"
+phone: +34 923 23 05 29
 opening_hours: ""
 website: ""

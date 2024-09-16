@@ -1,11 +1,11 @@
 id: 663430879
-type: way
+type: node
 latitude: 40.56533
 longitude: -6.18204
 postcode: "37621"
 city: El Maillo
-street: "Calle Nueva"
-housenumber: 55
+street: Calle Nueva
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

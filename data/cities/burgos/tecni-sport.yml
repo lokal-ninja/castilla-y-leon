@@ -4,8 +4,8 @@ latitude: 42.34722
 longitude: -3.69223
 postcode: "09005"
 city: Burgos
-street: "Avenida del Vena"
-housenumber: 5
+street: Avenida del Vena
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

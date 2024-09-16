@@ -4,8 +4,8 @@ latitude: 42.60818
 longitude: -5.56673
 postcode: "24007"
 city: León
-street: "Calle de Baldomero Lozano"
-housenumber: 2
-phone: "+34 987 34 70 60"
-opening_hours: "Mo-Fr 10:00-13:30, 16:30-20:00; Sa 10:00-13:30"
-website: "https://www.bicicletasmario.info/"
+street: Calle de Baldomero Lozano
+housenumber: "2"
+phone: +34 987 34 70 60
+opening_hours: Mo-Fr 10:00-13:30, 16:30-20:00; Sa 10:00-13:30
+website: https://www.bicicletasmario.info/

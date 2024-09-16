@@ -1,11 +1,11 @@
 id: 126987134
-type: way
+type: node
 latitude: 41.11832
 longitude: -4.26442
 postcode: "40270"
 city: Carbonero El Mayor
-street: "Carretera de Segovia"
-housenumber: 48
-phone: "+34 921 560 211"
+street: Carretera de Segovia
+housenumber: "48"
+phone: +34 921 560 211
 opening_hours: ""
 website: ""

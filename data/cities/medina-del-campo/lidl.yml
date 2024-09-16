@@ -1,11 +1,11 @@
 id: 337916373
-type: way
+type: node
 latitude: 41.31931
 longitude: -4.91638
 postcode: ""
 city: Medina del Campo
-street: "Avenida de la Constitución"
-housenumber: 
+street: Avenida de la Constitución
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00;Su 10:00-15:00"
+opening_hours: Mo-Sa 10:00-21:00;Su 10:00-15:00
 website: ""

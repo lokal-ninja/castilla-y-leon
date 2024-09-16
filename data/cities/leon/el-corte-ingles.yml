@@ -1,11 +1,11 @@
 id: 26956135
-type: way
+type: node
 latitude: 42.59098
 longitude: -5.56979
 postcode: "24005"
 city: León
-street: "Calle Fray Luis de León"
-housenumber: 29
+street: Calle Fray Luis de León
+housenumber: "29"
 phone: ""
-opening_hours: "PH,Mo-Su 09:30-21:30"
-website: "https://www.elcorteingles.es/centroscomerciales/es/eci/centros/centro-comercial-fray-luis-de-leon"
+opening_hours: PH,Mo-Su 09:30-21:30
+website: https://www.elcorteingles.es/centroscomerciales/es/eci/centros/centro-comercial-fray-luis-de-leon

@@ -4,8 +4,8 @@ latitude: 40.94522
 longitude: -4.11859
 postcode: "40002"
 city: Segovia
-street: "Calle Independencia"
-housenumber: 2
-phone: "*34 921 43 21 92"
+street: Calle Independencia
+housenumber: "2"
+phone: '*34 921 43 21 92'
 opening_hours: ""
-website: "https://www.crisandasegovia.com/"
+website: https://www.crisandasegovia.com/

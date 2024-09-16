@@ -1,11 +1,11 @@
 id: 1210878298
-type: way
+type: node
 latitude: 41.99257
 longitude: -5.67837
 postcode: "49600"
 city: Benavente
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:15-21:15"
-website: "https://www.mercadona.es"
+opening_hours: Mo-Sa 09:15-21:15
+website: https://www.mercadona.es

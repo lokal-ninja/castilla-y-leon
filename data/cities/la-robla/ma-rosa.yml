@@ -1,11 +1,11 @@
 id: 181183148
-type: way
+type: node
 latitude: 42.80265
 longitude: -5.62922
 postcode: "24640"
 city: La Robla
-street: "Calle Escritora Josefina Rodríguez de Aldecoa"
-housenumber: 2
+street: Calle Escritora Josefina Rodríguez de Aldecoa
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

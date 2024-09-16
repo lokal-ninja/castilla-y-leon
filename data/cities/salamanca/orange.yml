@@ -4,8 +4,8 @@ latitude: 40.97233
 longitude: -5.65765
 postcode: "37005"
 city: Salamanca
-street: "Calle de María Auxiliadora"
-housenumber: 59
-phone: "+34 923 25 68 57"
-opening_hours: "Mo-Sa 10:00-14:00,16:30-20:30"
-website: "https://tiendas.orange.es/salamanca/c--maria-auxiliadora-59/"
+street: Calle de María Auxiliadora
+housenumber: "59"
+phone: +34 923 25 68 57
+opening_hours: Mo-Sa 10:00-14:00,16:30-20:30
+website: https://tiendas.orange.es/salamanca/c--maria-auxiliadora-59/

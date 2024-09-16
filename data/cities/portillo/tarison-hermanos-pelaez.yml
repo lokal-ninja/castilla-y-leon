@@ -1,11 +1,11 @@
 id: 543739596
-type: way
+type: node
 latitude: 41.47464
 longitude: -4.5903
 postcode: "47160"
 city: Portillo
-street: "Avenida Reverendo José Montero"
-housenumber: 
+street: Avenida Reverendo José Montero
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

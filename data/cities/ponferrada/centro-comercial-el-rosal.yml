@@ -1,11 +1,11 @@
 id: 679058070
-type: way
+type: node
 latitude: 42.55564
 longitude: -6.60463
 postcode: "24404"
 city: Ponferrada
-street: "Avenida de la Constitución"
-housenumber: 2
-phone: "+34 987 406 740"
+street: Avenida de la Constitución
+housenumber: "2"
+phone: +34 987 406 740
 opening_hours: ""
-website: "https://www.elrosal.net/"
+website: https://www.elrosal.net/

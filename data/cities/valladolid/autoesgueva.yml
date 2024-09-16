@@ -1,11 +1,11 @@
 id: 796551386
-type: way
+type: node
 latitude: 41.65939
 longitude: -4.70623
 postcode: "47011"
 city: Valladolid
-street: "Avenida del Valle del Esgueva"
-housenumber: 14
+street: Avenida del Valle del Esgueva
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

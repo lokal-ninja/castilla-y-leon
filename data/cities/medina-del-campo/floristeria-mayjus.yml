@@ -4,8 +4,8 @@ latitude: 41.30556
 longitude: -4.91099
 postcode: "47400"
 city: Medina del Campo
-street: "Avenida de Lope de Vega"
-housenumber: 76
-phone: "+34 983811255"
-opening_hours: "Mo-Sa 10:00-14:00,17:00-20:00"
-website: "http://www.mayjus.es"
+street: Avenida de Lope de Vega
+housenumber: "76"
+phone: +34 983811255
+opening_hours: Mo-Sa 10:00-14:00,17:00-20:00
+website: http://www.mayjus.es

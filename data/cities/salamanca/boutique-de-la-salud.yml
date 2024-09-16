@@ -4,8 +4,8 @@ latitude: 40.96874
 longitude: -5.65402
 postcode: ""
 city: Salamanca
-street: "Avenida de los Comuneros"
-housenumber: 39
+street: Avenida de los Comuneros
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Sa 09:30-13:30; Mo-Fr 17:30-20:00"
-website: "http://www.boutiquedelasalud.es/tienda/"
+opening_hours: Mo-Sa 09:30-13:30; Mo-Fr 17:30-20:00
+website: http://www.boutiquedelasalud.es/tienda/

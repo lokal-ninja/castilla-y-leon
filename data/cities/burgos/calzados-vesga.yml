@@ -4,8 +4,8 @@ latitude: 42.34149
 longitude: -3.70178
 postcode: "09003"
 city: Burgos
-street: "Plaza Mayor"
-housenumber: 17
-phone: "+34 947 26 16 73"
-opening_hours: "Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:30-14:30,17:30-20:30"
-website: "https://calzadosvesga.com"
+street: Plaza Mayor
+housenumber: "17"
+phone: +34 947 26 16 73
+opening_hours: Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:30-14:30,17:30-20:30
+website: https://calzadosvesga.com

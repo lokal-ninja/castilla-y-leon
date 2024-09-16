@@ -1,11 +1,11 @@
 id: 44048384
-type: way
+type: node
 latitude: 42.31861
 longitude: -3.70475
 postcode: "09001"
 city: Burgos
-street: "Carretera Madrid-Irún"
+street: Carretera Madrid-Irún
 housenumber: km.236
 phone: ""
 opening_hours: ""
-website: "https://www.elcorteingles.es/centroscomerciales/es/eci/centros/el-corte-ingles-parque-burgos"
+website: https://www.elcorteingles.es/centroscomerciales/es/eci/centros/el-corte-ingles-parque-burgos

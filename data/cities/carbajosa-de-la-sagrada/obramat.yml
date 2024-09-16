@@ -1,11 +1,11 @@
 id: 671830690
-type: way
+type: node
 latitude: 40.94795
 longitude: -5.64515
 postcode: ""
 city: Carbajosa de la Sagrada
-street: "Avenida de Galicia"
-housenumber: 
-phone: "+34 923336761"
-opening_hours: "Mo-Fr 07:30-21:00; Sa 07:30-22:00; Su 09:00-21:00"
-website: "https://www.bricomart.es"
+street: Avenida de Galicia
+housenumber: ""
+phone: +34 923336761
+opening_hours: Mo-Fr 07:30-21:00; Sa 07:30-22:00; Su 09:00-21:00
+website: https://www.bricomart.es

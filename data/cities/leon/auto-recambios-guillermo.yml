@@ -4,8 +4,8 @@ latitude: 42.60938
 longitude: -5.5733
 postcode: "24008"
 city: León
-street: "Calle del Frontón"
-housenumber: 8
-phone: "+34 987234462"
-opening_hours: "Mo-Sa 09:00-13:30; Mo-Fr 15:30-20:00"
+street: Calle del Frontón
+housenumber: "8"
+phone: +34 987234462
+opening_hours: Mo-Sa 09:00-13:30; Mo-Fr 15:30-20:00
 website: ""

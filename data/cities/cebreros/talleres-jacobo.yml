@@ -1,11 +1,11 @@
 id: 438308072
-type: way
+type: node
 latitude: 40.45292
 longitude: -4.46497
 postcode: "05260"
 city: Cebreros
-street: "Calle de los Caños de Abajo"
-housenumber: 15
+street: Calle de los Caños de Abajo
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

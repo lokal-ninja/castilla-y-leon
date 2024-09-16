@@ -1,11 +1,11 @@
 id: 499271965
-type: way
+type: node
 latitude: 40.93903
 longitude: -5.6558
 postcode: "37188"
 city: Carbajosa de la Sagrada
-street: "Calle Tercera"
-housenumber: 4
-phone: "+34 689 472 366"
+street: Calle Tercera
+housenumber: "4"
+phone: +34 689 472 366
 opening_hours: ""
-website: "https://www.dibercars.es/"
+website: https://www.dibercars.es/

@@ -4,8 +4,8 @@ latitude: 42.00247
 longitude: -5.68064
 postcode: "49600"
 city: Benavente
-street: "Ronda de La Rancha"
-housenumber: 10
-phone: "+34 980 63 13 53"
-opening_hours: "Mo-Sa 10:00-20:30"
-website: "http://www.fotojuanjo.com/"
+street: Ronda de La Rancha
+housenumber: "10"
+phone: +34 980 63 13 53
+opening_hours: Mo-Sa 10:00-20:30
+website: http://www.fotojuanjo.com/

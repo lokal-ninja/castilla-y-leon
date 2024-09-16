@@ -4,8 +4,9 @@ latitude: 42.49167
 longitude: -6.34322
 postcode: "24722"
 city: Foncebadón
-street: "Calle Real"
-housenumber: 
-phone: "+34 987 05 38 77"
-opening_hours: "Mar-Apr: 08:00-19:00; May-Oct: 06:00-22:00; Nov: 08:00-19:00; Dec off; Jan off; Feb off"
-website: "http://www.eltrasgudefoncebadon.es"
+street: Calle Real
+housenumber: ""
+phone: +34 987 05 38 77
+opening_hours: 'Mar-Apr: 08:00-19:00; May-Oct: 06:00-22:00; Nov: 08:00-19:00; Dec
+    off; Jan off; Feb off'
+website: http://www.eltrasgudefoncebadon.es

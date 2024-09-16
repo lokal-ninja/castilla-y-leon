@@ -1,11 +1,11 @@
 id: 101798101
-type: way
+type: node
 latitude: 42.54954
 longitude: -6.6099
 postcode: "24404"
 city: Ponferrada
-street: "Avenida de los Escritores"
-housenumber: 
+street: Avenida de los Escritores
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

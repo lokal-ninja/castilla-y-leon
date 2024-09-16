@@ -1,11 +1,11 @@
 id: 669071970
-type: way
+type: node
 latitude: 40.2904
 longitude: -6.72598
 postcode: "37524"
 city: El Payo
-street: "Calle los Caños"
-housenumber: 94
-phone: "+34 923 48 67 20"
+street: Calle los Caños
+housenumber: "94"
+phone: +34 923 48 67 20
 opening_hours: ""
-website: "https://www.hermanosbazo.com"
+website: https://www.hermanosbazo.com

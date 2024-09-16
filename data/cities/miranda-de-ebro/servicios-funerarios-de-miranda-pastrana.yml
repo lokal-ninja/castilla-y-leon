@@ -1,11 +1,11 @@
 id: 315421199
-type: way
+type: node
 latitude: 42.67757
 longitude: -2.96832
 postcode: "09200"
 city: Miranda de Ebro
-street: "Carretera de Orón"
-housenumber: 63
-phone: "+34-947-310-205"
+street: Carretera de Orón
+housenumber: "63"
+phone: +34-947-310-205
 opening_hours: ""
 website: ""

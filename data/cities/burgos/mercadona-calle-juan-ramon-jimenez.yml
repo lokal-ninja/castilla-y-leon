@@ -1,11 +1,11 @@
 id: 435555373
-type: way
+type: node
 latitude: 42.35043
 longitude: -3.66017
 postcode: "09007"
 city: Burgos
-street: "Calle Juan Ramón Jiménez"
-housenumber: 5
-phone: "+34 947 57 74 01"
-opening_hours: "Mo-Sa 09:00-21:30; Tu,Su off"
-website: "https://www.mercadona.es"
+street: Calle Juan Ramón Jiménez
+housenumber: "5"
+phone: +34 947 57 74 01
+opening_hours: Mo-Sa 09:00-21:30; Tu,Su off
+website: https://www.mercadona.es

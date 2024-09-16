@@ -1,11 +1,11 @@
 id: 222217399
-type: way
+type: node
 latitude: 42.8043
 longitude: -5.62792
 postcode: "24640"
 city: La Robla
-street: "Calle La Estación"
-housenumber: 7
-phone: "+34 987570145"
+street: Calle La Estación
+housenumber: "7"
+phone: +34 987570145
 opening_hours: ""
 website: ""

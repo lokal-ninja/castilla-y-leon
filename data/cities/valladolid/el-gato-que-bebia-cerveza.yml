@@ -4,8 +4,8 @@ latitude: 41.65371
 longitude: -4.72085
 postcode: "47003"
 city: Valladolid
-street: "Calle de Juan Mambrilla"
-housenumber: 12
-phone: "+34 601128930"
-opening_hours: "Mo-Fr 12:00-14:00,17:30-20:00"
+street: Calle de Juan Mambrilla
+housenumber: "12"
+phone: +34 601128930
+opening_hours: Mo-Fr 12:00-14:00,17:30-20:00
 website: ""

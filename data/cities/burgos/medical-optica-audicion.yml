@@ -4,8 +4,8 @@ latitude: 42.35053
 longitude: -3.66683
 postcode: "09007"
 city: Burgos
-street: "Avenida de los Derechos Humanos"
-housenumber: 35
-phone: "+34 947 659 895"
-opening_hours: "Mo-Fr 09:30-14:00; Mo-Fr 16:30-20:30; Sa 09:30-14:00"
-website: "https://www.medicaloptica.es/tienda/medical-optica-burgos"
+street: Avenida de los Derechos Humanos
+housenumber: "35"
+phone: +34 947 659 895
+opening_hours: Mo-Fr 09:30-14:00; Mo-Fr 16:30-20:30; Sa 09:30-14:00
+website: https://www.medicaloptica.es/tienda/medical-optica-burgos

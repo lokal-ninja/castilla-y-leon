@@ -4,8 +4,8 @@ latitude: 40.9753
 longitude: -5.65102
 postcode: "37004"
 city: Salamanca
-street: "Avenida de los Cedros"
-housenumber: 37
-phone: "+34 923 12 03 08"
-opening_hours: "Mo-Sa 09:30-14:00; Mo,We-Sa 16:00-19:00"
+street: Avenida de los Cedros
+housenumber: "37"
+phone: +34 923 12 03 08
+opening_hours: Mo-Sa 09:30-14:00; Mo,We-Sa 16:00-19:00
 website: ""

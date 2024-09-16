@@ -4,8 +4,8 @@ latitude: 42.34382
 longitude: -3.69474
 postcode: "09004"
 city: Burgos
-street: "Calle las Calzadas"
-housenumber: 5
-phone: "+34 947 27 08 61"
-opening_hours: "Mo-Fr 10:00-14:00, 17:00-20:30; Sa 10:00-14:00"
-website: "https://www.luber.es/"
+street: Calle las Calzadas
+housenumber: "5"
+phone: +34 947 27 08 61
+opening_hours: Mo-Fr 10:00-14:00, 17:00-20:30; Sa 10:00-14:00
+website: https://www.luber.es/

@@ -4,8 +4,8 @@ latitude: 40.95327
 longitude: -4.10895
 postcode: "40003"
 city: Segovia
-street: "Avenida de la Vía Roma"
-housenumber: 32
-phone: "+34 921445355"
-opening_hours: "Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:00-14:00"
+street: Avenida de la Vía Roma
+housenumber: "32"
+phone: +34 921445355
+opening_hours: Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:00-14:00
 website: ""

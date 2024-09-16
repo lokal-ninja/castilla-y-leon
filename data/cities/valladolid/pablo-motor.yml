@@ -1,11 +1,11 @@
 id: 777726926
-type: way
+type: node
 latitude: 41.64051
 longitude: -4.69857
 postcode: "47017"
 city: Valladolid
-street: "Camino de Hornillos"
-housenumber: 27
-phone: "+34 647112536"
-opening_hours: "09:00-14:00,16:00-20:00"
+street: Camino de Hornillos
+housenumber: "27"
+phone: +34 647112536
+opening_hours: 09:00-14:00,16:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.33823
 longitude: -3.69977
 postcode: "09002"
 city: Burgos
-street: "Calle Miranda"
-housenumber: 12
-phone: "+34 984 84 95 39"
-opening_hours: "Mo-Sa 09:00-21:30; Su off"
-website: "https://www.alimerkaonline.es"
+street: Calle Miranda
+housenumber: "12"
+phone: +34 984 84 95 39
+opening_hours: Mo-Sa 09:00-21:30; Su off
+website: https://www.alimerkaonline.es

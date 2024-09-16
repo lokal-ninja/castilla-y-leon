@@ -4,8 +4,8 @@ latitude: 41.64547
 longitude: -4.72232
 postcode: "47004"
 city: Valladolid
-street: "Calle de Panaderos"
-housenumber: 59
-phone: "+34 983304459"
-opening_hours: "Mo-Fr 10:00-14:00, 17:00-19:00"
-website: "https://www.reprodatosdigital.es/"
+street: Calle de Panaderos
+housenumber: "59"
+phone: +34 983304459
+opening_hours: Mo-Fr 10:00-14:00, 17:00-19:00
+website: https://www.reprodatosdigital.es/

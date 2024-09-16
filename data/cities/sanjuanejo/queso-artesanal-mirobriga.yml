@@ -1,11 +1,11 @@
 id: 679230688
-type: way
+type: node
 latitude: 40.57074
 longitude: -6.49091
 postcode: "37591"
 city: Sanjuanejo
-street: "Calle del Príncipe"
-housenumber: 5
-phone: "+34 923 48 00 99"
+street: Calle del Príncipe
+housenumber: "5"
+phone: +34 923 48 00 99
 opening_hours: ""
 website: ""

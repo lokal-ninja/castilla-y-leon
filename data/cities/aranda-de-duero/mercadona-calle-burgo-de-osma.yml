@@ -4,8 +4,8 @@ latitude: 41.66745
 longitude: -3.68884
 postcode: "09400"
 city: Aranda de Duero
-street: "Calle Burgo de Osma"
-housenumber: 28
-phone: "+34 947 51 12 12"
-opening_hours: "Mo-Sa 09:00-21:30; Tu,Su off"
-website: "https://www.mercadona.es"
+street: Calle Burgo de Osma
+housenumber: "28"
+phone: +34 947 51 12 12
+opening_hours: Mo-Sa 09:00-21:30; Tu,Su off
+website: https://www.mercadona.es

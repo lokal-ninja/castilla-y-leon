@@ -1,11 +1,11 @@
 id: 181176626
-type: way
+type: node
 latitude: 42.80297
 longitude: -5.62965
 postcode: "24640"
 city: La Robla
-street: "Plaza de la Constitución"
-housenumber: 11
+street: Plaza de la Constitución
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

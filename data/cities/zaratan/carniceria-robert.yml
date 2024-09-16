@@ -4,8 +4,8 @@ latitude: 41.66041
 longitude: -4.78332
 postcode: "47610"
 city: Zaratán
-street: "Calle Nueva"
-housenumber: 1
-phone: "+34 666231113"
-opening_hours: "Mo-Sa 09:00-14:00"
+street: Calle Nueva
+housenumber: "1"
+phone: +34 666231113
+opening_hours: Mo-Sa 09:00-14:00
 website: ""

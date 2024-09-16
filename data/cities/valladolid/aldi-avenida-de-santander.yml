@@ -1,11 +1,11 @@
 id: 975816397
-type: way
+type: node
 latitude: 41.66396
 longitude: -4.71332
 postcode: "47011"
 city: Valladolid
-street: "Avenida de Santander"
-housenumber: 6
+street: Avenida de Santander
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

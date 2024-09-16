@@ -1,11 +1,11 @@
 id: 314084708
-type: way
+type: node
 latitude: 42.55232
 longitude: -6.61581
 postcode: "24404"
 city: Ponferrada
-street: "Calle Manchester"
-housenumber: 2
-phone: "+34 987 840162"
+street: Calle Manchester
+housenumber: "2"
+phone: +34 987 840162
 opening_hours: ""
-website: "https://telenauto.com/audi/index.html"
+website: https://telenauto.com/audi/index.html

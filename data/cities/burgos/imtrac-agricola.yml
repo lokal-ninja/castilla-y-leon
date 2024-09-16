@@ -4,8 +4,8 @@ latitude: 42.36113
 longitude: -3.7674
 postcode: "09001"
 city: Burgos
-street: "Calle Gregorio López Bravo"
-housenumber: 96
+street: Calle Gregorio López Bravo
+housenumber: "96"
 phone: ""
 opening_hours: ""
-website: "http://www.imtrac.com/"
+website: http://www.imtrac.com/

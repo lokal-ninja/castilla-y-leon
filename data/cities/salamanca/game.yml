@@ -4,8 +4,8 @@ latitude: 40.96828
 longitude: -5.66054
 postcode: "37002"
 city: Salamanca
-street: "Calle Toro"
-housenumber: 84
-phone: "+34 923 211 769"
-opening_hours: "Mo-Sa 10:00-20:45"
-website: "https://www.game.es/"
+street: Calle Toro
+housenumber: "84"
+phone: +34 923 211 769
+opening_hours: Mo-Sa 10:00-20:45
+website: https://www.game.es/

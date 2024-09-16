@@ -1,11 +1,11 @@
 id: 744197302
-type: way
+type: node
 latitude: 42.37599
 longitude: -3.70416
 postcode: "09001"
 city: Burgos
-street: "Calle Gregorio López Bravo"
+street: Calle Gregorio López Bravo
 housenumber: 52-54
 phone: "+34947473924"
 opening_hours: ""
-website: "https://www.arcecarne.es/"
+website: https://www.arcecarne.es/

@@ -1,11 +1,11 @@
 id: 372454309
-type: way
+type: node
 latitude: 40.93985
 longitude: -5.6607
 postcode: "37118"
 city: Carbajosa de la Sagrada
-street: "Calle Segunda"
-housenumber: 44
+street: Calle Segunda
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

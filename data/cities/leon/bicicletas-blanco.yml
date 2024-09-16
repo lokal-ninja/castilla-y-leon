@@ -4,8 +4,8 @@ latitude: 42.59112
 longitude: -5.56474
 postcode: "24005"
 city: León
-street: "Calle Teniente Andrés González"
-housenumber: 1
-phone: "+34 987 209 610"
-opening_hours: "Mo-Fr 10:00-14:00, 17:00-20:00; Sa 10:00-14:00"
-website: "https://www.bicicletasblanco.com/"
+street: Calle Teniente Andrés González
+housenumber: "1"
+phone: +34 987 209 610
+opening_hours: Mo-Fr 10:00-14:00, 17:00-20:00; Sa 10:00-14:00
+website: https://www.bicicletasblanco.com/

@@ -4,8 +4,8 @@ latitude: 40.96711
 longitude: -5.6619
 postcode: "37002"
 city: Salamanca
-street: "Calle Toro"
-housenumber: 56
-phone: "+34 923 26 66 70"
-opening_hours: "Mo-Sa 10:00-15:00,17:30-21:30"
+street: Calle Toro
+housenumber: "56"
+phone: +34 923 26 66 70
+opening_hours: Mo-Sa 10:00-15:00,17:30-21:30
 website: ""

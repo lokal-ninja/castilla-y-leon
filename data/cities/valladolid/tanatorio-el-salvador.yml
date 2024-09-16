@@ -1,11 +1,11 @@
 id: 878039153
-type: way
+type: node
 latitude: 41.66443
 longitude: -4.70749
 postcode: "47011"
 city: Valladolid
-street: "Camino del Cementerio"
-housenumber: 21
-phone: "+34 983260722"
+street: Camino del Cementerio
+housenumber: "21"
+phone: +34 983260722
 opening_hours: ""
-website: "https://www.tanatorio-elsalvador.es/"
+website: https://www.tanatorio-elsalvador.es/

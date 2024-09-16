@@ -4,8 +4,8 @@ latitude: 42.00063
 longitude: -4.52342
 postcode: "34004"
 city: Palencia
-street: "Calle Germán Clavo González"
-housenumber: 5
+street: Calle Germán Clavo González
+housenumber: "5"
 phone: "+34979165710"
-opening_hours: "9:30-21:30"
-website: "https://www.froiz.es/"
+opening_hours: 9:30-21:30
+website: https://www.froiz.es/

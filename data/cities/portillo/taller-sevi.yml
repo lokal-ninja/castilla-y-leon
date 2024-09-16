@@ -1,11 +1,11 @@
 id: 663295141
-type: way
+type: node
 latitude: 41.47149
 longitude: -4.58983
 postcode: "47160"
 city: Portillo
-street: "Calle Prolongación Canóniga"
-housenumber: 8
-phone: "+34 983557061"
-opening_hours: "Mo-Fr 09:30-14:00, 16:00-19:30"
+street: Calle Prolongación Canóniga
+housenumber: "8"
+phone: +34 983557061
+opening_hours: Mo-Fr 09:30-14:00, 16:00-19:30
 website: ""

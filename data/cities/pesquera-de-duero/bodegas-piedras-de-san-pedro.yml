@@ -1,11 +1,11 @@
 id: 850682625
-type: way
+type: node
 latitude: 41.63994
 longitude: -4.15879
 postcode: "47315"
 city: Pesquera de Duero
-street: "Calle Arrabal Eras"
-housenumber: 40
-phone: "+34 9678600717"
+street: Calle Arrabal Eras
+housenumber: "40"
+phone: +34 9678600717
 opening_hours: ""
-website: "https://piedrasdesanpedro.com/"
+website: https://piedrasdesanpedro.com/

@@ -1,11 +1,11 @@
 id: 332850093
-type: way
+type: node
 latitude: 40.95093
 longitude: -5.65365
 postcode: ""
 city: Santa Marta de Tormes
-street: "Avenida de la Carretera de Madrid"
-housenumber: 4
-phone: "+34 630 85 56 69"
-opening_hours: "Mo-Sa 09:00-22:00"
-website: "https://www.aldi.es/"
+street: Avenida de la Carretera de Madrid
+housenumber: "4"
+phone: +34 630 85 56 69
+opening_hours: Mo-Sa 09:00-22:00
+website: https://www.aldi.es/

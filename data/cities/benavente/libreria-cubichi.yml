@@ -4,8 +4,8 @@ latitude: 42.00308
 longitude: -5.68
 postcode: "49600"
 city: Benavente
-street: "Ronda de La Rancha"
-housenumber: 20
-phone: "+34 980 63 08 78"
-opening_hours: "Mo-Fr 10:00-14:00, 16:30-20:00; Sa 10:00-14:00"
-website: "https://cubichi.es/libreria-2"
+street: Ronda de La Rancha
+housenumber: "20"
+phone: +34 980 63 08 78
+opening_hours: Mo-Fr 10:00-14:00, 16:30-20:00; Sa 10:00-14:00
+website: https://cubichi.es/libreria-2

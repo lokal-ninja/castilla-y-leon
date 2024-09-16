@@ -4,8 +4,8 @@ latitude: 40.9655
 longitude: -5.66145
 postcode: "37001"
 city: Salamanca
-street: "Plaza de la Reina"
-housenumber: 1
-phone: "+34 923 212 193"
-opening_hours: "Mo-Sa 10:00-13:30; Mo-Fr 17:00-20:00"
-website: "https://enmarcacionesperezpaz.es/"
+street: Plaza de la Reina
+housenumber: "1"
+phone: +34 923 212 193
+opening_hours: Mo-Sa 10:00-13:30; Mo-Fr 17:00-20:00
+website: https://enmarcacionesperezpaz.es/

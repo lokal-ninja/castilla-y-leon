@@ -4,8 +4,8 @@ latitude: 42.01679
 longitude: -4.54192
 postcode: "34005"
 city: Palencia
-street: "Calle Diagonal"
-housenumber: 5
+street: Calle Diagonal
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 09:30-21:30"
+opening_hours: Mo-Sa 09:30-21:30
 website: ""

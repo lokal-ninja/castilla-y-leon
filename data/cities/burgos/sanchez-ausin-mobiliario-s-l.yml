@@ -1,11 +1,11 @@
 id: 368901636
-type: way
+type: node
 latitude: 42.37403
 longitude: -3.73155
 postcode: "09001"
 city: Burgos
-street: "Calle Valle de Mena"
-housenumber: 7
+street: Calle Valle de Mena
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.sanchezausinmobiliario.com/"
+website: https://www.sanchezausinmobiliario.com/

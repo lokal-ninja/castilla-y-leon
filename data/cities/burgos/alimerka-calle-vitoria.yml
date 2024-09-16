@@ -4,8 +4,8 @@ latitude: 42.3516
 longitude: -3.67173
 postcode: "09007"
 city: Burgos
-street: "Calle Vitoria"
-housenumber: 178
-phone: "+34 984 84 95 47"
-opening_hours: "Mo-Sa 09:00-21:30; Su off"
-website: "https://www.alimerkaonline.es/"
+street: Calle Vitoria
+housenumber: "178"
+phone: +34 984 84 95 47
+opening_hours: Mo-Sa 09:00-21:30; Su off
+website: https://www.alimerkaonline.es/

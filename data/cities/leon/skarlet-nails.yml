@@ -1,11 +1,11 @@
 id: 844747771
-type: way
+type: node
 latitude: 42.60054
 longitude: -5.58056
 postcode: "24001"
 city: León
-street: "Calle Sampiro"
-housenumber: 16
+street: Calle Sampiro
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

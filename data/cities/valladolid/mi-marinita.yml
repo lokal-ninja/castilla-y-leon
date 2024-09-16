@@ -4,8 +4,8 @@ latitude: 41.65183
 longitude: -4.72351
 postcode: "47002"
 city: Valladolid
-street: "Calle de Núñez de Arce"
-housenumber: 14
-phone: "+34 983082085"
-opening_hours: "Mo-Fr 10:45-13:45, 17:00-20:30; Sa 10:45-13:45"
-website: "https://www.mimarinita.com/"
+street: Calle de Núñez de Arce
+housenumber: "14"
+phone: +34 983082085
+opening_hours: Mo-Fr 10:45-13:45, 17:00-20:30; Sa 10:45-13:45
+website: https://www.mimarinita.com/

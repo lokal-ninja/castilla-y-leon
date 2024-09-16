@@ -1,11 +1,11 @@
 id: 818860347
-type: way
+type: node
 latitude: 42.34159
 longitude: -3.71534
 postcode: "09003"
 city: Burgos
-street: "Calle Villalón"
-housenumber: 16
-phone: "+34 947 46 68 65"
-opening_hours: "Mo-Sa 09:00-21:30; Tu,Su off"
-website: "https://www.mercadona.es"
+street: Calle Villalón
+housenumber: "16"
+phone: +34 947 46 68 65
+opening_hours: Mo-Sa 09:00-21:30; Tu,Su off
+website: https://www.mercadona.es

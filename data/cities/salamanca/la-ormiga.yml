@@ -4,8 +4,8 @@ latitude: 40.96888
 longitude: -5.6614
 postcode: "37002"
 city: Salamanca
-street: "Plaza del Campillo"
-housenumber: 4
-phone: "+34 923 018 331"
+street: Plaza del Campillo
+housenumber: "4"
+phone: +34 923 018 331
 opening_hours: ""
-website: "https://laormiga.com/"
+website: https://laormiga.com/

@@ -1,11 +1,11 @@
 id: 354255228
-type: way
+type: node
 latitude: 40.94303
 longitude: -5.66417
 postcode: "37008"
 city: Salamanca
-street: "Calle Nobel"
-housenumber: 107
-phone: "+34 923 190 020"
+street: Calle Nobel
+housenumber: "107"
+phone: +34 923 190 020
 opening_hours: ""
-website: "https://www.talleresmecanicosnavazo.com/"
+website: https://www.talleresmecanicosnavazo.com/

@@ -1,11 +1,11 @@
 id: 1312880763
-type: way
+type: node
 latitude: 41.5116
 longitude: -5.74719
 postcode: "49023"
 city: Zamora
-street: "Calle de Villalpando"
-housenumber: 15
+street: Calle de Villalpando
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

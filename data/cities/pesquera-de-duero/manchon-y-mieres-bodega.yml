@@ -1,11 +1,11 @@
 id: 850682636
-type: way
+type: node
 latitude: 41.6442
 longitude: -4.15812
 postcode: "47315"
 city: Pesquera de Duero
-street: "Calle Regaderillas"
-housenumber: 
-phone: "+34 645651993"
+street: Calle Regaderillas
+housenumber: ""
+phone: +34 645651993
 opening_hours: ""
-website: "https://www.manchonmieres.es/"
+website: https://www.manchonmieres.es/

@@ -1,11 +1,11 @@
 id: 79818445
-type: way
+type: node
 latitude: 40.96622
 longitude: -5.66261
 postcode: "37002"
 city: Salamanca
-street: "Calle Toro"
-housenumber: 28
-phone: "+34 923 272 215"
-opening_hours: "Mo-Sa 10:00-21:00"
-website: "https://www.zara.com/es/"
+street: Calle Toro
+housenumber: "28"
+phone: +34 923 272 215
+opening_hours: Mo-Sa 10:00-21:00
+website: https://www.zara.com/es/

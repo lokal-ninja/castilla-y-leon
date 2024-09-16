@@ -1,11 +1,11 @@
 id: 337920049
-type: way
+type: node
 latitude: 41.31913
 longitude: -4.91347
 postcode: ""
 city: Medina del Campo
-street: "Carretera de La Seca"
-housenumber: 1
+street: Carretera de La Seca
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

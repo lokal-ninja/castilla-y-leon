@@ -4,8 +4,8 @@ latitude: 40.64929
 longitude: -4.67784
 postcode: "05003"
 city: Ávila
-street: "Camino del Gansino"
-housenumber: 11
-phone: "+34 920220340"
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.mercadona.es"
+street: Camino del Gansino
+housenumber: "11"
+phone: +34 920220340
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.mercadona.es

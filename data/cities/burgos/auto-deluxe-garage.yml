@@ -4,8 +4,8 @@ latitude: 42.37172
 longitude: -3.72131
 postcode: "09001"
 city: Burgos
-street: "Calle Condado de Treviño"
-housenumber: 67
-phone: "+34 609 072 243"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.autodeluxegarage.es/"
+street: Calle Condado de Treviño
+housenumber: "67"
+phone: +34 609 072 243
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.autodeluxegarage.es/

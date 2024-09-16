@@ -4,8 +4,8 @@ latitude: 42.35958
 longitude: -3.66395
 postcode: "09007"
 city: Burgos
-street: "Calle Córdoba"
-housenumber: 8
-phone: "+34 608 175 266"
-opening_hours: "Mo-Fr 09:00-14:00,16:00-20:00; We 09:00-14:00"
-website: "https://www.enriquedelafuenteseguridad.com/"
+street: Calle Córdoba
+housenumber: "8"
+phone: +34 608 175 266
+opening_hours: Mo-Fr 09:00-14:00,16:00-20:00; We 09:00-14:00
+website: https://www.enriquedelafuenteseguridad.com/

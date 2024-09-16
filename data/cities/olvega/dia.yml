@@ -1,11 +1,11 @@
 id: 1050886523
-type: way
+type: node
 latitude: 41.78082
 longitude: -1.98825
 postcode: "42110"
 city: Ólvega
-street: "Avenida de Soria"
-housenumber: 19
+street: Avenida de Soria
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00"
+opening_hours: Mo-Sa 09:00-21:00
 website: ""

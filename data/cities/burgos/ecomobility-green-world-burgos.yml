@@ -4,8 +4,8 @@ latitude: 42.35637
 longitude: -3.66355
 postcode: "09007"
 city: Burgos
-street: "Calle Enebro"
-housenumber: 4
+street: Calle Enebro
+housenumber: "4"
 phone: "+34640681120"
 opening_hours: ""
-website: "https://movelectrica.com/"
+website: https://movelectrica.com/

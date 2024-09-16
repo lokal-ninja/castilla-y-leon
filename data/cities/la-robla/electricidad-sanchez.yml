@@ -1,11 +1,11 @@
 id: 181103525
-type: way
+type: node
 latitude: 42.80292
 longitude: -5.63004
 postcode: "24640"
 city: La Robla
-street: "Calle Real"
-housenumber: 6
+street: Calle Real
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

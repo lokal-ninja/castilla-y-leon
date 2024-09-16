@@ -4,8 +4,8 @@ latitude: 40.9674
 longitude: -5.66183
 postcode: "37002"
 city: Salamanca
-street: "Calle Toro"
-housenumber: 47
-phone: "+34 923495941"
-opening_hours: "Mo-Sa 10:00-21:00"
-website: "https://www.pandora.net/es-es"
+street: Calle Toro
+housenumber: "47"
+phone: +34 923495941
+opening_hours: Mo-Sa 10:00-21:00
+website: https://www.pandora.net/es-es

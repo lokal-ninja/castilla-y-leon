@@ -1,11 +1,11 @@
 id: 1249287920
-type: way
+type: node
 latitude: 42.30111
 longitude: -5.89858
 postcode: "24750"
 city: La Bañeza
-street: "Calle Astorga"
-housenumber: 28
-phone: "+34987643080;;+34944050514"
+street: Calle Astorga
+housenumber: "28"
+phone: +34987643080;;+34944050514
 opening_hours: ""
-website: "https://www.familiaonline.es/"
+website: https://www.familiaonline.es/

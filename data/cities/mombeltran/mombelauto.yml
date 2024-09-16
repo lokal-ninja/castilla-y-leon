@@ -1,11 +1,11 @@
 id: 474076962
-type: way
+type: node
 latitude: 40.26336
 longitude: -5.01494
 postcode: "05410"
 city: Mombeltrán
-street: "Calle Mayor"
-housenumber: 65
+street: Calle Mayor
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

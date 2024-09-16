@@ -1,11 +1,11 @@
 id: 1294925096
-type: way
+type: node
 latitude: 42.45882
 longitude: -5.88343
 postcode: "24286"
 city: Hospital de Órbigo
-street: "Carretera de León a Astorga"
-housenumber: 24
+street: Carretera de León a Astorga
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

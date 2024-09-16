@@ -1,11 +1,11 @@
 id: 826105698
-type: way
+type: node
 latitude: 41.62681
 longitude: -4.74815
 postcode: "47008"
 city: Valladolid
-street: "Camino Viejo de Simancas"
-housenumber: 14
+street: Camino Viejo de Simancas
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

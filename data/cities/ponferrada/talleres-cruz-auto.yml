@@ -1,11 +1,11 @@
 id: 1130604210
-type: way
+type: node
 latitude: 42.56635
 longitude: -6.63956
 postcode: "24404"
 city: Ponferrada
-street: "Avenida de Galicia"
-housenumber: 255
-phone: "+34 987 455 563"
+street: Avenida de Galicia
+housenumber: "255"
+phone: +34 987 455 563
 opening_hours: ""
-website: "https://www.cruz-auto.com/"
+website: https://www.cruz-auto.com/

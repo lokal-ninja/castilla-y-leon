@@ -4,8 +4,8 @@ latitude: 40.96939
 longitude: -5.66307
 postcode: "37002"
 city: Salamanca
-street: "Calle José Jáuregui"
-housenumber: 10
-phone: "+34 923 270 357"
-opening_hours: "Mo-Sa 10:00-14:00,17:00-20:30"
-website: "https://www.koseri.com/"
+street: Calle José Jáuregui
+housenumber: "10"
+phone: +34 923 270 357
+opening_hours: Mo-Sa 10:00-14:00,17:00-20:30
+website: https://www.koseri.com/

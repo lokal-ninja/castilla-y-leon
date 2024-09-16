@@ -4,8 +4,8 @@ latitude: 40.96908
 longitude: -5.65964
 postcode: "37004"
 city: Salamanca
-street: "Calle de María Auxiliadora"
-housenumber: 1
-phone: "+34 923 12 01 17"
-opening_hours: "Mo-Su 10:00-22:00"
-website: "https://www.ale-hop.net/"
+street: Calle de María Auxiliadora
+housenumber: "1"
+phone: +34 923 12 01 17
+opening_hours: Mo-Su 10:00-22:00
+website: https://www.ale-hop.net/

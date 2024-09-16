@@ -1,11 +1,11 @@
 id: 369649898
-type: way
+type: node
 latitude: 40.99081
 longitude: -5.64306
 postcode: "37184"
 city: Villares de la Reina
-street: "Carretera de Valladolid"
-housenumber: 33
-phone: "+34 923 220 204"
-opening_hours: "Mo-Sa 10:00-21:00"
-website: "http://www.bricoaguilar.es/"
+street: Carretera de Valladolid
+housenumber: "33"
+phone: +34 923 220 204
+opening_hours: Mo-Sa 10:00-21:00
+website: http://www.bricoaguilar.es/

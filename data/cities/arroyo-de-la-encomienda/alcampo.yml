@@ -1,11 +1,11 @@
 id: 761591395
-type: way
+type: node
 latitude: 41.62522
 longitude: -4.77751
 postcode: "47195"
 city: Arroyo de la Encomienda
-street: "Calle Carromajada"
-housenumber: 9
+street: Calle Carromajada
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

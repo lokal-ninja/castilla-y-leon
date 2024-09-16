@@ -4,8 +4,8 @@ latitude: 40.96617
 longitude: -5.66409
 postcode: ""
 city: Salamanca
-street: "Calle de Zamora"
-housenumber: 17
-phone: "+34 923 28 03 35"
-opening_hours: "Mo-Fr 09:30-14:30,15:30-19:30; Sa 09:00-15:00"
-website: "http://www.paco-charo.com/"
+street: Calle de Zamora
+housenumber: "17"
+phone: +34 923 28 03 35
+opening_hours: Mo-Fr 09:30-14:30,15:30-19:30; Sa 09:00-15:00
+website: http://www.paco-charo.com/

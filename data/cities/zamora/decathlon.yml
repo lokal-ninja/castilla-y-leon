@@ -1,11 +1,11 @@
 id: 413273854
-type: way
+type: node
 latitude: 41.52241
 longitude: -5.75717
 postcode: "49024"
 city: Zamora
-street: "Calle Siega"
-housenumber: 
+street: Calle Siega
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.decathlon.es"
+website: https://www.decathlon.es

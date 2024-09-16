@@ -1,11 +1,11 @@
 id: 361678386
-type: way
+type: node
 latitude: 40.93752
 longitude: -5.65472
 postcode: "37188"
 city: Carbajosa de la Sagrada
-street: "Calle Vertical 3ª"
-housenumber: 12
-phone: "+34 630 384 566"
+street: Calle Vertical 3ª
+housenumber: "12"
+phone: +34 630 384 566
 opening_hours: ""
 website: ""

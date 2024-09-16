@@ -1,11 +1,11 @@
 id: 1163335345
-type: way
+type: node
 latitude: 41.59073
 longitude: -4.60078
 postcode: "47320"
 city: Tudela de Duero
-street: "Avenida de Valladolid"
-housenumber: 136
-phone: "+34 983522789"
-opening_hours: "24/7"
-website: "http://www.tanatorio-elsalvador.es/tanatorio-el-salvador-tudela/"
+street: Avenida de Valladolid
+housenumber: "136"
+phone: +34 983522789
+opening_hours: 24/7
+website: http://www.tanatorio-elsalvador.es/tanatorio-el-salvador-tudela/

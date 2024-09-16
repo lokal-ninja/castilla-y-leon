@@ -1,11 +1,11 @@
 id: 740541831
-type: way
+type: node
 latitude: 41.50697
 longitude: -5.74639
 postcode: "49006"
 city: Zamora
-street: "Calle de Sancho IV"
-housenumber: 45
+street: Calle de Sancho IV
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

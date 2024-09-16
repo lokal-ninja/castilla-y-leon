@@ -4,8 +4,8 @@ latitude: 41.64708
 longitude: -4.71975
 postcode: "47004"
 city: Valladolid
-street: "Calle de San Luis"
-housenumber: 7
-phone: "+34 983290300"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-14:00"
-website: "https://www.olepeluqueros.es/"
+street: Calle de San Luis
+housenumber: "7"
+phone: +34 983290300
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:00-14:00
+website: https://www.olepeluqueros.es/

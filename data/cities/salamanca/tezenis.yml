@@ -4,8 +4,8 @@ latitude: 40.96721
 longitude: -5.66201
 postcode: "37002"
 city: Salamanca
-street: "Calle Toro"
-housenumber: 43
-phone: "+34 923492751"
-opening_hours: "Mo-Sa 10:00-21:00"
-website: "http://www.tezenis.it/es/"
+street: Calle Toro
+housenumber: "43"
+phone: +34 923492751
+opening_hours: Mo-Sa 10:00-21:00
+website: http://www.tezenis.it/es/

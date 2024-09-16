@@ -1,11 +1,11 @@
 id: 307402135
-type: way
+type: node
 latitude: 42.59447
 longitude: -6.7199
 postcode: "24540"
 city: Cacabelos
-street: "Avenida de la Constitución"
-housenumber: 106
-phone: "+34 987 546 150"
+street: Avenida de la Constitución
+housenumber: "106"
+phone: +34 987 546 150
 opening_hours: ""
-website: "http://www.vinosdelbierzo.com/"
+website: http://www.vinosdelbierzo.com/

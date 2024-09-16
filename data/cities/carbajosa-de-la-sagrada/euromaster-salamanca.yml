@@ -1,11 +1,11 @@
 id: 372160559
-type: way
+type: node
 latitude: 40.93771
 longitude: -5.65969
 postcode: "37118"
 city: Carbajosa de la Sagrada
-street: "Calle Vertical 8ª"
-housenumber: 11
+street: Calle Vertical 8ª
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:30,16:00-19:30; Sa 09:00-13:00"
-website: "https://centros.euromaster-neumaticos.es/7459-euromaster-salamanca-carbajosa-de-la-sagrada"
+opening_hours: Mo-Fr 09:00-13:30,16:00-19:30; Sa 09:00-13:00
+website: https://centros.euromaster-neumaticos.es/7459-euromaster-salamanca-carbajosa-de-la-sagrada

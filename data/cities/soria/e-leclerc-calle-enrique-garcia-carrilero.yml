@@ -1,11 +1,11 @@
 id: 1289595741
-type: way
+type: node
 latitude: 41.77014
 longitude: -2.4668
 postcode: "42004"
 city: Soria
-street: "Calle Enrique García Carrilero"
-housenumber: 5
-phone: "+34 975 12 11 17"
-opening_hours: "09h00 a 14h30 y 17h00 a 20h30"
+street: Calle Enrique García Carrilero
+housenumber: "5"
+phone: +34 975 12 11 17
+opening_hours: 09h00 a 14h30 y 17h00 a 20h30
 website: ""

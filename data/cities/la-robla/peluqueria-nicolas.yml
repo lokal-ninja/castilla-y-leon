@@ -1,11 +1,11 @@
 id: 226565510
-type: way
+type: node
 latitude: 42.80328
 longitude: -5.62826
 postcode: "24640"
 city: La Robla
-street: "Calle La Iglesia"
-housenumber: 11
-phone: "+34 987570425"
+street: Calle La Iglesia
+housenumber: "11"
+phone: +34 987570425
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 328553458
-type: way
+type: node
 latitude: 42.56356
 longitude: -6.60458
 postcode: ""
 city: Ponferrada
-street: "Avenida de Asturias"
-housenumber: 112
+street: Avenida de Asturias
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 680315882
-type: way
+type: node
 latitude: 40.59978
 longitude: -6.82316
 postcode: "37480"
 city: Fuentes de Oñoro
-street: "Calle Buen Alcalde"
-housenumber: 23
-phone: "+34 923473071"
+street: Calle Buen Alcalde
+housenumber: "23"
+phone: +34 923473071
 opening_hours: ""
 website: ""

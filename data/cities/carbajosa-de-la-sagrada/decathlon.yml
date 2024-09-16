@@ -1,11 +1,11 @@
 id: 59010514
-type: way
+type: node
 latitude: 40.94607
 longitude: -5.6414
 postcode: "37183"
 city: Carbajosa de la Sagrada
-street: "Avenida E. Leclerc"
-housenumber: 3
-phone: "+34 923 13 10 70"
-opening_hours: "Mo-Sa 10:00-22:00"
-website: "https://www.decathlon.es"
+street: Avenida E. Leclerc
+housenumber: "3"
+phone: +34 923 13 10 70
+opening_hours: Mo-Sa 10:00-22:00
+website: https://www.decathlon.es

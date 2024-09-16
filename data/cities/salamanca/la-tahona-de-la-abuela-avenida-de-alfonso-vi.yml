@@ -4,8 +4,8 @@ latitude: 40.97583
 longitude: -5.66077
 postcode: "37005"
 city: Salamanca
-street: "Avenida de Alfonso VI"
-housenumber: 15
-phone: "+34 923 24 24 23"
-opening_hours: "Mo-Su 09:00-15:30,17:00-21:00"
-website: "https://latahonadelaabuela.com/"
+street: Avenida de Alfonso VI
+housenumber: "15"
+phone: +34 923 24 24 23
+opening_hours: Mo-Su 09:00-15:30,17:00-21:00
+website: https://latahonadelaabuela.com/

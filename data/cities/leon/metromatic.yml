@@ -4,8 +4,8 @@ latitude: 42.59907
 longitude: -5.57846
 postcode: "24001"
 city: León
-street: "Calle Colón"
-housenumber: 17
-phone: "+34 689 676174"
-opening_hours: "Mo-Su 08:30-22:30"
-website: "https://metromatic.es/"
+street: Calle Colón
+housenumber: "17"
+phone: +34 689 676174
+opening_hours: Mo-Su 08:30-22:30
+website: https://metromatic.es/

@@ -4,8 +4,8 @@ latitude: 40.98221
 longitude: -5.66024
 postcode: "37005"
 city: Salamanca
-street: "Calle Conde de Orgaz"
-housenumber: 1
-phone: "+34 923 24 43 97"
-opening_hours: "09:00-14:00; 16:00-20:00"
-website: "https://www.artemiranda.es/"
+street: Calle Conde de Orgaz
+housenumber: "1"
+phone: +34 923 24 43 97
+opening_hours: 09:00-14:00; 16:00-20:00
+website: https://www.artemiranda.es/

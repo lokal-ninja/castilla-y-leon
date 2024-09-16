@@ -4,8 +4,8 @@ latitude: 40.94642
 longitude: -5.67107
 postcode: "37008"
 city: Salamanca
-street: "Calle Villar del Profeta"
-housenumber: 30
+street: Calle Villar del Profeta
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.lacoladaprimus.com/"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.lacoladaprimus.com/

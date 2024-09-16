@@ -4,8 +4,8 @@ latitude: 40.96895
 longitude: -5.66335
 postcode: "37002"
 city: Salamanca
-street: "Calle el Arco"
-housenumber: 2
-phone: "+34 923 26 85 10"
-opening_hours: "Mo-Fr 10:30-14:00,17:00-20:30; Sa 10:30-14:00,17:30-20:30"
-website: "https://www.teriayabar.com/es/16/17/Salamanca.html"
+street: Calle el Arco
+housenumber: "2"
+phone: +34 923 26 85 10
+opening_hours: Mo-Fr 10:30-14:00,17:00-20:30; Sa 10:30-14:00,17:30-20:30
+website: https://www.teriayabar.com/es/16/17/Salamanca.html

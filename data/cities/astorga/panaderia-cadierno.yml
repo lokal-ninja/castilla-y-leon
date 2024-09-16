@@ -1,11 +1,11 @@
 id: 1306178882
-type: way
+type: node
 latitude: 42.45619
 longitude: -6.06107
 postcode: "24700"
 city: Astorga
-street: "Avenida Madrid - La Coruña"
-housenumber: 160
+street: Avenida Madrid - La Coruña
+housenumber: "160"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 182252193
-type: way
+type: node
 latitude: 42.80176
 longitude: -5.62916
 postcode: "24640"
 city: La Robla
-street: "Calle Ramón y Cajal"
-housenumber: 18
-phone: "+34 678257681"
+street: Calle Ramón y Cajal
+housenumber: "18"
+phone: +34 678257681
 opening_hours: ""
 website: ""

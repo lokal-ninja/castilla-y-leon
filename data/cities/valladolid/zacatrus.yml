@@ -4,8 +4,8 @@ latitude: 41.64781
 longitude: -4.72752
 postcode: "47001"
 city: Valladolid
-street: "Calle de Marina de Escobar"
-housenumber: 6
+street: Calle de Marina de Escobar
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 10:30-14:30,17:00-21:00; PH closed"
-website: "https://zacatrus.es"
+opening_hours: Mo-Sa 10:30-14:30,17:00-21:00; PH closed
+website: https://zacatrus.es

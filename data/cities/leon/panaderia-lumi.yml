@@ -4,8 +4,8 @@ latitude: 42.59434
 longitude: -5.56593
 postcode: "24003"
 city: León
-street: "Calle Santa Ana"
-housenumber: 18
+street: Calle Santa Ana
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Su 09:00-15:00"
+opening_hours: Mo-Su 09:00-15:00
 website: ""

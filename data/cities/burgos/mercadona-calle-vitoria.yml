@@ -4,8 +4,8 @@ latitude: 42.34911
 longitude: -3.67618
 postcode: "09007"
 city: Burgos
-street: "Calle Vitoria"
-housenumber: 142
-phone: "+34 947 21 03 16"
-opening_hours: "Mo-Sa 09:00-21:30; Tu,Su off"
-website: "https://www.mercadona.es"
+street: Calle Vitoria
+housenumber: "142"
+phone: +34 947 21 03 16
+opening_hours: Mo-Sa 09:00-21:30; Tu,Su off
+website: https://www.mercadona.es
