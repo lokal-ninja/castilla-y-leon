@@ -1,5 +1,5 @@
 ---
-title: "Melquíades RIEGO"
+title: "Melquíades Riego"
 url: /zamora/melquiades-riego/
 shop: carnicero
 ---
