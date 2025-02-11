@@ -1,5 +1,5 @@
 ---
-title: "Supermercado Coviran"
+title: "Supermercado Covirán"
 url: /martiago/supermercado-coviran/
 shop: supermercado
 ---
