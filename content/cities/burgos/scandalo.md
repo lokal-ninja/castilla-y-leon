@@ -1,5 +1,5 @@
 ---
-title: "scandalo"
+title: "Scandalo"
 url: /burgos/scandalo/
 shop: ropa
 ---
