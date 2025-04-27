@@ -1,6 +1,6 @@
 ---
-title: Villacastin
+title: Villacastín
 url: /villacastin/
-latitude: 40.783
-longitude: -4.427
+latitude: 40.78
+longitude: -4.413
 ---
