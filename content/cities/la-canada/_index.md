@@ -1,6 +1,6 @@
 ---
 title: La Cañada
 url: /la-canada/
-latitude: 40.599
-longitude: -4.496
+latitude: 40.598
+longitude: -4.495
 ---
