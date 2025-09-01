@@ -1,6 +1,6 @@
 ---
 title: Segovia
 url: /segovia/
-latitude: 40.934
-longitude: -4.109
+latitude: 40.952
+longitude: -4.132
 ---
