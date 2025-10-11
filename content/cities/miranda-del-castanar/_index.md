@@ -1,6 +1,6 @@
 ---
 title: Miranda del Castañar
 url: /miranda-del-castanar/
-latitude: 40.485
-longitude: -6.001
+latitude: 40.486
+longitude: -6
 ---
