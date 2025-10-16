@@ -1,5 +1,5 @@
 ---
 title: "Tifer"
-url: /valladolid/tifer-calle-frambuesa/
+url: /valladolid/tifer-avenida-de-soria/
 shop: supermercado
 ---
