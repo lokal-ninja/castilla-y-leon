@@ -1,5 +1,5 @@
 ---
 title: "Dia"
-url: /arevalo/dia-calle-barrionuevo/
+url: /avila/dia-calle-enrique-larreta/
 shop: supermercado
 ---
