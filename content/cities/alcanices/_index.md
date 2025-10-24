@@ -1,6 +1,6 @@
 ---
 title: Alcañices
 url: /alcanices/
-latitude: 41.7
-longitude: -6.349
+latitude: 41.699
+longitude: -6.348
 ---
