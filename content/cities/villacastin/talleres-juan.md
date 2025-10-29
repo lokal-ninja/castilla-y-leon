@@ -1,5 +1,5 @@
 ---
 title: "Talleres Juan"
 url: /villacastin/talleres-juan/
-shop: general
+shop: reparación de automóviles
 ---
