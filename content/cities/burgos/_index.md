@@ -1,6 +1,6 @@
 ---
 title: Burgos
 url: /burgos/
-latitude: 42.348
-longitude: -3.699
+latitude: 42.333
+longitude: -3.7
 ---
