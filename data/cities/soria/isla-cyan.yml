@@ -7,5 +7,5 @@ city: Soria
 street: Calle San Benito
 housenumber: "20"
 phone: +34 633 35 75 58
-opening_hours: Mo-Su 10:00-14:00 17:00-21:00
+opening_hours: Mo-Su 10:00-14:00,17:00-21:00
 website: ""
