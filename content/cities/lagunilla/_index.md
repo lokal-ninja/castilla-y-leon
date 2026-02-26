@@ -1,6 +1,6 @@
 ---
 title: Lagunilla
 url: /lagunilla/
-latitude: 40.324
-longitude: -5.97
+latitude: 40.325
+longitude: -5.972
 ---

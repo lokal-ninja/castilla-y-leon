@@ -1,6 +1,6 @@
 ---
 title: Aldeamayor de San Martín
 url: /aldeamayor-de-san-martin/
-latitude: 41.514
-longitude: -4.637
+latitude: 41.512
+longitude: -4.641
 ---
