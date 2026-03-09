@@ -1,6 +1,6 @@
 ---
 title: Villalpando
 url: /villalpando/
-latitude: 41.867
-longitude: -5.417
+latitude: 41.866
+longitude: -5.413
 ---
