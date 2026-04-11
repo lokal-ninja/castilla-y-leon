@@ -1,5 +1,5 @@
 ---
-title: "Vortice tattoo & piercing"
+title: "Vórtice tattoo & piercing"
 url: /valladolid/vortice-tattoo-y-piercing/
 shop: tatuaje
 ---
