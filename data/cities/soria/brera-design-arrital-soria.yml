@@ -7,5 +7,5 @@ city: Soria
 street: Avenida de Valladolid
 housenumber: "9"
 phone: "+34975044140"
-opening_hours: Mo-Fr 10:00-13:45 17:00-20:00
+opening_hours: Mo-Fr 10:00-13:45,17:00-20:00
 website: https://breradesign.es
