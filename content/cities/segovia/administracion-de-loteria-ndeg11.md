@@ -1,5 +1,5 @@
 ---
-title: "Administración de lotería N°11"
+title: "Administración de lotería n°11"
 url: /segovia/administracion-de-loteria-ndeg11/
 shop: lotería
 ---
