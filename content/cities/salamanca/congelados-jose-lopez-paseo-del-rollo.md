@@ -1,5 +1,5 @@
 ---
 title: "Congelados José López"
-url: /salamanca/congelados-jose-lopez-calle-valencia/
+url: /salamanca/congelados-jose-lopez-paseo-del-rollo/
 shop: alimentos congelados
 ---
