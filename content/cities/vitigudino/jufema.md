@@ -1,5 +1,5 @@
 ---
 title: "JUFEMA"
 url: /vitigudino/jufema/
-shop: hardware
+shop: tienda de variedades
 ---

@@ -7,5 +7,6 @@ city: Valladolid
 street: Plaza del Salvador
 housenumber: "2"
 phone: +34 983349758
-opening_hours: Mo-Sa 10:30-14:00,18:00-20:30
+opening_hours: Mo-Fr 10:30-14:00, Mo-Fr 18:00-20:30, Sa 10:30-15:00, Sa 18:00-22:00,
+    Su 12:00-15:00
 website: https://mesetarios.com/
