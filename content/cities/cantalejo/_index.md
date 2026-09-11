@@ -2,5 +2,5 @@
 title: Cantalejo
 url: /cantalejo/
 latitude: 41.258
-longitude: -3.924
+longitude: -3.928
 ---

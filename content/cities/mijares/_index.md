@@ -1,6 +1,6 @@
 ---
 title: Mijares
 url: /mijares/
-latitude: 40.297
-longitude: -4.838
+latitude: 40.293
+longitude: -4.836
 ---
