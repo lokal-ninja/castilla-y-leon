@@ -1,6 +1,6 @@
 ---
 title: Venta de Baños
 url: /venta-de-banos/
-latitude: 41.92
-longitude: -4.492
+latitude: 41.919
+longitude: -4.497
 ---

@@ -1,6 +1,6 @@
 ---
 title: Villablino
 url: /villablino/
-latitude: 42.939
-longitude: -6.318
+latitude: 42.941
+longitude: -6.323
 ---
